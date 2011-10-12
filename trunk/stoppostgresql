@@ -1,7 +1,0 @@
-#!/bin/sh
-
-su postgres
-
-kill `/usr/install/pgsql/data/postmaster.pid`
-
-exit
