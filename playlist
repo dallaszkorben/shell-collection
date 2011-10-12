@@ -1,0 +1,44 @@
+#!/bin/sh
+
+#
+#Ez a script a prancs kiadasanak konyvtaraban minden hang es kepfajlt egymasutan elindit
+#az mplayer segitsegevel
+#
+
+KITER=mpg:mpeg:avi:flv:mp3:wmv
+strigkiter=""
+van=0
+file=~/tmp/proba.$$
+
+
+
+
+for kiter in `echo $KITER|tr ":" " "`; do 
+
+    if test $van -eq 0
+	then stringkiter=$kiter
+        else stringkiter=$stringkiter'\|'$kiter
+    fi
+    van=1
+done
+
+echo '\.\('`echo $stringkiter`'\)$' >$file
+
+
+before=""
+
+for aktual in `ls | tr " " "\n" | grep -if $file` ; do
+
+    #ha meg megy az elozo adas
+    while  [ -n $before ] && test `ps |grep "mplayer $before" |grep -vc "grep"` -ne 0; do
+	echo varakozok
+	sleep 1s	    
+    done
+    mplayer -fs $aktual
+#	 indul $aktual    
+    before=$aktual
+done
+rm $file
+
+
+

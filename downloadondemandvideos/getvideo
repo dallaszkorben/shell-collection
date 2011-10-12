@@ -1,0 +1,105 @@
+#!/bin/sh
+
+#nem adtam meg parameteret
+if [ $# -lt 1 ] ; then
+
+    echo "Program hasznalata: "$0" lista_file.";
+    exit;
+    
+else
+    
+    #ha nem letezik a megadott fajl
+    if [ ! -r $1 ] ; then
+    
+	echo "A megadott fajl :"$1" nem elerheto.";
+	exit;
+    fi
+
+fi
+
+datumfile=$1;
+sorszam=0;
+line=0;
+set url;
+set file;
+
+
+while read NEWLINE ; do
+
+    infile=`echo $NEWLINE|cut -f1 -d:`;
+    outfile=`echo $NEWLINE|cut -f2 -d:`;
+
+    #ha van erteke a fajloknak
+    if [ $infile -a $outfile ] ; then
+    
+    	let line++;    
+	
+	url[$line]=$infile;
+	file[$line]=$outfile;    
+
+    fi     
+
+done <$datumfile
+
+act=1;
+
+while [ $act -le $line ] ; do
+
+
+    infile=${url[$act]};
+    outfile=${file[$act]};
+
+
+
+    #fajlnevek kijelzese
+    echo -en "$act: $outfile:"
+    #szoveg hossza
+    textlength=`echo "$act: $outfile:" | wc -c`
+    screenwidth=100;
+    let movetoright=$screenwidth-$textlength-10;
+
+    #elmentem a kurzort
+    echo -en "\033[s";
+
+    #mozgas a megfelelo pozicioba jobbra
+    echo -en "\033["$movetoright"C";	    
+    echo -en "\033[1;32m [olvasas] \033[1;37m";
+
+
+    #ha nem letezik meg a file
+    if [ ! -r $outfile ] ; then
+
+
+	    mplayer -dumpstream -dumpfile $outfile mms://$infile 1>/dev/null 2>/dev/null;
+	
+	    #a keletkezo fajl hossza 
+	    size=`du -b ./$outfile 2>/dev/null|cut -f1 `;
+	    size=${size:-0};
+
+	    #nem sikerult a beolvasas
+	    if [ $size -lt 1000000 ]; then
+
+		#pozicio visszaallitasa
+		echo -en "\033[u";		
+		echo -en "\033["$movetoright"C";	    
+		echo -en "\033[1;31m [nemsikerult] \033[1;37m";
+
+
+		rm $outfile 2>/dev/null;
+	    fi
+
+    #ha letezik a fajl. Ide tartozik az ures fajl
+    else 
+
+	#pozicio visszaallitasa
+	echo -en "\033[u";		
+	echo -en "\033["$movetoright"C";	    
+	echo -en "\033[1;34m [mar letezik] \033[1;37m";
+
+    fi
+    
+    #kell a sordobas mert meg nem volt
+    echo; 
+    
+    let act++;
+done
