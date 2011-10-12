@@ -1,0 +1,31 @@
+#!/bin/sh
+ 
+#
+#Ez a script a parameterkent megadott parancssort hajtja vegre.
+#A program lefutasa eseten hangjelzest ad
+#
+
+van=0
+file=~/tmp/warn$$.wav
+
+
+
+parancs=""
+
+until test $# -eq 0; do    
+    parancs=$parancs$1" "
+    shift
+done
+
+$parancs
+
+#while   test `ps ax|grep "$parancs" |grep -vc "grep"` -ne 0; do
+#    echo varakozok
+#    sleep 1s	    
+#done
+
+echo "Vége a program futásának!" | espeak -v hu --stdin -w $file ; lame $file - 2>/dev/null |mpg123 -q -
+rm $file
+
+
+
