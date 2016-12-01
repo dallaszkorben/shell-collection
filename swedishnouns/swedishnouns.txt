@@ -1,0 +1,38 @@
+ett aksfat:askfatet:askfat:askfaten:hamutartó
+ett armband:armbandet:armband:armbanden:karkötő
+ett ben:benet:ben:benen:láb, lábszár
+ett berg:berget:berg:bergen:hegy
+ett block:blocket:block:blocken:tömb, jegyzettömb
+en blomma:blomman:blommor:blommorna:virág
+ett bord:bordet:bord:borden:asztal
+ett brev:brevet:brev:breven:levél
+ett glas:glaset:glas:glasen:üveg
+ett golv:golvet:golv:golven:padló
+ett hallon:hallonet:hallon:hallonen:málna
+ett hav:havet:hav:haven:tenger, óceán
+ett jobb:jobbet:job:jobben:munka
+en kvinna:kvinnan:kvinnor:kvinnorna:nő
+en lärare:läraren:lärare:lärarna:tanár
+en matta:mattan:mattor:mattorna:szőnyeg
+en mekaniker:mekanikern:mekaniker:mekanikerna:szerelő, műszerész
+ett namn:namnet:namn:namnen:név
+ett nummer:numret:nummer:numren:szám
+ett ord:ordet:ord:orden:szó
+ett paket:paketet:paket:paketen:csomag
+ett pass: passet:pass:passen:útlevél
+en pennvässare:pennvässaren:pennvässare:pennvässarna:ceruzahegyező
+ett problem:problemet:problem:problemen:probléma
+ett program:programmet:program:programen:program, terv
+ett päron:päronet:päron:päronen:körte
+ett samtal:samtalet:samtal:samtalen:megbeszélés, tárgyalás
+en sjöman:sjömannen:sjömän:sjömännen:tengerész
+ett språk:språket:språk:språken:nyelv
+ett tak:taket:tak:taken:tető, mennyezet
+en tavla:tavlan:tavlor:tavlorna:tábla, kép
+ett torg:torget:torg:torgen:tér
+ett träd:trädet:träd:träden:fa
+ett tåg:tåget:tåg:tågen:vonat
+en tröja:tröjan:tröjor:tröjorna:pulóver
+ett universitet:universitetet:universitet:universiteten:egyetem
+en väska:väskan:väskor:väskorna:táska
+ett år:året:år:åren:év
