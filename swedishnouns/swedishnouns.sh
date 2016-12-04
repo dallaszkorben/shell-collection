@@ -18,19 +18,43 @@ QUESTION_LANG="sv"
 SWEDISH_LAN="sv"
 HUNGARIAN_LAN="sv"
 
-lines=`cat $WORDFILE| wc -l`
-showcolumn=$1
-if [ "$showcolumn" == "1" ]; then
+
+if [ "$1" == "1" ]; then
+    showcolumn=3
     QUESTION_LANG="sv"
-elif [ "$showcolumn" == "2" ]; then
+elif [ "$1" == "2" ]; then
+    showcolumn=4
     QUESTION_LANG="sv"
-elif [ "$showcolumn" == "3" ]; then
+elif [ "$1" == "3" ]; then
+    showcolumn=5
     QUESTION_LANG="sv"
-elif [ "$showcolumn" == "4" ]; then
+elif [ "$1" == "4" ]; then
+    showcolumn=6
     QUESTION_LANG="sv"
 else
+    showcolumn=7
     QUESTION_LANG="hu"
 fi
+
+#lines=`cat $WORDFILE| wc -l`
+
+if [ "$2" == "1" ]; then
+    groupgrep="^1:"
+elif [ "$2" == "2" ]; then
+    groupgrep="^2:"
+elif [ "$2" == "3" ]; then
+    groupgrep="^3:"
+elif [ "$2" == "4" ]; then
+    groupgrep="^4:"
+elif [ "$2" == "5" ]; then
+    groupgrep="^5:"
+elif [ "$2" == "6" ]; then
+    groupgrep="^6:"
+else
+    groupgrep="^\d:"
+fi
+
+lines=`cat $WORDFILE| grep -P $groupgrep|wc -l`
 
 #clear the screen
 reset
@@ -38,7 +62,7 @@ reset
 while true; do
 
     actuallinenumber=$((RANDOM%$lines+1))
-    actualline=`cat $WORDFILE|sed $actuallinenumber'!d' `
+    actualline=`cat $WORDFILE|grep -P $groupgrep |sed $actuallinenumber'!d' `
 
     questionword=`echo $actualline | cut -d':' -f$showcolumn`
 
@@ -56,14 +80,14 @@ while true; do
     #Show the all line
     echo -n -e "\033[$RIGHTANSWER_YPOS;$RIGHTANSWER_XPOS$H"
     echo -n -e $GREEN
-    echo $actualline | cut -d':' -f1,2,3,4,5 --output-delimiter=$'    ' 
+    echo $actualline | cut -d':' -f1,2,3,4,5,6,7 --output-delimiter=$'    ' 
     echo -n -e $DEFAULT
     echo -n -e "\n"
     #Say the all line
-    echo $actualline | cut -d':' -f1 | espeak -v $SWEDISH_LAN
-    echo $actualline | cut -d':' -f2 | espeak -v $SWEDISH_LAN
-    echo $actualline | cut -d':' -f3 | espeak -v $SWEDISH_LAN
+    echo $actualline | cut -d':' -f2,3 --output-delimiter=$' ' | espeak -v $SWEDISH_LAN
     echo $actualline | cut -d':' -f4 | espeak -v $SWEDISH_LAN
+    echo $actualline | cut -d':' -f5 | espeak -v $SWEDISH_LAN
+    echo $actualline | cut -d':' -f6 | espeak -v $SWEDISH_LAN
 
     #waits for a keypress
     read  -n1 -r  key
