@@ -7,6 +7,7 @@
 4:ett:arbete:arbetet:arbeten:arbetena:munka
 2:en:arm:armen:armar:armarna:kéz
 5:ett:armband:armbandet:armband:armbanden:karkötő
+2:en:askkopp:askkoppen:aksoppar:askopparna:hamutartó
 2:en:avdelning:avdelningen:avdelningar:avdelningarna:divizió, bankfiók
 2:en:axel:axeln:axlar:axlarna:váll
 5:en:bagare:bagaren:bagare:bagarena:pék
@@ -28,6 +29,7 @@
 2:en:bro:bron:broar:broarna:híd
 5:en:bror:brodern:bröder:bröderna:fivér
 5:ett:brev:brevet:brev:breven:levél
+5:ett:bröd:brödet:bröd:bröden:kenyér
 2:en:bulle:bullen:bullar:bullarna:briós, zsömle
 2:en:buss:bussen:bussar:bussarna:busz
 5:en:bussförare:bussföraren:bussförare:bussförarna:buszsofför
@@ -49,6 +51,7 @@
 3:en:film:filmen:filmer:filmerna:film
 1:en:flaska:flakan:flaskor:flaskorna:palack
 1:en:flicka:flickan:flickor:flickorna:lány
+3:en:flod:floden:floder:floderna:folyó
 1:en:fluga:flugan:flugor:flugorna:légy
 3:en:fot:foten:fötter:fötterna:láb
 6:en:fotbollsspelare:fotbollsspelaren:fotbollsspelare:fotbollsspelarna:focista
@@ -61,6 +64,7 @@
 3:ett:fängelse:fängelsen:fängelser:fängelserna:börtön
 5:ett:fönster:fönstret:fönster:fönstren:ablak
 5:en:förman:förmannen:förmän:förmännen:főnök, művezető
+2:en:gaffel:gaffeln:gafflar:gafflarna:villa
 5:ett:glas:glaset:glas:glasen:üveg
 5:ett:golv:golvet:golv:golven:padló
 5:ett:hallon:hallonet:hallon:hallonen:málna
@@ -88,6 +92,7 @@
 1:en:karta:kartan:kartor:kartorna:térkép
 1:en:kassa:kassan:kassor:kassorna:kassza
 2:en:kasse:kassen:kassar:kassarna:szatyor
+1:en:kassörska:kassörskan:kassörskor:kassörskorna:pénztárosnő
 3:en:katt:katten:katter:katterna:macska
 3:en:kiosk:kiosken:kiosker:kioskerna:árusítóhely
 1:en:klocka:klockan:klockor:klockorna:óra
@@ -98,12 +103,15 @@
 4:ett:konto:kontot:konton:kontona:folyószámla, számla
 5:ett:kontor:kontoret:kontor:kontoren:iroda
 2:en:kopp:koppen:koppar:kopparna:csésze
+2:en:kran:kranen:kranar:kranarna:vízcsap
 1:en:krona:kronan:kronor:kronorna:korona
 2:en:kudde:kudden:kuddar:kuddarna:párna
+3:en:kusin:kusinen,kusiner,kusinerna:unokatestvér
 1:en:kvinna:kvinnan:kvinnor:kvinnorna:nő
 4:ett kvitto:kvittot:kvitton:kvittona:nyugta
 1:en:lampa:lampan:lampor:lamporna:lámpa
 3:ett:land:landen:länder:länderna:föld vidék
+1:en:lucka:luckan:luckor:luckorna:nyílás, rés, hiba
 1:en:låda:lådan:lådor:lådorna:láda
 6:en:lärare:läraren:lärare:lärarna:tanár
 3:en:madrass:madrassen:madrasser:madrasserna:matrac
@@ -183,6 +191,7 @@
 3:en:tabell:tabellen:tabeller:tabellerna:táblázat
 5:ett:tak:taket:tak:taken:tető, mennyezet
 3:en:tand:tanden:tänder:tänderna:fog
+2:en:tanke:tanken:tankar:tankarna:gondolat
 1:en:tavla:tavlan:tavlor:tavlorna:tábla, kép
 2:en:teater:teatern:teatrar:teatrarna:szinház
 5:en:tekniker:teknikern:tekniker:teknikus
@@ -191,6 +200,7 @@
 3:en:text:texten:texter:texterna:szöveg
 2:en:tidning:tidningen:tidningar:tidningarna:újság
 2:en:timme:timmen:timmar:timmarna:óra
+3:en:tjej:tjejen:tjejer:tjejerna:csaj
 5:ett:torg:torget:torg:torgen:tér
 2:en:triangel:triangeln:trianglar:trianglarna:háromszög
 5:ett:träd:trädet:träd:träden:fa
