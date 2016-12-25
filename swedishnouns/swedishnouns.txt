@@ -92,7 +92,7 @@
 3:en:ingenjör:ingenjören:ingenjörer:ingenjörerna:mérnök
 4:ett:intresse:intresset:intressen:intressena:érdeklődés
 1:en:jacka:jackan:jackor:jackorna:dzseki
-5:ett:jobb:jobbet:job:jobben:munka
+5:ett:jobb:jobbet:jobb:jobben:munka
 2:en:jordgubbe:jordgubben:jordgubbar:jordgubbarna:eper
 3:en:journalist:journalisten:journalister:journalisterna:újságíró
 2:en:kalender:kalendern:kalendrar:kalendrarna:naptár
@@ -150,7 +150,7 @@
 5:ett:paket:paketet:paket:paketen:csomag
 1:en:paprika:paprikan:paprikor:paprikorna:paprika
 3:en:park:parken:parker:parkerna:park
-5:ett:pass: passet:pass:passen:útlevél
+5:ett:pass:passet:pass:passen:útlevél
 6:en:pennvässare:pennvässaren:pennvässare:pennvässarna:ceruzahegyező
 4:ett:piano:pianot:pianon:pianona:zongora
 3:en:plånbok:plånboken:plånböcker:plånböckerna:pénztárca
@@ -158,7 +158,7 @@
 3:en:polis:polisen:poliser:poliserna:rendörség
 5:ett:pris:priset:pris:prisen:ár
 5:ett:problem:problemet:problem:problemen:probléma
-5:ett:program:programmet:program:programen:program, terv
+5:ett:program:programmet:program:programmen:program, terv
 2:en:påse:påsen:påsar:påsarna:zacskó
 0:en:pennvässare:pennvässaren:pennvässare:pennvässarna:ceruzahegyező
 2:en:pärm:pärmen:pärmar:pärmarna:irattartó

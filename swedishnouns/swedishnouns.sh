@@ -26,6 +26,27 @@ function thereWasWrongAnswer {
 
 }
 
+function noSelectedRow {
+    noSelectedRows=0
+    for i in `seq 1 $lines` ; do
+
+        if [ "${outcase[$i]]}" -eq 0 ] ; then
+	    let noSelectedRows+=1
+	fi
+    done
+	echo $noSelectedRows
+}
+
+function noAnsweredWell {
+    noAnsweredWells=0
+    for i in `seq 1 $lines` ; do
+        if [ "${outresult[$i]]}" -eq 0 ] ; then
+	    let noAnsweredWells+=1
+	fi
+    done
+	echo $noAnsweredWells
+}
+
 
 QUESTION_XPOS=10
 QUESTION_YPOS=10
@@ -35,11 +56,15 @@ RESULT_XPOS=10
 RESULT_YPOS=12
 RIGHTANSWER_XPOS=10
 RIGHTANSWER_YPOS=16
+STAT_XPOS=10
+STAT_YPOS=20
+
 H="H"
 
 GREEN="\033[40m\033[1;32m"
 RED="\033[40m\033[1;31m"
 BLUE="\e[34m"
+YELLOW="\e[33m"
 DEFAULT="\033[00m"
 
 WORDFILE="./swedishnouns.txt"
@@ -94,6 +119,11 @@ for i in `seq 1 $lines` ; do
     let outresult[$i]=0
     let outcase[$i]=0
 done
+
+rightanswers=0
+questions=0
+notquestioned=$lines
+
 
 while true; do
 
@@ -151,12 +181,14 @@ while true; do
 	echo -n -e $GREEN
 	echo OK
 	let outresult[$actuallinenumber]=1
+	let rightanswers+=1
     else
         echo -n -e $RED
 	echo Wrong
 	let outresult[$actuallinenumber]=0
     fi
     let outcase[$actuallinenumber]+=1
+    let questions+=1
 
     #
     #Show the right answer (all line)
@@ -180,6 +212,16 @@ while true; do
     echo -n "${SPACE_BETWEEN_FORMS}"
     echo -n $rightanswerTranslation
 
+    #statisztika
+    echo -n -e "\033[$STAT_YPOS;$STAT_XPOS$H"
+    echo -n -e $YELLOW
+    echo -n $rightanswers/
+    echo -n $questions/
+    echo -n $(noAnsweredWell)
+
+
+
+
     #echo $actualline | cut -d':' -f1,2,3,4,5,6,7 --output-delimiter=$'    ' 
     echo -n -e $DEFAULT
     echo -n -e "\n"
@@ -196,13 +238,16 @@ while true; do
     echo -n -e "\033[$QUESTION_YPOS;$QUESTION_XPOS$H"
     echo -n -e "\033[K" 
     
-    echo -n -e "\033[$ANSWER_YPOS;$ANSWER_XPOS$H"
+    echo -n -e "\033[$ANSWER_YPOS;0$H"
     echo -n -e "\033[K" 
 
     echo -n -e "\033[$RESULT_YPOS;$RESULT_XPOS$H"
     echo -n -e "\033[K" 
 
     echo -n -e "\033[$RIGHTANSWER_YPOS;$RIGHTANSWER_XPOS$H"
+    echo -n -e "\033[K" 
+
+    echo -n -e "\033[$STAT_YPOS;$STAT_XPOS$H"
     echo -n -e "\033[K" 
 done
 
