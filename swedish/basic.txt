@@ -1,0 +1,56 @@
+alltid-w-verb:visa, visar, visade, visat, visa:mutat
+alltid-w-verb:ställa, ställer, ställde, ställt, ställ:állít, helyez
+alltid-w-verb:lära, lär, lärde, lärt, lär:tanít
+alltid-w-verb:klä, klär, klädde, klätt, klä:öltöztet
+alltid-w-verb:ligga, ligger, låg, legat, ligg:fekszik, van, található
+alltid-w-verb:lägga, lägger, la, lagt, lägg:fektet, helyez, tesz, rak
+alltid-w-verb:säga, säger, sa, sagt, säg:mond, szól, beszél
+alltid-w-verb:veta, vet, visste, vetat, vet:tud
+alltid-w-verb:köra, kör, körde, kört, kör:vezet
+alltid-w-verb:gå, går, gick, gått, gå:megy jár
+alltid-w-verb:stå, står, stod, stått, stå:áll
+alltid-w-verb:se, ser, såg, sett, se:néz, lát
+alltid-w-verb:ta, tar, tog, tagit, ta:vesz, fog, megragad
+alltid-w-verb:ge, ger, gav, gett, ge:ad
+alltid-w-verb:sitta, sitter, satt, suttit, sitt:ül
+alltid-w-verb:sälja, säljer, sålde, sålt, sälj:elad
+alltid-w-verb:ha, har, hade, haft, ha:birtokol, bír, van
+alltid-w-verb:minnas, minns, mindes, mints, minns:emlékszik
+alltid-w-verb:sätta, sätter, satte, satt, sätt:ültet, leültet, helyzetbe hoz
+alltid-w-verb:be, ber, bad, bett, be:kér
+
+alltid-w-adjektiv:långsam:lassú -
+alltid-w-adjektiv:mjuk:puha -
+alltid-w-adjektiv:smutsig:piszkos, koszos -
+alltid-w-adjektiv:torr:száraz -
+alltid-w-adjektiv:hård:kemény, szilárd -
+alltid-w-adjektiv:våt:nedves, vizes -
+alltid-w-adjektiv:vass:éles, hegyes -
+alltid-w-adjektiv:slö:életlen, tompa -
+alltid-w-adjektiv:ren:tiszta, makulátlan -
+alltid-w-adjektiv:bättre:jobb -
+alltid-w-adjektiv:sämre:rosszabb -
+alltid-w-adjektiv:mindre:kisebb -
+alltid-w-adjektiv:större:nagyobb -
+alltid-w-adjektiv:färre:kevesebb -
+
+alltid-w-prepozicio:trots:ellenére, dacára
+alltid-w-prepozicio:före:előtt (időben)
+alltid-w-prepozicio:framför:előtt, elé (térben)
+
+alltid-w-hatarozo:ännu:még, még mindig, már
+alltid-w-hatarozo:äntligen:végre
+alltid-w-hatarozo:verkligen:valóban, igazán, tényleg
+alltid-w-hatarozo:förresten:egyébként, mellesleg
+
+alltid-w-kötőszó:eftersom:mivel, mert
+alltid-w-kötőszó:därför:ezért, emiatt
+
+alltid-e:vi måste skynda oss:sietnünk kell
+alltid-e:det verkar jobbigt:ez nehéznek látszik
+alltid-e:jag känner igen dig:én felismerlek téged
+alltid-e:jag håller inte med:én nem értek egyet
+alltid-e:har du lust att komma:van kedved jönni?
+alltid-e:komma fram till:megérkezni vh-va
+alltid-e:i så fall:ebben az esetben
+alltid-e:jag ser det fram emot:Én alig várom

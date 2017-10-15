@@ -1,0 +1,2126 @@
+adj-att-lit-attr:ett litet hus:egy kis ház[6~
+adj-att-lit-attr:det lilla huset:a kis ház
+adj-att-lit-attr:de små husen:a kis házak
+adj-att-lit-attr:små hus:kis házak
+adj-att-lit-pred:huset är litet:a ház kicsi
+adj-att-lit-pred:husen är små:a házak kicsik
+
+adj-en-lit-attr:en liten katt:egy kis cica
+adj-en-lit-attr:den lilla katten:a kis cica
+adj-en-lit-attr:de små katterna:a kis cicák
+adj-en-lit-attr:små katter:kis cicák
+adj-en-lit-pred:katten är liten:a cica kicsi
+adj-en-lit-pred:katterna är små:a cicák kicsik
+
+adj-ett-ann-attr:en annat hus:egy másik ház
+adj-ett-ann-attr:det andra huset:a másik ház
+adj-ett-ann-attr:de andra husen:a másik cicák
+adj-ett-ann-attr:andra hus:más házak
+adj-ett-ann-pred:huset är annat:a ház más
+adj-ett-ann-pred:husen är andra:a házak mások
+
+adj-en-ann-attr:en annan katt:egy másik cica
+adj-en-ann-attr:den andra katten:a másik cica
+adj-en-ann-attr:de andra katterna:a másik cicák
+adj-en-ann-attr:andra katter:más cicák
+adj-en-ann-pred:katten är annan:a cica más
+adj-en-ann-pred:katterna är andra:a cicák mások
+
+adj-ett-gam-attr:en gammalt hus:egy öreg ház
+adj-ett-gam-attr:det gamla huset:az öreg ház
+adj-ett-gam-attr:de gamla husen:az öreg házak
+adj-ett-gam-attr:gamla hus:öreg házak
+adj-ett-gam-pred:huset är gammalt:a ház öreg
+adj-ett-gam-pred:husen är gamla:a házak öregek
+
+adj-ett-gam-attr:en gammal katt:egy öreg cica
+adj-ett-gam-attr:den gamla katten:az öreg cica
+adj-ett-gam-attr:de gamla katterna:az öreg cicák
+adj-ett-gam-attr:gamla katter:öreg cicák
+adj-ett-gam-pred:katten är gammal:a cica öreg
+adj-ett-gam-pred:katterna är gamla:a cicák öregek
+
+
+
+alltid-w-verb:lämna,  lämnar, lämnade, lämnat, lämna:hagy, hátrahagy, elhagy, otthagy
+alltid-w-verb:klättra, klättrar, klättrade, klättrat, klättra:mászik
+alltid-w-verb:kasta, kastar, kastade, kastat, kasta:dob
+alltid-w-verb:skada, skadar, skadade, skadat, skada:sért, rongál, árt
+alltid-w-verb:ändra, ändrar, ändrade, ändrat, ändra:változtat, módosít
+alltid-w-verb:visa, visar, visade, visat, visa:mutat
+alltid-w-verb:fungera:működik -
+alltid-w-verb:fundera:elgondolkozik, töpreng -
+alltid-w-verb:försöka, försöker, försökte, försökt, försök:megpróbál
+alltid-w-verb:stöta, stöter, stötte, stött, stöt:lök
+alltid-w-verb:beställa, beställer, beställde, beställt, beställ:rendel, megrendel
+alltid-w-verb:anmäla, anmäler, anmälde, anmält, anmäl:bejelent, értesít
+alltid-w-verb:anställa, anställer, anställde, anställt, anställ:alkalmaz, felvesz
+alltid-w-verb:använda, använder, använde, använt, använd:használ, alkalmaz
+alltid-w-verb:ställa, ställer, ställde, ställt, ställ:állít, helyez
+alltid-w-verb:lära, lär, lärde, lärt, lär:tanít
+alltid-w-verb:klä, klär, klädde, klätt, klä:öltöztet
+alltid-w-verb:ligga, ligger, låg, legat, ligg:fekszik, van, található
+alltid-w-verb:lägga, lägger, la, lagt, lägg:fektet, helyez, tesz, rak
+alltid-w-verb:säga, säger, sa, sagt, säg:mond, szól, beszél
+alltid-w-verb:veta, vet, visste, vetat, vet:tud
+alltid-w-verb:köra, kör, körde, kört, kör:vezet
+alltid-w-verb:gå, går, gick, gått, gå:megy jár
+alltid-w-verb:stå, står, stod, stått, stå:áll
+alltid-w-verb:se, ser, såg, sett, se:néz, lát
+alltid-w-verb:bita, biter, bet, bitit, bit:harap
+alltid-w-verb:fara, far, for, farit, far:utazik, halad
+alltid-w-verb:slå, slår, slog, slagit, slå:üt
+alltid-w-verb:ta, tar, tog, tagit, ta:vesz, fog, megragad
+alltid-w-verb:le, ler, log, lett, le:mosolyog
+alltid-w-verb:ge, ger, gav, gett, ge:ad
+alltid-w-verb:falla, faller, föll, fallit, fall:esik, zuhan (ramla)
+alltid-w-verb:brinna, brinner, brann, brunnit, brinn:lángol, ég
+alltid-w-verb:sitta, sitter, satt, suttit, sitt:ül
+alltid-w-verb:sälja, säljer, sålde, sålt, sälj:elad
+alltid-w-verb:ha, har, hade, haft, ha:birtokol, bír, van
+alltid-w-verb:minnas, minns, mindes, mints, minns:emlékszik
+alltid-w-verb:sätta, sätter, satte, satt, sätt:ültet, leültet, helyzetbe hoz
+alltid-w-verb:räcka, räcker, räckte, räckt, räck:elég, elegendő
+alltid-w-verb:nå, når, nådde, nått, nå:elér
+alltid-w-verb:be, ber, bad, bett, be:kér
+alltid-w-verb:gömma, gömmer, gömde, gömt, göm:elrejt, eldug
+alltid-w-verb:flyga, flyger, flög, flugit, flyg:repül, száll
+alltid-w-verb:flytta, flyttar, flyttade, flyttat, flytta:mozdít, elmozdít, költöztet
+alltid-w-verb:byta, byter, bytte, bytt, byt:cserél
+alltid-w-verb:hålla, håller, höll, hållit, håll:tart, fog
+alltid-w-verb:ångra:megbánni -
+
+alltid-w-adjektiv:långsam:lassú -
+alltid-w-adjektiv:mjuk:puha -
+alltid-w-adjektiv:grund:sekély -
+alltid-w-adjektiv:pigg: élénk, friss, egészséges -
+alltid-w-adjektiv:smutsig:piszkos, koszos -
+alltid-w-adjektiv:torr:száraz -
+alltid-w-adjektiv:krokig:görbe, hajlott -
+alltid-w-adjektiv:hård:kemény, szilárd -
+alltid-w-adjektiv:våt:nedves, vizes -
+alltid-w-adjektiv:vass:éles, hegyes -
+alltid-w-adjektiv:slö:életlen, tompa -
+alltid-w-adjektiv:ren:tiszta, makulátlan -
+alltid-w-adjektiv:bättre:jobb -
+alltid-w-adjektiv:sämre:rosszabb -
+alltid-w-adjektiv:mindre:kisebb -
+alltid-w-adjektiv:större:nagyobb -
+alltid-w-adjektiv:färre:kevesebb -
+#alltid-w-adjektiv:sann, sant, sanna:igaz, valóságos (mn)
+
+alltid-w-prepozicio:trots:ellenére, dacára
+alltid-w-prepozicio:före:előtt (időben)
+alltid-w-prepozicio:framför:előtt, elé (térben)
+
+alltid-w-hatarozo:ännu:még, még mindig, már
+alltid-w-hatarozo:äntligen:végre
+alltid-w-hatarozo:verkligen:valóban, igazán, tényleg
+alltid-w-hatarozo:förresten:egyébként, mellesleg
+
+alltid-w-kötőszó:eftersom:mivel, mert
+alltid-w-kötőszó:därför:ezért, emiatt
+
+alltid-e:vi måste skynda oss:sietnünk kell
+alltid-e:han lovar på heder och samvete:ő megesküszik a becsületszavára
+alltid-e:det verkar jobbigt:ez nehéznek látszik
+alltid-e:jag känner igen dig:én felismerlek téged
+alltid-e:jag håller inte med:én nem értek egyet
+alltid-e:det vore bra om du kunde komma:az volna jó ha tudnál jönni
+alltid-e:jag har fått nog, jag orkar inte längre:elegem van, nem bírom tovább
+alltid-e:jag är ledsen att jag är sen:sajnálom, hogy én késtem (-förlåt)
+alltid-e:du får gärna ta av mina:nyugodtan vehetsz az egyémből (-att)
+alltid-e:har du lust att komma:van kedved jönni?
+alltid-e:det vimlar av turister på gatan:nyüzsögnek a turisták az utcán
+alltid-e:komma fram till:megérkezni vh-va
+alltid-e:i så fall:ebben az esetben
+alltid-e:människorna vet inte vad de skulle tycka:az emberek nem tudják mit gondoljanak
+alltid-e:det låter bra åtminstone på pappret:ez jól hangzik, legalábbis a papíron
+alltid-e:på grund av:vm következtében
+alltid-e:jag ser det fram emot:Én alig várom
+alltid-e:jag bor inte i sverige utan i norge:én nem svédországban élek hanem norvégiában
+
+
+
+karaktarsdrag:trist:szomorú, elszomorító, lehangoló, sivár, unalmas
+karaktarsdrag:tråkig:unalmas, fárasztó -
+karaktarsdrag:snäll:kedves, szíves, szívélyes, jóságos (rar) -
+karaktarsdrag:rar:kedves, édes, csinos, elragadó (snäll) -
+karaktarsdrag:hemsk:borzasztó, szörnyű, rettenetes, iszonyú, rémséges (fruktansvärd) -
+karaktarsdrag:fruktansvärd:félelmetes, rettenetes, borzasztó (hemsk) -
+karaktarsdrag:konstig:különös, furcsa, szokatlan (uderlig) -
+karaktarsdrag:underlig:különös, furcsa, csodálatos, hóbortos (konstig) -
+karaktarsdrag:stor:nagy, magas -
+karaktarsdrag:enorm:óriási, rendkívüli, hatalmas, roppant -
+karaktarsdrag:glad:vidám, víg, boldog, derűs, jókedvű (lycklig, lustig) -
+karaktarsdrag:lustig:vidám, víg, mókás (rolig, glad) -
+karaktarsdrag:lycklig:boldog (glad) -
+karaktarsdrag:optimistisk:optimista, derűlátó -
+karaktarsdrag:hoppfull:reményteljes, reménykeltő -
+karaktarsdrag:rolig:szórakoztató, mulatságos, vicces, mókás (lustig) -
+karaktarsdrag:snygg:tiszta, rendes, takaros -
+karaktarsdrag:stilig:jóvágású, jóképű, jól öltözött  -
+karaktarsdrag:klok:okos, értelmes, eszes (duktig) -
+karaktarsdrag:duktig:ügyes, tehetséges, okos (klok) -
+karaktarsdrag:orolig:aggódó, gondterhelt, nyugtalan (nervös) -
+karaktarsdrag:nervös:ideges, nyugtalan (orolig) -
+karaktarsdrag:galen:őrült, bolond, tébolyodott, hóbortos, eszeveszett, veszett (tokig) -
+karaktarsdrag:tokig:bolond, hóbortos, lökött (galen) -
+karaktarsdrag:svartsjuk:féltékeny -
+karaktarsdrag:sträng:szigorú -
+karaktarsdrag:fantasirik:élénk képzelőtehetségű -
+karaktarsdrag:blyg:félénk, szégyenlős -
+karaktarsdrag:lat, lat, lata:lusta
+karaktarsdrag:envis:makacs, csökönyös -
+karaktarsdrag:pålitlig:megbízható -
+karaktarsdrag:känslig:érzékeny, kényes
+karaktarsdrag1:okänslig:érzéketlen
+karaktarsdrag1:gräslig:iszonyatos
+karaktarsdrag1:klyftig:ravasz, okos
+karaktarsdrag1:tjusig:bűbájos, elragadó
+karaktarsdrag1:larvig:ostoba, hülye
+karaktarsdrag1:egendomlig:különös, furcsa
+karaktarsdrag1:livlig:élénk, eleven
+karaktarsdrag1:skön:remek
+karaktarsdrag1:farlig:veszélyes, veszedelmes
+karaktarsdrag1:smal:vékony, karcsú
+
+
+
+kläder:ett par byxor:egy nadrág
+kläder:en halsduk:sál
+kläder:en morgonrock:köntös
+kläder:ett par jeans:egy farmer
+kläder:en underkjol:alsó szoknya
+kläder:ett par långkalsonger:egy jégeralsó
+kläder:ett par strumpbyxor:egy harisnya
+kläder:en klänning:egy ruha
+kläder:en väst:egy mellény
+kläder:en regnrock:egy esőkabát
+kläder:en mössa:egy sapka
+kläder:en strumpa:egy zokni, harisnya
+kläder:en kalsong:egy férfi alsónadrág
+kläder:en skjorta:egy ing
+kläder:en handske:egy ötujjas kesztyű 
+kläder:en vante:egy egyujjas kesztyű 
+kläder:en stövel:egy csizma
+kläder:en säkerhetsnål:egy biztosítótű
+kläder:en synål:egy varrótű
+
+gronsaker:en rädisa:retek 
+gronsaker:en rödbeta:cékla
+gronsaker:en vindruva:szőlőszem
+gronsaker:ett körsbär:cseresznye
+gronsaker:ett kålhuvud:káposztafej
+gronsaker:en morot:sárgarépa
+gronsaker:en majskolv:kukoricacső
+gronsaker:ett hallon:málna
+gronsaker:en selleri:zeller
+gronsaker:en är:borsó, zöldborsó
+gronsaker:en blomkål:karfiol
+gronsaker:en potatis:krumpli
+gronsaker:en tomat:paradicsom
+gronsaker:en dill:kapor
+gronsaker:en persika:őszibarack
+gronsaker:ett fikon:füge
+gronsaker:en persilja:petrezselyem
+
+
+bostäder:en enplansvilla:egy emeletes ház -
+bostäder:ett tält:sátor -
+bostäder:en husvagn:lakókocsi -
+bostäder:ett höghus:toronyház -
+bostäder:ett slott:kastély -
+bostäder:en fyr:világítótorony -
+bostäder:en väderkvarn:szélmalom -
+bostäder:en herrgård:udvarház, kúria -
+bostäder:en husbåt:lakóhajó -
+bostäder:ett radhus:sorház -
+
+kropp:ett öga, ögat, ögon, ögonen:szem
+kropp:en hand, handen, händer, händerna:kéz, marok
+kropp:en mun, munnen, munnar, munnarna:száj 
+kropp:en tå, tån, tår, tårna:lábujj
+kropp:en fot, foten, fötter, fötterna:láb, lábfej
+kropp:en arm, armen, armar, armarna:kar
+kropp:ett öra, örat, öron, öronen:fül
+kropp:en näsa:orr -
+kropp:en rygg, ryggen, ryggar, ryggarna:hát
+kropp:ett finger, fingret, fingrar, fingrarna:ujj 
+kropp:ett huvud, huvudet, huvuden, huvudena:fej
+kropp:en hals, halsen, halsar, halsarna:nyak
+kropp:en axel, axeln, axlar, axlarna:váll
+kropp:ett lår:comb -
+kropp:ett knä, knät, knän, knäna:térd
+kropp:en vad, vaden, vader, vaderna:lábikra, vádli 
+kropp:ett ben:láb, lábszár -
+kropp:en tumme, tummen, tummar, tummarna:hüvelykujj
+kropp:ett pekfinger:mutatóujj -
+kropp:ett långfinger:középső ujj -
+kropp:ett ringfinger:gyűrűsujj -
+kropp:ett lillfinger:kisujj -
+kropp:en nagel, nageln, naglar, naglarna:köröm
+kropp:ett hår:haj, hajszál -
+kropp:en panna:homlok -
+kropp:en haka:áll -
+kropp:en kind, kinden, kinder, kinderna:arc (ansikte)
+kropp:ett ansikte, ansiktet, ansikten, ansiktena:arc, ábrázat (kind)
+kropp:en ögonfrans, ögonfransen, ögonfransar, ögonfransarna:szempilla
+kropp:ett ögonlock:szemhéj -
+kropp:ett ögonbryn:szemöldök -
+kropp:en tunga:nyelv -
+kropp:ett bröst, bröstet, bröst, brösten:mellkas, mell
+kropp:en navel, naveln, navlar, navlarna:köldök
+kropp:en mage, magen, magar, magarna:has 
+kropp:en armbåge, armbågen, armbågar, armbågarna:könyök
+kropp:en handled, handleden, handleder, handlederna:csukló 
+kropp:en häl, hälen, hälar, hälarna:sarok
+kropp:en fotsula:talp -
+kropp:en kropp, kroppen, kroppar, kropparna:test
+
+
+
+bil:en växelspak:sebességváltó kar
+bil:en handbroms:kézifék
+bil:ett handskfack:kesztyűtartó
+bil:en ratt:kormánykerék
+bil:en hastighetsmätare:sebességmérő
+bil:en bromspedal:fékpedál
+bil:en vindruta:szélvédő
+bil:en vindrutetorkare:ablaktörlő
+bil:ett däck:gumiabroncs
+bil:ett bilbälte:biztonsági öv
+bil:en nummerplåt:rendszámtábla
+bil:en motorhuv:motorháztető
+bil:en stötfångare:lökhárító
+bil:ett avgasrör:kipufogó
+bil:en strålkastare:fényszóró
+bil:en bagagelucka:csomagtartó
+bil:en körriktningsvisare:irányjelző
+bil:ett dörrhandtag:kilincs
+
+träd:ett blad:falevél
+träd:en björk:nyírfa
+träd:en ek:tölgyfa
+träd:en gran:lucfenyő
+träd:en tall:erdeifenyő
+träd:en pinje:mandulafenyő
+träd:en ask:kőrisfa
+träd:en bok:bükkfa
+träd:en pil:fűzfa
+
+
+
+kanduvissla-w-substantiv:en ordföljd:szórend -
+kanduvissla-w-substantiv:ett nötskal:dióhéj -
+kanduvissla-w-substantiv:en huvudsats:főmondat -
+kanduvissla-w-substantiv:ett subjekt:alany -
+kanduvissla-w-substantiv:ett verb:ige -
+kanduvissla-w-substantiv:ett objekt:tárgy -
+kanduvissla-w-substantiv:ett adverbial:határozó -
+kanduvissla-w-substantiv:en sats:mondat -
+kanduvissla-w-substantiv:en måltid:étkezés -
+kanduvissla-w-substantiv:en affisch:plakát, poszter -
+kanduvissla-w-substantiv:en gungbräda:mérleghinta -
+kanduvissla-w-substantiv:ett tag:fogás, megragadás -
+kanduvissla-w-substantiv:en skogsdunge:liget -
+kanduvissla-w-substantiv:ett kapell:kápolna -
+kanduvissla-w-substantiv:en begravningsbil:halottaskocsi -
+kanduvissla-w-substantiv:ett ålderdomshem:öregek otthona -
+kanduvissla-w-substantiv:en framtand:metszőfog -
+kanduvissla-w-substantiv:en käpp, käppen, käppar, käpparna:bot, pálca
+kanduvissla-w-substantiv:en tant:néni -
+kanduvissla-w-substantiv:en farbror:bácsi -
+kanduvissla-w-substantiv:en tesked, teskeden, teskedar, teskedarna:teáskanál
+kanduvissla-w-substantiv:en servett:szalvéta -
+kanduvissla-w-substantiv:ett hängsle:nadrágtartó -
+kanduvissla-w-substantiv:en knoge, knogen, knogar, knogarna:ujjízület, ujjperc
+kanduvissla-w-substantiv:en portmonnä:pénztárca -
+kanduvissla-w-substantiv:en ruta:négyszög, ablak -
+
+kanduvissla-w-verb:gunga:hintázik -
+kanduvissla-w-verb:kika:néz, kukucskál -
+kanduvissla-w-verb:kila:ékel, elsiet -
+kanduvissla-w-verb:glänsa, glänser, glänste, glänst, gläns:fénylik, ragyog, csillog
+kanduvissla-w-verb:klia:vakar -
+kanduvissla-w-verb:instämma:egyetért, helyesel -
+kanduvissla-w-verb:knapra:rágcsál, ropogtat, majszol -
+kanduvissla-w-verb:gripa, griper, grep, gripit, grip:megragad, megfog, megmarkol
+kanduvissla-w-verb:knacka:kopogtat -
+kanduvissla-w-verb:kravla:mászik, csúszik, kúszik -
+kanduvissla-w-verb:klappa:megvereget, megpaskol -
+kanduvissla-w-verb:ryta, ryter, röt, rutit, ryt:ordít, bőg, bömböl
+kanduvissla-w-verb:gräva, gräver, grävde, grävt, gräv:ás, kutat
+kanduvissla-w-verb:skutta:ugrál, szökdécsel -
+kanduvissla-w-verb:nypa, nyper, nöp, nypit, nyp:megcsíp
+kanduvissla-w-verb:rinna, rinner, rann, runnit, rinn:folyik, csordogál
+kanduvissla-w-verb:stryka, stryker, strök, strukit, stryk:megsimogat, végigsimít
+
+kanduvissla-w-adjektiv:smaklig:ízletes -
+kanduvissla-w-adjektiv:mysig:barátságos, hangulatos, kellemes -
+kanduvissla-w-adjektiv:blöt, blött, blöta:vizes, nedves
+kanduvissla-w-adjektiv:vaken, vaket, vakna:ébren lévő, éber
+kanduvissla-w-adjektiv:dammig, dammigt, dammiga:poros, régi, régimódi
+
+kanduvissla-w-nevmas:detsamma:ugyanez
+
+kanduvissla-w-hatarozo:möjligtvis:talán, esetleg, alkalmasint
+kanduvissla-w-hatarozo:småningom:lassanként, lassacskán
+kanduvissla-w-hatarozo:ändå:úgyis, mégis
+
+kanduvissla-w-prepozicio:nerför:le, lefelé
+
+kanduvissla-w-igeipraktikula:vilse:eltéved
+
+kanduvissla-e:nu skojar du va:most csak viccelsz, ugye?
+kanduvissla-e:jag vet var du kan få tag på en:én tudom hol tudsz szerezni egyet
+kanduvissla-e:det får du se i morgon:azt majd meglátod holnap
+kanduvissla-e:ser jag bra ut så här:jól nézek ki így?
+kanduvissla-e:en dörr som står på glänt:egy ajtó, ami félig nyitva van
+kanduvissla-e:jag har ångrat mig:meggondoltam magam (har)
+kanduvissla-e:han räcker fram blomman:ő átadja a virágot
+kanduvissla-e:han ropar stolt:ö kiabál buszkén
+kanduvissla-e:peta till:megbökni
+kanduvissla-e:om det är något särskilt:ha ez valami különleges
+kanduvissla-e:det gör inget:nem számít
+kanduvissla-e:i smyg:titokban, titkon
+kanduvissla-e:det är synd:kár
+kanduvissla-e:smaklig måltid:jóétvágyat
+
+
+
+
+
+narpappa-w-substantiv:ett världsallt, världsalltet:világegyetem - -
+narpappa-w-substantiv:en fläck, fläcken, fläckar, fläckarna:folt, pecsét
+narpappa-w-substantiv:en basker, baskern, baskrar, baskrarna:svájci sapka
+narpappa-w-substantiv:en stövel, stöveln, stövlar, stövlarna:csizma
+narpappa-w-substantiv:en grind, grinden, grindar, grindarna:kapu
+narpappa-w-substantiv:ett kliv:lépés -
+narpappa-w-substantiv:en ånga:gőz, pára -
+narpappa-w-substantiv:ett gräs:fű, pázsit, gyep -
+narpappa-w-substantiv:en äng, ängen, ängar, ängarna:rét, mező
+narpappa-w-substantiv:en kulle, kullen, kullar, kullarna:domb, halom
+narpappa-w-substantiv:ett dike:árok -
+narpappa-w-substantiv:en famn, famnen, famnar, famnarna:öl
+narpappa-w-substantiv:en svans, svansen, svansar, svansarna:farok
+narpappa-w-substantiv:ett dammkorn:porszem -
+narpappa-w-substantiv:ett grässtrå:fűszál -
+narpappa-w-substantiv:en sky, skyn, skyar, skyarna:ég
+narpappa-w-substantiv:en stjärna:csillag -
+narpappa-w-substantiv:en näsborre, näsborren, näsborrar, näsborrarna:orrlyuk
+
+narpappa-w-verb:föra, för, förde, fört, för:vezet, visz
+narpappa-w-verb:vissla:fütyül -
+narpappa-w-verb:sväva:lebeg, szálldos - (-vaja)
+narpappa-w-verb:flyta, flyter, flöt, flutit, flyt:úszik
+narpappa-w-verb:krypa, kryper, kröp, krupit, kryp:csúszik, mászik
+narpappa-w-verb:vaja:lebeg, libeg - (-sväva)
+narpappa-w-verb:stirra:bámul -
+narpappa-w-verb:bära, bär, bar, burit, bär:visz, hoz, hord
+narpappa-w-verb:stinka, stinker, stank, stunkit, stink:bűzlik, büdös
+
+narpappa-w-adjektiv:försiktig:óvatos, elővigyázatos -
+narpappa-w-adjektiv:häpen, häpet, häpna:meghökkent
+narpappa-w-adjektiv:högtidlig, högtidligt, högtidliga:ünnepélyes, ünnepi
+narpappa-w-adjektiv:slocknad, slocknat, slocknade:kialudt, kihunyt
+narpappa-w-adjektiv:dyster, dystert, dystra:lehangolt, búskomor
+narpappa-w-adjektiv:evig, evigt, eviga:örök
+
+narpappa-w-hatarozo:tillräckligt:eléggé, elég
+narpappa-w-hatarozo:jämt:folyton, állandóan
+narpappa-w-hatarozo:förut:azelőtt, korábban
+
+narpappa-w-nevmas:allihop:valamennyien, mindannyian
+
+narpappa-w-kotoszo:medan:míg, amíg, mialatt
+
+narpappa-e:nej inte alls:Nem, egyáltalán nem
+narpappa-e:ta på sig:magára venni, felölteni
+narpappa-e:ta av sig:levenni magáról
+narpappa-e:är vi framme snart:hamar megérkezünk?
+narpappa-e:han visslade så att det skulle bli lättare att gå:ő fütyült, hogy könnyebb legyen menni (så att)
+narpappa-e:flyta samman:egymásbafolyni
+narpappa-e:för jag ville inte verkar dum:mert nem akartam hülyének kinézni
+narpappa-e:jag tyckte att jag hade varit där förut:azt hittem, hogy én már voltam ott azelőtt
+narpappa-e:spärra upp:tágra nyitni
+
+
+
+
+tafastfabian-w-substantiv:ytterkläder, ytterkläderna:kabát, felsőruha - -
+tafastfabian-w-substantiv:ett knep:fortély, trükk -
+tafastfabian-w-substantiv:en vaktmästare: gondnok, karbantartó, jegyszedő -
+tafastfabian-w-substantiv:ett nöjesfält:vidámpark -
+tafastfabian-w-substantiv:en trumslagare:dobos -
+tafastfabian-w-substantiv:en motorcyklist:motoros -
+
+tafastfabian-w-verb:jämföra, jämför, jämförde, jämfört, jämför:összehasonlít, összevet
+tafastfabian-w-verb:heta, heter, hette, hetat, heta:nevezik, hívják
+tafastfabian-w-verb:hinna, hinner, hann, hunnit, hinn:ideje jut, eljut
+tafastfabian-w-verb:hålla, håller, höll, hållit, håll:tart, fog
+tafastfabian-w-verb:hoppa:ugrik, ugrál -
+tafastfabian-w-verb:dra, drar, drog, dragit, dra:húz, von
+tafastfabian-w-verb:försvinna, försvinner, försvann, försvunnit, försvinn:eltűnik
+tafastfabian-w-verb:ana, anar, anade, anat, ana:sejt, megsejt, gyanít, megérez
+tafastfabian-w-verb:smita, smiter, smet, smitit, smit:eloson, meglép, meglóg
+tafastfabian-w-verb:likna:hasonlít -
+tafastfabian-w-verb:skaffa:szerez, szert tesz -
+tafastfabian-w-verb:vimla:nyüzsög, hemzseg -
+
+tafastfabian-w-hatarozo:tillsammans:együtt, közösen
+tafastfabian-w-hatarozo:strax:rögtön, azonnal
+tafastfabian-w-hatarozo:nyss:éppen most, az imént
+
+tafastfabian-w-preposition:intill:mellett, -nál, -nél, -hoz, -ig
+
+tafastfabian-e:sitta instängd:bezárva űlni
+tafastfabian-e:pilla upp:felnyomni, benyomni
+tafastfabian-e:han längtade hem:ő vágyakozott haza
+tafastfabian-e:han hade redan hunnit gömma sig:neki már volt ideje elrejtőzni
+tafastfabian-e:han går med raska steg:ő fürge léptekkel megy
+tafastfabian-e:det är något misstänkt med den figuren:van valami gyanús abban az alakban
+tafastfabian-e:den här gången:ezúttal...
+tafastfabian-e:han gick alldeles nyss:ő épp az imént ment el
+tafastfabian-e:sitta kvar:űlve maradni
+tafastfabian-e:om han hade suttit kvar hade de aldrig hittat honom:ha ő ülve maradt volna, ők soha nem talalták volna meg
+tafastfabian-e:komma undan:elmenekülni, megmenekülni
+tafastfabian-e:och det kommer du nog också att göra:és ezt fogod valószínüleg te is csinálni
+tafastfabian-e:det spelar ingen roll:nem számít
+tafastfabian-e:när allt kommer omkring:végül, végeredményben
+tafastfabian-e:det vimlar av djur i djungeln:nyüzsögnek az állatok a dzsungelben
+
+
+
+
+
+olssons-w-substantiv:en råvara:nyersanyag -
+olssons-w-substantiv:en krydda:fűszer -
+olssons-w-substantiv:en kvarn, kvarnen, kvarnar, kvarnarna:malom
+olssons-w-substantiv:en smet, smeten, smeter, smeterna:pép, tészta, massza
+olssons-w-substantiv:väsen:felhajtás, hűhó -
+olssons-w-substantiv:en ficka:zseb -
+olssons-w-substantiv:en träslev, träsleven, träslevar, träslevarna:fakanál
+olssons-w-substantiv:en disktrasa:mosogatórongy -
+olssons-w-substantiv:en grytlapp, grytlappen, grytlappar, grytlapparna:edényfogó
+olssons-w-substantiv:en handske, handsken, handskar, handskarna:ötujjas kesztyű 
+olssons-w-substantiv:en krukväxt, krukväxten, krukväxter, krukväxterna:szobanövény
+olssons-w-substantiv:ett snusk, snusket:kosz, piszok - -
+olssons-w-substantiv:ett fusk, fusket:kontármunka, csalás - -
+olssons-w-substantiv:en vrå, vrån, vrår, vrårna:sarok, szeglet
+olssons-w-substantiv:ett rykte:hír, híresztelés, szóbeszéd -
+olssons-w-substantiv:en smed,  smeden, smeder, smederna:kovács 
+olssons-w-substantiv:ett örhänge:fülbevaló -
+olssons-w-substantiv:en präst, prästen, präster, prästerna:pap, lelkész
+olssons-w-substantiv:en kust, kusten, kuster, kusterna:tengerpart
+olssons-w-substantiv:ett samvete:lelkiismeret -
+
+olssons-w-verb:sköta, sköter, skötte, skött, sköt:kezel
+olssons-w-verb:rycka, rycker, ryckte, ryckt, ryck:ránt, cibál
+olssons-w-verb:rymma,  rymmer, rymde, rymt, rym:megszökik, elmenekül
+olssons-w-verb:tömma, tömmer, tömde, tömt, töm:ürít, kiürít
+olssons-w-verb:slänga:elhajít -
+olssons-w-verb:offra:feláldoz, áldoz -
+olssons-w-verb:samla:gyűjt, szed -
+olssons-w-verb:väsnas, väsnas, väsnades, väsnats, väsnas:zajong, lármázik
+olssons-w-verb:bry, bryr, brydde, brytt, bry:töri a fejét, foglalkozik
+olssons-w-verb:stoppa:töm, megtöm -
+
+olssons-w-adjektiv:berömd:híres, neves -
+olssons-w-adjektiv:läckraste:legízletesebb -
+olssons-w-adjektiv:vänlig:barátságos, szíves, szívélyes -
+olssons-w-adjektiv:färre:kevesebb
+olssons-w-adjektiv:sämre:rosszabb
+olssons-w-adjektiv:udda:páratlan -
+olssons-w-adjektiv:läcker, läckert, läckra:ízletes, finom
+olssons-w-adjektiv:förskräcklig:ijesztő, rettenetes -
+olssons-w-adjektiv:sparsam:takarékos -
+olssons-w-adjektiv:möraste:legpuhább, legporhanyósabb
+olssons-w-adjektiv:ädlaste:legnemesebb
+olssons-w-adjektiv:förtvivlad:kétségbeesett -
+
+olssons-w-hatarozo:alldeles:teljesen, egészen, tökéletesen
+olssons-w-hatarozo:till sist: végül, végre
+olssons-w-hatarozo:ordentlig:alaposan
+olssons-w-hatarozo:ändå:mégis, mégiscsak
+olssons-w-hatarozo:varenda, vartenda:mindegyik, minden egyes
+olssons-w-hatarozo:redan:már
+
+olssons-w-nevmas:alltihop:minden, mind, az egész együtt
+
+olssons-e:han får syn på det:ő meglátja ezt
+olssons-e:bäst att inte göra för mycket väsen av det hela:legjobb nem csinálni nagy felhajtást az egésznek
+olssons-e:sparade slant:megtakarított pénz
+olssons-e:vad som helst:akármit, bármit
+olssons-e:jag har fått nog, jag orkar inte längre:elegem van, nem bírom tovább
+olssons-e:få ihop:összegyűjteni, összeszedni
+olssons-e:en hel hög med saker:egy nagy kupac dolgot
+olssons-e:sprida sig:terjedni, elterjedni
+olssons-e:ge sig iväg:útnak indulni, felkerekedni
+olssons-e:pigga upp sig:felélénkíteni magát
+olssons-e:han har ett dåligt samvete:rossz lelkiismerete van
+
+
+
+
+
+pelleindjungeln-w-substantiv:ett virke, virket, virke, virken:faanyag, fűrészáru
+pelleindjungeln-w-substantiv:en rök, röken, rökar, rökarna:füst
+pelleindjungeln-w-substantiv:en himmel, himlen, himlar, himlarna:égbolt, mennybolt
+pelleindjungeln-w-substantiv:en massa:sokaság, tömeg -
+pelleindjungeln-w-substantiv:en bur, buren, burar, burarna:ketrec
+pelleindjungeln-w-substantiv:en fälla:csapda, kelepce -
+pelleindjungeln-w-substantiv:ett surr, surret:zümmögés, búgás - -
+pelleindjungeln-w-substantiv:en småbit, småbiten, småbitar, småbitarna:apró darab, kis darab
+pelleindjungeln-w-substantiv:en djurskötare:állatgondozó -
+pelleindjungeln-w-substantiv:en krok,  kroken, krokar, krokarna:horog
+pelleindjungeln-w-substantiv:en koja, kojan, kojor, kojorna:kalyiba, kunyhó
+pelleindjungeln-w-substantiv:ett lås:zár, lakat -
+pelleindjungeln-w-substantiv:ett äventyr:kaland -
+pelleindjungeln-w-substantiv:en bräda, brädan, brädor, brädorna:deszka
+
+pelleindjungeln-w-verb:smyga, smyger, smög, smugit, smyg:lopakodik, lopódzik, oson
+pelleindjungeln-w-verb:rasa:omlik -
+pelleindjungeln-w-verb:ramla:esik, zuhan (falla) -
+pelleindjungeln-w-verb:ropa:kiált, kiabál -
+pelleindjungeln-w-verb:synas, syns, syntes, synts:látszik, látszódik - - - -
+pelleindjungeln-w-verb:hamna:kerül, jut -
+pelleindjungeln-w-verb:locka:csalogat, csábít -
+pelleindjungeln-w-verb:eka:visszhangzik, zeng -
+pelleindjungeln-w-verb:slita, sliter, slet, slitit, slit:szaggat, szakít, tép
+pelleindjungeln-w-verb:upprepa:ismétel, megismétel -
+pelleindjungeln-w-verb:vråla:üvölt -
+pelleindjungeln-w-verb:verka:tűnik -
+pelleindjungeln-w-verb:sänka, sänker, sänkte, sänkt, sänk:leereszt, leenged
+pelleindjungeln-w-verb:fånga:elfog, megfog -
+
+pelleindjungeln-w-adjektiv:tråkig:bosszantó, kellemetlen - 
+pelleindjungeln-w-adjektiv:försiktig:óvatos, elővigyázatos -
+pelleindjungeln-w-adjektiv:tveksam:habozó, tétovázó -
+pelleindjungeln-w-adjektiv:slö, slött, slöa:tompa, erőtlen
+pelleindjungeln-w-adjektiv:färdig:kész -
+pelleindjungeln-w-adjektiv:bekymrad:aggódó, nyugtalan -
+pelleindjungeln-w-adjektiv:konstig:különös, furcsa, szokatlan (uderlig) -
+pelleindjungeln-w-adjektiv:stackars:szegény, szerencsétlen
+pelleindjungeln-w-adjektiv:förvånad:meglepett, meglepődött -
+
+pelleindjungeln-w-prepozicio:ovanför:felett, fölött, fölé
+
+pelleindjungeln-w-hatarozo:tyst:csendesen, nesztelenül
+pelleindjungeln-w-hatarozo:längesedan:réges-rég, régen
+pelleindjungeln-w-hatarozo:nere:lenn, lent, alul
+pelleindjungeln-w-hatarozo:genast:rögtön, azonnal
+pelleindjungeln-w-hatarozo:naturligtvis:természetesen
+pelleindjungeln-w-hatarozo:mindre:kisebb
+pelleindjungeln-w-hatarozo:förresten:egyébként, mellesleg
+
+
+pelleindjungeln-e:lite varstans:mindenütt, mindenfelé
+pelleindjungeln-e:jag känner igen dig:én felismerlek téged
+pelleindjungeln-e:jag håller inte med:én nem értek egyet
+pelleindjungeln-e:sätta igång:elkezdeni
+pelleindjungeln-e:det verkar jobbigt:ez nehéznek látszik
+pelleindjungeln-e:han lovar på heder och samvete:ő megesküszik a becsületszavára
+pelleindjungeln-e:det är klart:ez világos, egyértemű
+pelleindjungeln-e:det vore bra om du kunde komma:az volna jó ha tudnál jönni
+pelleindjungeln-e:det är bra om du kan komma:az jó ha te tudsz jönni
+pelleindjungeln-e:det går av sig självt:ez megy magától
+pelleindjungeln-e:på andra sidan sjön:a tó másik oldalán
+pelleindjungeln-e:han har hamnat i en fälla:ő csapdába esett
+pelleindjungeln-e:vi måste skynda oss:sietnünk kell
+pelleindjungeln-e:få upp:kinyitni, felnyitni
+pelleindjungeln-e:släppa av:kitenni, kirakni, letenni
+
+
+
+
+
+
+
+vitellohittar-w-substantiv:en repa:karcolás, horzsolás -
+vitellohittar-w-substantiv:en usling:hitvány alak, gazember -
+vitellohittar-w-substantiv:en skillnad:eltérés, különbség -
+vitellohittar-w-substantiv:en anledning:ok, indítóok, alap -
+vitellohittar-w-substantiv:en keps, kepsen, kepsar, kepsarna:baseballsapka
+vitellohittar-w-substantiv:en stege, stegen, stegar, stegarna:létra
+vitellohittar-w-substantiv:en ledning:vezeték -
+vitellohittar-w-substantiv:en måltid:étkezés -
+
+vitellohittar-w-verb:vissla:fütyül -
+vitellohittar-w-verb:nicka:bólint, bólogat -
+vitellohittar-w-verb:flina:vigyorog -
+vitellohittar-w-verb:tystna:elhallgat -
+vitellohittar-w-verb:fräsa, fräser, fräste, fräst, fräs:sziszeg, sistereg
+vitellohittar-w-verb:hålla, håller, höll, hållit, håll:tart, fog
+vitellohittar-w-verb:stirra:bámul -
+#vitellohittar-w-verb:blänga, blänger, blängde, blängt, bläng:bámul, rámered
+vitellohittar-w-verb:torka:töröl, megtöröl -
+vitellohittar-w-verb:harkla:harákol, krákog -
+vitellohittar-w-verb:vinka:int, integet -
+vitellohittar-w-verb:låta, låter, lät, låtit, låt:hangzik
+vitellohittar-w-verb:traska:baktat, bandukol -
+vitellohittar-w-verb:släppa:elenged, kienged, elereszt -
+
+vitellohittar-w-adjektiv:enda:egyetlen, egyedüli
+vitellohittar-w-adjektiv:främmande:idegen -
+vitellohittar-w-adjektiv:blank:csillogó -
+vitellohittar-w-adjektiv:dum, dumt, dumma:ostoba, hülye, buta
+vitellohittar-w-adjektiv:knäpp:bolond, őrült, dilis -
+vitellohittar-w-adjektiv:trasig: elromlott, rossz -
+vitellohittar-w-adjektiv:riktig:valódi, igazi -
+vitellohittar-w-adjektiv:smaklig:ízletes, jóízű -
+vitellohittar-w-adjektiv:rimlig:elfogadható, hihető, valószínű -
+
+vitellohittar-w-hatararozo:störande:bántó, zavaró
+vitellohittar-w-hatararozo:nämligen:ugyanis, tudniillik
+vitellohittar-w-hatarozo:skinande:fénylően
+vitellohittar-w-hatarozo:samtidigt:egyidejűleg, ugyanakkor
+vitellohittar-w-hatarozo:svävande:bizonytalanul
+vitellohittar-w-hatarozo:gott om:bőven, bőségesen
+vitellohittar-w-hatarozo:alls:egyáltalán
+
+
+vitellohittar-w-nevmas:somlig:némely, egyes -
+
+vitellohittar-w-interakcio:suck:jaj, ó, óh
+
+
+vitellohittar-w-prep:framför:előtt, elé (térben)
+vitellohittar-w-prep:före:előtt, elé (időben)
+vitellohittar-w-prep:bredvid:mellett, mellé
+vitellohittar-w-prep:utmed:mentén, mellett
+vitellohittar-w-prep:intill:mellett
+vitellohittar-w-prep:bland:között, közé
+vitellohittar-w-prep:trots:ellenére, dacára
+vitellohittar-w-prep:utav:közül, -ból,
+
+
+vitellohittar-e:vägg i vägg:közvetlen szomszéd
+vitellohittar-e:rätt och slätt:egész egyszerűen
+vitellohittar-e:i alla fall:mégis, mindenesetre, legalább
+vitellohittar-e:somliga av dem:néhány közülök
+vitellohittar-e:titt som tätt:folyton
+vitellohittar-e:lite varstans:mindenütt, mindenfelé
+vitellohittar-e:inte det minsta:egyáltalán nem
+vitellohittar-e:riven ost:reszelt sajt
+vitellohittar-e:desto större anledning att:annál több ok hogy
+vitellohittar-e:det är inte alls så dum:ez egyáltalán nem annyira hülyeség
+vitellohittar-e:han får syn på det:ő meglátja ezt
+vitellohittar-e:en superläcker skinande bil:egy szuper fénylő autó
+vitellohittar-e:känna efter: utánagondolni, megfigyelni
+vitellohittar-e:fälla ihop:összecsuk, összehajt
+vitellohittar-e:han hade råd att köpa det:ő megengedhette magának, hogy vegyen azt
+vitellohittar-e:smaklig måltid:jó étvágyat
+vitellohittar-e:dela ut:kioszt, szétoszt
+vitellohittar-e:på nytt:újra, újból, ismét, megint
+
+
+castor-w-substantiv:en verkstad:műhely, szerviz, üzem, gyár -
+castor-w-substantiv:en hyvelbänk:gyalupad, munkapad -
+castor-w-substantiv:en ritning:rajz, tervrajz -
+castor-w-substantiv:en vinkelhake, vinkelhaken, vinkelhakar, vinkelhakarna:derékszögű vonalzó
+castor-w-substantiv:en tumstock, tumstocken, tumstockar, tumstockarna:colstok
+castor-w-substantiv:en planka:deszka -
+castor-w-substantiv:en fogsvans, ogsvansen, fogsvansar, fogsvansarna:rókafarkú fűrész
+castor-w-substantiv:en form, formen, former, formerna:alak, forma
+
+castor-w-verb:mäta, mäter, mätte, mätt, mät:mér, megmér, lemér
+castor-w-verb:rita:rajzol -
+
+castor-w-adjektiv:rörig, rörigt, röriga:zavaros, zűrös, kusza
+castor-w-adjektiv:lagom:megfelelő, kellő, illő -
+
+castor-w-hatarozo:äntligen:végre
+castor-w-hatarozo:noga:gondosan, alaposan
+castor-w-hatarozo:till sist: végül, végre
+
+castor-e:sätta igång:elkezd
+castor-e:till sist: végül, végre
+
+
+pellochfrasse-w-substantiv:ett skepp:hajó (1)
+pellochfrasse-w-substantiv:ett varv:hajógyár, hajójavító műhely (1)
+pellochfrasse-w-substantiv:en storebror:báty, idősebb fivér (1)
+pellochfrasse-w-substantiv:en råtta:patkány (1)
+pellochfrasse-w-substantiv:en skål, skålen, skålar, skålarna:tál, csésze, serleg, kupa
+pellochfrasse-w-substantiv:ett odjur:szörny, szörnyeteg, bestia (1)
+pellochfrasse-w-substantiv:en gris, grisen, grisar, grisarna:disznó, sertés
+pellochfrasse-w-substantiv:en deg, degen, degar, degarna:tészta
+pellochfrasse-w-substantiv:en grävling:borz (1)
+pellochfrasse-w-substantiv:en burk, burken, burkar, burkarna:tégely, konzervdoboz
+pellochfrasse-w-substantiv:ett elände:nyomor (1)
+pellochfrasse-w-substantiv:ett mos:püré (1)
+
+pellochfrasse-w-verb:hålla, håller, höll, hållit, håll:tart, fog, megfog
+pellochfrasse-w-verb:ana, anar, anade, anat, ana:sejt, megsejt, gyanít, megérez
+pellochfrasse-w-verb:skvallra, skvallrar, skvallrade, skvallrat, skvallra:pletykál, árulkodik
+pellochfrasse-w-verb:erkänna, erkänner, erkände, erkänt, erkänn:elismer, beismer, bevall
+pellochfrasse-w-verb:kissa:pisil (1)
+pellochfrasse-w-verb:ryta, ryter, röt, rutit, ryt:ordít, bőg, bömböl, üvölt
+pellochfrasse-w-verb:snaska:nassol (1)
+pellochfrasse-w-verb:förklara:magyaráz (1)
+pellochfrasse-w-verb:hamna:kerül, jut, kiköt (1)
+pellochfrasse-w-verb:knåda:dagaszt (1)
+pellochfrasse-w-verb:jäsa, jäser, jäste, jäst, jäs:megkel
+pellochfrasse-w-verb:stöna:nyög (1)
+pellochfrasse-w-verb:damma:porzik (1)
+pellochfrasse-w-verb:städa:takarít (1)
+pellochfrasse-w-verb:ändra:helyesbít (1)
+
+pellochfrasse-w-adjektiv:möjlig, möjligt, möjliga:lehetséges, lehető
+pellochfrasse-w-adjektiv:konstig, konstigt, konstiga:különös, furcsa, szokatlan (uderlig)
+pellochfrasse-w-adjektiv:misstänksam, misstänksamt, misstänksamma:gyanakvó, bizalmatlan
+pellochfrasse-w-adjektiv:rumsren, rumsrent, rumsrena:szobatiszta
+pellochfrasse-w-adjektiv:kvick, kvickt, kvicka:gyors, élénk, eleven, fürge
+pellochfrasse-w-adjektiv:hemlig, hemligt, hemliga:titkos
+pellochfrasse-w-adjektiv:annan, annat, andra:más, további
+pellochfrasse-w-adjektiv:riktig, riktigt, riktiga:valódi, igazi
+pellochfrasse-w-adjektiv:knäpp, knäppt, knäppa:bolond, őrült, dilis
+
+pellochfrasse-w-hatarozo:inne:benn, bent, belül
+pellochfrasse-w-hatarozo:alldeles:teljesen, egészen, tökéletesen
+pellochfrasse-w-hatarozo:fort:gyorsan, sebesen
+pellochfrasse-w-hatarozo:nog:elég, eléggé, valószínüleg
+
+pellochfrasse-e:hålla på att:éppen folytat, éppen csinálni, azon lenni
+pellochfrasse-e:vad håller du på med?:te meg mit csinálsz? min vagy?
+pellochfrasse-e:han får syn på det:ő meglátja ezt
+pellochfrasse-e:här inne:itt bent
+pellochfrasse-e:vad är det som har hänt?:mi az ami történt?
+pellochfrasse-e:han aldrig kunde låta bli att skvallra:ő soha nem tudta megállni, hogy árulkodjon
+pellochfrasse-e:det är därför:ez az amiért
+pellochfrasse-e:fortare än kvickt:gyorsabban mint a szél
+pellochfrasse-e:ha bråttom:sietni
+pellochfrasse-e:göra sig av med:megszabadulni, túladni
+pellochfrasse-e:ta emot:fogadni, üdvözölni
+pellochfrasse-e:ska du se:majd meglátod
+pellochfrasse-e:det ordnar sig:majd elrendeződik
+pellochfrasse-e:du är med i en teveprogram:te részt veszel egy tévéműsorban
+pellochfrasse-e:vad är det för någonting?:mire való ez a dolog?
+pellochfrasse-e:se upp allihop för det här kan sluta illa:készüljön mindenki hogy ez itt rosszúl végződhet
+pellochfrasse-e:dyka upp:felbukkanni
+pellochfrasse-e:så här:így
+pellochfrasse-e:jag kommer nog på nånting:én valószínüleg csinálok valamit
+pellochfrasse-e:vad ska du jobba med?:mi lesz a munkád? (mivel fogsz foglalkozni)
+pellochfrasse-e:det blir jobbigt att:az fáradságos, hogy...
+pellochfrasse-e:det kommer att löna sig:ez megéri, ez megtérül
+
+
+
+
+malvin-w-substantiv:en utflykt, utflykten, utflykter, utflykterna:kirándulás
+malvin-w-substantiv:en grabb, grabben, grabbar, grabbarna: srác, fiú, fickó
+malvin-w-substantiv:en proviant, provianten:eleség, elemózsia (2)
+malvin-w-substantiv:en tant, tanten, tanter, tanterna:néni
+malvin-w-substantiv:en stig, stigen, stigar, stigarna:ösvény, gyalogút
+malvin-w-substantiv:en ficklampa:zseblámpa (1)
+malvin-w-substantiv:en uggla:bagoly (1)
+malvin-w-substantiv:en buske, busken, buskar, buskarna:bokor, cserje 
+malvin-w-substantiv:en räv, räven, rävar, rävarna:róka
+malvin-w-substantiv:en bäck, bäcken, bäckar, bäckarna:patak, csermely
+malvin-w-substantiv:ett staket, staketet, staket, staketen:kerítés
+malvin-w-substantiv:ett värmeljus:mécses (1)
+malvin-w-substantiv:en fällkniv, fällkniven, fällknivar, fällknivarna:bicska
+malvin-w-substantiv:soptunna:hulladékgyűjtő, szemetes (1)
+malvin-w-substantiv:en svans, svansen, svansar, svansarna:farok
+malvin-w-substantiv:en grävling:borz (1)
+malvin-w-substantiv:en brödskiva:kenyérszelet (1)
+malvin-w-substantiv:en rumpa:ülep, fenék (1)
+malvin-w-substantiv:en snår, snåret, snår, snåren:cserjés, bozót 
+
+malvin-w-verb:vandra, vandrar, vandrade, vandrat, vandra:vándorol, járkál, gyalogol, túrázik
+malvin-w-verb:vråla, vrålar, vrålade, vrålat, vråla:üvölt, ordít, bőg
+malvin-w-verb:tjuta, tjuter, tjöt, tjutit, tjut:üvölt, vonít, süvít
+malvin-w-verb:viska, viskar, viskade, viskat, viska:suttog, súg, sugdos
+malvin-w-verb:ropa, ropar, ropade, ropat, ropa:kiált, kiabál
+malvin-w-verb:prassla, prasslar, prasslade, prasslat, prassla:zizeg, zörög
+malvin-w-verb:porla, porlar, porlade, porlat, porla:csörgedezik, csobog
+malvin-w-verb:smyga, smyger, smög, smugit, smyg:lopakodik, lopódzik, oson
+malvin-w-verb:rapa, rapar, rapade, rapat, rapa:böfög
+malvin-w-verb:vakta, vaktar, vaktade, vaktat, vakta:őriz, vigyáz
+malvin-w-verb:somna, somnar, somnade, somnat, somna:elalszik, elszunnyad
+malvin-w-verb:gäspa, gäspar, gäspade, gäspat, gäspa:ásít
+malvin-w-verb:kravla, kravlar, kravlade, kravlat, kravla:mászik, csúszik, kúszik
+malvin-w-verb:välta, välter, välte, vält, vält:felborul, felfordul, feldől
+malvin-w-verb:tända, tänder, tände, tänt, tänd:meggyújt
+malvin-w-verb:krafsa:kapar, vakar (1)
+malvin-w-verb:försvinna, försvinner, försvann, försvunnit, försvinn:eltűnik
+malvin-w-verb:skrapa:kapar (1)
+malvin-w-verb:samla:gyűjt, szed (1)
+malvin-w-verb:skratta:nevet (1)
+malvin-w-verb:klättra:mászik, kúszik (1)
+
+malvin-w-adjektiv:trång, trångt, trånga:szűk, keskeny
+malvin-w-adjektiv:ful, fult, fula:csúnya, ronda
+malvin-w-adjektiv:försiktig, försiktigt, försiktiga:óvatos, elővigyázatos
+
+malvin-w-hatarozo:ordentligt:alaposan, rendesen
+malvin-w-hatarozo:tyst:csendesen, csendben, halkan
+malvin-w-hatarozo:nog:elég, eléggé, valószínüleg
+malvin-w-hatarozo:lagom:éppen eléggé, éppen megfelelően
+
+malvin-e:på en gång:azonnal, rögtön
+malvin-e:vad får det lov att vara?:mit parancsol?
+malvin-e:syns till:mutatkozik, megjelenik
+malvin-e:i så fall:ebben az esetben
+malvin-e:krypa ner:bemászik, bekúszik
+malvin-e:strunt i det:felejtsd el, ne foglalkozz vele
+malvin-e:inte heller:szintén nem
+malvin-e:flyger upp:felpattanni
+malvin-e:vad är detta?:mi ez?
+malvin-e:krångla sig ut:kivergődni, kikecmeregni
+malvin-e:vaggar iväg:eldöcögni, elbillegni
+malvin-e:det här är helt galet:ez őrület
+
+
+
+gronsakbok-w-substantiv:en rödbeta:cékla (1)
+gronsakbok-w-substantiv:en skylt, skylten, skyltar, skyltarna:tábla, cégtábla, névtábla
+gronsakbok-w-substantiv:en rad, raden, rader, raderna:sor
+gronsakbok-w-substantiv:ett blad, bladet, blad, bladen:levél, falevél
+gronsakbok-w-substantiv:en kastrull, kastrullen, kastruller, kastrullerna:fazék, lábas
+gronsakbok-w-substantiv:en rädisa:retek (1)
+gronsakbok-w-substantiv:en ärt, ärten, ärter, ärterna:borsó, zöldborsó
+gronsakbok-w-substantiv:en blomkål, blomkålen:karfiol (2)
+gronsakbok-w-substantiv:en potatis, potatisen, potatisar, potatisarna:krumpli
+gronsakbok-w-substantiv:en tomat, tomaten, tomater, tomaterna:paradicsom
+gronsakbok-w-substantiv:en morot, moroten, morötter, morötterna:sárgarépa
+gronsakbok-w-substantiv:ett frö, fröet, frön, fröna:mag, vetőmag
+gronsakbok-w-substantiv:en igelkott, igelkotten, igelkottar, igelkottarna:sün
+gronsakbok-w-substantiv:en snigel, snigeln, sniglar, sniglarna:csiga
+gronsakbok-w-substantiv:en hemlighet, hemligheten, hemligheter, hemligheterna:titok
+gronsakbok-w-substantiv:en tår, tåren, tårar, tårarna:könny, könnycsepp
+gronsakbok-w-substantiv:en trasa, trasan, trasor, trasorna:rongy, cafat, törlőrongy
+gronsakbok-w-substantiv:en spann, spannen, spannar, spannarna:vödör, dézsa
+gronsakbok-w-substantiv:en dill, dillen:kapor (2)
+gronsakbok-w-substantiv:ett skafferi, skafferiet, skafferier, skafferierna:kamra, éléskamra
+gronsakbok-w-substantiv:en gryta, grytan, grytor, grytorna:fazék, bogrács, üst
+gronsakbok-w-substantiv:ett slag, slaget, slag, slagen:fajta, típus, féle (sort)
+gronsakbok-w-substantiv:en sort, sorten, sorter, sorterna:fajta, féleség (slag)
+gronsakbok-w-substantiv:en sked, skeden, skedar, skedarna:kanál
+gronsakbok-w-substantiv:en korg, korgen, korgar, korgarna:kosár
+gronsakbok-w-substantiv:en vrå, vrån, vrår, vrårna:sarok, szeglet, zug
+gronsakbok-w-substantiv:en mask, masken, maskar, maskarna:féreg, kukac, giliszta
+gronsakbok-w-substantiv:en spik, spiken, spikar, spikarna:szög
+gronsakbok-w-substantiv:en älskling, älsklingen, älsklingar, älsklingarna:valaki kedvese, szerelme
+gronsakbok-w-substantiv:en doft, doften, dofter, dofterna:illat, szag
+
+
+gronsakbok-w-verb:leta:kutat, keres, keresgél (1)
+gronsakbok-w-verb:växa, växer, växte, växt, väx:nő, növekszik
+gronsakbok-w-verb:hacka, hackar, hackade, hackat, hacka:vág, aprít, vagdal, darabol
+gronsakbok-w-verb:skölja, sköljer, sköljde, sköljt, skölj:öblít, kiöblít, öblöget, mosogat
+gronsakbok-w-verb:koka, kokar, kokade, kokat, koka:fő, forr
+gronsakbok-w-verb:gissa, gissar, gissade, gissat, gissa:kitalál, találgat, feltételez
+gronsakbok-w-verb:så, sår, sådde, sått, så:vet, bevet, elvet, elhint
+gronsakbok-w-verb:vattna, vattnar, vattnade, vattnat, vattna:locsol, öntöz
+gronsakbok-w-verb:gro, gror, grodde, grott, gro:csírázik, kikel
+gronsakbok-w-verb:skörda, skördar, skördade, skördat, skörda:betakarít, arat
+gronsakbok-w-verb:skala, skalar, skalade, skalat, skala:hámoz
+gronsakbok-w-verb:gråta, gråter, grät, gråtit, gråt:sír, könnyezik
+gronsakbok-w-verb:rinna, rinner, rann, runnit, rinn:folyik, csordogál
+gronsakbok-w-verb:odla, odlar, odlade, odlat, odla:termel, termeszt, tenyészt
+gronsakbok-w-verb:tillsätta, tillsätter, tillsatte, tillsatt, tillsätt:hozzátesz, hozzáfűz
+gronsakbok-w-verb:bära, bär, bar, burit, bär:visz, hoz, hord
+gronsakbok-w-verb:ligga, ligger, låg, legat, ligg:fekszik
+gronsakbok-w-verb:fatta, fattar, fattade, fattat, fatta:megfog, megragad
+gronsakbok-w-verb:duka, dukar, dukade, dukat, duka:megterít
+gronsakbok-w-verb:orka, orkar, orkade, orkat, orka:tud, bír
+gronsakbok-w-verb:vispa, vispar, vispade, vispat, vispa:kever, felver
+gronsakbok-w-verb:smälta, smälter, smälte, smält, smält:olvaszt, megolvaszt
+gronsakbok-w-verb:svalna, svalnar, svalnade, svalnat, svalna:lehűl, kihűl
+
+gronsakbok-w-adjektiv:mumsig, mumsigt, mumsiga:finom, ízletes
+gronsakbok-w-adjektiv:riktig, riktigt, riktiga:valódi, igazi
+gronsakbok-w-adjektiv:torr, torrt, torra:száraz
+gronsakbok-w-adjektiv:munter, muntert, muntra:jókedvű, derüs, vidám
+gronsakbok-w-adjektiv:mör, mört, möra:puha, omlós, porhanyós
+gronsakbok-w-adjektiv:rå, rått, råa:nyers
+gronsakbok-w-adjektiv:sur, surt, sura:savanyú, fanyar
+gronsakbok-w-adjektiv:ledsen, ledset, ledsna:zomorú, bánatos, bús
+gronsakbok-w-adjektiv:sund, sunt, sunda:egészséges, ép
+gronsakbok-w-adjektiv:härlig:nagyszerű, pompás, remek (1)
+gronsakbok-w-adjektiv:försiktig, försiktigt, försiktiga:óvatos, elővigyázatos
+
+gronsakbok-w-adjektiv:mumsig, mumsigt, mumsiga:finom, ízletes
+gronsakbok-w-adjektiv:riktig, riktigt, riktiga:valódi, igazi
+gronsakbok-w-adjektiv:torr, torrt, torra:száraz
+gronsakbok-w-adjektiv:munter, muntert, muntra:jókedvű, derüs, vidám
+gronsakbok-w-adjektiv:mör, mört, möra:puha, omlós, porhanyós
+gronsakbok-w-adjektiv:rå, rått, råa:nyers
+gronsakbok-w-adjektiv:sur, surt, sura:savanyú, fanyar
+gronsakbok-w-adjektiv:ledsen, ledset, ledsna:zomorú, bánatos, bús
+gronsakbok-w-adjektiv:sund, sunt, sunda:egészséges, ép
+gronsakbok-w-adjektiv:härlig:nagyszerű, pompás, remek (1)
+gronsakbok-w-adjektiv:försiktig, försiktigt, försiktiga:óvatos, elővigyázatos
+
+
+
+gronsakbok-w-hatarozo:noggrant:pontosan, gondosan, alaposan
+gronsakbok-w-hatarozo:sakta:lassan
+gronsakbok-w-hatarozo:därinne:ott bent, odabent
+gronsakbok-w-hatarozo:oftast:leggyakrabban, legtöbbször
+gronsakbok-w-hatarozo:senare:később
+gronsakbok-w-hatarozo:överallt:mindenhol, mindenütt
+gronsakbok-w-hatarozo:annars:máskülönben, egyébként
+gronsakbok-w-hatarozo:äntligen:végre
+gronsakbok-w-hatarozo:strax:rögtön, azonnal, mindjárt
+gronsakbok-w-hatarozo:nog:elég, eléggé, valószínüleg
+
+gronsakbok-w-m-prepozicio:utmed:mentén, mellett
+
+gronsakbok-w-m-nevmas:bådadera:mindkettő, mindegyik
+
+
+gronsakbok-e:för säkerhets skull:a biztonság kedvéért
+gronsakbok-e:kan inte minnas att:nem emlékszem, hogy
+gronsakbok-e:ha skoj:jól érezni magát
+gronsakbok-e:kära hjärtanes:jó ég
+gronsakbok-e:du får stanna kvar:Maradhatsz
+gronsakbok-e:alla och envar:mindenki, minden egyes ember
+gronsakbok-e:du må tro:el kell hinned
+gronsakbok-e:som ännu inget vet:aki még semmit sem tud
+gronsakbok-e:gå igång:elkezdődni, beindulni
+gronsakbok-e:tro det om du vill:hidd el ha akarod
+gronsakbok-e:knapra i sig:eszegetni, rágcsálni
+gronsakbok-e:men oftast bådadera:de leggyakrabban mindkettőt
+gronsakbok-e:gå med raska steg:fürge léptekkel menni
+gronsakbok-e:duka fram:feltálalni
+gronsakbok-e:röra ner:belekeverni, belehabarni
+gronsakbok-e:vara på gott humör:jó kedve lenni
+gronsakbok-e:låta bli:megállítani, megállni
+
+
+
+
+marklig-w-substantiv:en trottoar, trottoaren, trottoarer, trottoarerna:járda
+marklig-w-substantiv:en pratstund:beszélgetés, csevegés (1)
+marklig-w-substantiv:en glödlampa:villanyégő, villanykörte (1)
+marklig-w-substantiv:en fluga:légy (1)
+
+marklig-w-verb:skaka, skakar, skakade, skakat, skaka!:ráz, megráz, kiráz
+marklig-w-verb:tycka, tycker, tyckte, tyckt, tyck!:gondol, vél, tart
+marklig-w-verb:buga, bugar, bugade, bugat, buga!:meghajol
+marklig-w-verb:hinna, hinner, hann, hunnit, hinn!:elér, időben odaér
+marklig-w-verb:umgås, umgås, umgicks, umgåtts, umgås!:érintkezik, kapcsolatban van, összejár
+marklig-w-verb:nicka, nickar, nickade, nickat, nicka!:bólint, biccent
+marklig-w-verb:be, ber, bad, bett, be!:kér
+marklig-w-verb:bjuda, bjuder, bjöd, bjudit, bjud!:meghív, megvendégel
+
+marklig-w-adjektiv:märklig, märkligt, märkliga:különös, rendkívüli, furcsa
+marklig-w-adjektiv:förnuftig, förnuftigt, förnuftiga:okos, értelmes, eszes
+marklig-w-adjektiv:trivsam, trivsamt, trivsama:kellemes, kedves
+marklig-w-adjektiv:trist, trist, trista:szomorú, lehangoló, sivár, unalmas
+marklig-w-adjektiv:överens:egyetértő (1)
+marklig-w-adjektiv:artig, artigt, artiga:udvarias, illedelmes
+marklig-w-adjektiv:väldig, väldigt, väldiga:óriási, hatalmas
+marklig-w-adjektiv:vänlig, vänligt, vänliga:barátságos, szívélyes
+marklig-w-adjektiv:sur, surt, sura:mogorva, morcos, savanyú
+
+marklig-w-hatarozo:alldeles:teljesen, egészen, tökéletesen
+marklig-w-hatarozo:baklänges:hátrafelé, visszafelé
+marklig-w-hatarozo:någonsin:valaha, valamikor, bármikor
+
+marklig-w-igeipraktikum:vidare:tovább
+
+marklig-w-nevmas:allting:minden
+
+
+marklig-e:ha bråttom:sietni (kif)
+marklig-e:i alla fall:mégis, mindenesetre, legalább (kif)
+marklig-e:glad i hågen:vígkedélyű
+marklig-e:resa sig:felállni
+marklig-e:gå bort:elmenni, eltávolodni, eltünni
+marklig-e:som man brukar:ahogy az ember teszi
+marklig-e:som alla andra:ahogy mindenki más
+marklig-e:gå baklänges:hátrafelé menni
+marklig-e:gå framlänges:előrefele menni
+marklig-e:få syn på:meglátni valamit
+
+marklig-s:Men en sak var alla överens om:De egy dologban mindenki egyetértett
+marklig-s:Får jag be om en korv?:Kérhetek egy kolbászt?
+marklig-s:Mannen fick syn på en liten man:Az ember meglátott egy kis embert
+marklig-s:Jag kommer säkert hitta någon:Biztosan találok valakit
+marklig-e:Människorna visste inte vad de skulle tycka:Az emberek nem tudták mit gondoljanak
+marklig-e:Jag har bråttom:Sietek (siettségem van)
+marklig-e:Som om de hade väldigt bråttom:Mintha ők komoly sietségben lennének
+
+
+morfar-w-substantiv:ett steg, steget, steg, stegen:lépés
+morfar-w-substantiv:ett anfall, anfallet, anfall, anfallen:támadás, roham
+morfar-w-substantiv:en kista, kistan, kistor, kistorna:láda
+morfar-w-substantiv:en ingång, ingången, ingångar, ingångarna:bejárat
+morfar-w-substantiv:en jord, jorden, jordar, jordarna:föld, talaj
+morfar-w-substantiv:ett lager, lagret, lager, lagren:raktár
+morfar-w-substantiv:en spade, spaden, spadar, spadarna:ásó, lapát
+morfar-w-substantiv:ett galler, gallret, galler, gallren:rács
+morfar-w-substantiv:ett torn, tornet, torn, tornen:torony
+morfar-w-substantiv:ett gömmställe, gömmstället, gömmställen, gömmställena:rejtekhely, búvóhely
+morfar-w-substantiv:en roddare, roddaren, roddare, roddarna:evezős
+morfar-w-substantiv:ett sjörövarskepp:kalózhajó -
+morfar-w-substantiv:en sjörövare, sjörövaren, sjörövare, sjörövarna:kalóz
+morfar-w-substantiv:ett skepp, skeppet, skepp, skeppen:hajó
+morfar-w-substantiv:en fiende, fienden, fiender, fienderna:ellenség
+morfar-w-substantiv:en vind, vinden, vindar, vindarna:padlás
+morfar-w-substantiv:en besättning, besättningen, besättningar, besättningarna:legénység
+morfar-w-substantiv:en skatt, skatten, skatter, skatterna:kincs
+morfar-w-substantiv:en kula, kulan, kulor, kulorna:golyó
+morfar-w-substantiv:ett krut, krutet:puskapor
+morfar-w-substantiv:en krog, krogen, krogar, krogarna:kocsma
+morfar-w-substantiv:en kaj, kajen, kajer, kajerna:rakpart
+morfar-w-substantiv:ett segel, seglet, segel, seglen:vitorla
+morfar-w-substantiv:en kran, kranen, kranar, kranarna:daru
+morfar-w-substantiv:en fyr, fyren, fyrar, fyrarna:világítótorony
+morfar-w-substantiv:en skattkammare, skattkammaren, skattkammare, skattkammarna:kincseskamra
+morfar-w-substantiv:en grotta, grottan, grottor, grottorna:barlang
+morfar-w-substantiv:ett vatten, vattnet:víz
+morfar-w-substantiv:ett fartyg, fartyget, fartyg, fartygen:tengerjáró hajó
+
+morfar-w-verb:sova, sover, sov, sovit, sov!:alszik
+morfar-w-verb:byta, byter, bytte, bytt, byt!:cserél
+morfar-w-verb:sjunka, sjunker, sjönk, sjunkit, sjunk!:sűlyed
+morfar-w-verb:skynda, skyndar, skyndade, skyndat, skynda!:siet, igyekszik
+morfar-w-verb:trösta, tröstar, tröstade, tröstat, trösta!:megvígasztal
+morfar-w-verb:peka, pekar, pekade, pekat, peka!:mutat, rámutat
+morfar-w-verb:hinna, hinner, hann, hunnit, hinn!:ideje jut valamire
+morfar-w-verb:smita, smiter, smet, smitit, smit!:eloson, meglóg
+morfar-w-verb:göra, gör, gjorde, gjort, gör!:csinál, tesz, cselekszik
+morfar-w-verb:dra, drar, drog, dragit, dra!:húz, von
+morfar-w-verb:fruktansvärd, fruktansvärt, fruktansvärda:félelmetes, rettenetes
+morfar-w-verb:glömma, glömmer, glömde, glömt, glöm!:elfelejt, megfeletkezik
+morfar-w-verb:viska, viskar, viskade, viskat, viska!:suttog
+morfar-w-verb:vakta, vaktar, vaktade, vaktat, vakta!:őriz, vigyáz
+morfar-w-verb:välja, väljer, valde, valt, välj!:választ, válogat
+morfar-w-verb:bära, bär, bar, burit, bär!:hoz, visz, hord
+morfar-w-verb:gräva, gräver, grävde, grävt, gräv!:ás
+morfar-w-verb:skratta, skrattar, skrattade, skrattat, skratta!:nevet, kacag
+morfar-w-verb:fäkta, fäktar, fäktade, fäktat, fäkta!:küzd, harcol
+morfar-w-verb:ljuga, ljuger, ljög, ljugit, ljug!:hazudik
+morfar-w-verb:följa, följer, följde, följt, följ!:követ, utánna megy
+morfar-w-verb:skaffa, skaffar, skaffade, skaffat, skaffa!:szerez, szert tesz
+morfar-w-verb:snickra, snickrar, snickrade, snickrat, snickra!:barkácsol
+morfar-w-verb:sköta, sköter, skötte, skött, sköt!:kezel
+morfar-w-verb:bo, bor, bodde, bott, bo!:él
+morfar-w-verb:överraska, överraskar, överraskade, överraskat, överraska!:meglep, megdöbbent
+
+morfar-w-adjektiv:egen, eget, egna:saját
+morfar-w-adjektiv:tung, tungt, tunga:nehéz, súlyos
+morfar-w-adjektiv:flygande:repülő, szálló (1)
+morfar-w-adjektiv:stark, starkt, starka:erős
+morfar-w-adjektiv:tvungen, tvunget, tvungna:kényszerített
+morfar-w-adjektiv:vandrande:vándorló, bolyongó (1)
+morfar-w-adjektiv:snopen, snopet, snopna:csalódott
+morfar-w-adjektiv:värsta:legrosszabb
+morfar-w-adjektiv:dålig, dåligt, dåliga:rossz
+morfar-w-adjektiv:belåten, belåtet, belåtna:elégedett
+morfar-w-adjektiv:underlig, underligt, underliga:különös, fura
+morfar-w-adjektiv:listig, listigt, listiga:ravasz, agyafurt
+morfar-w-adjektiv:lyckad, lyckat, lyckade:sikeres, sikerült
+
+morfar-w-mix:bakifrån:hátulról
+morfar-w-mix:nästan:majdnem, jóformán
+morfar-w-mix:ingenstans:sehol, sehol se, sehova se
+morfar-w-mix:fortfarande:még mindig
+
+
+
+morfar-e:vänta på dig:várni rád
+morfar-e:sätta dit:oda tenni
+morfar-e:gömma sig:elrejtőzködni
+morfar-e:skynda dig:siess
+morfar-e:kasta loss:kitőrni, elindulni
+morfar-e:segla iväg:elvitorlázni
+morfar-e:göra i ordning:rendbehozni
+morfar-e:hela sitt liv:egész életében
+morfar-e:uppe på vinden:fenn a padláson
+morfar-e:vid kajen låg något:a kikötőben volt valami
+morfar-e:långt där borta:messze innen
+morfar-e:komma rakt emot oss:egyenesen velünk szembe jönni
+morfar-e:borra hål:lyukat furni
+morfar-e:bli tagna tillfånga:fogságba esni
+morfar-e:när allt var klart:amikor minden kész volt
+morfar-e:ta på:magára venni, felölteni
+morfar-e:komma fram:odaérni
+morfar-e:klara sig:megoldani, megcsinálni
+morfar-e:ta vägen:utazni, menni
+morfar-e:bli yr:elszédülni
+morfar-e:lasta på:felrakni valamit
+morfar-e:byta om:átöltözni
+
+morfar-s:När vi kommit fram till Omars ö:Amikor megérkeztünk Omar szigetéhez
+morfar-s:Jag har varit kapten på det skeppet:Kapitány voltam azon a hajón
+morfar-s:Vi ska till sjöss:Tengerre szállunk
+morfar-s:Det såg lite dåligt ut:Az egy kicsit rosszúl nézett ki
+morfar-s:Han har inte en enda:Neki egy sincs
+morfar-s:Nu har han ingen chans:Most neki semmi esélye sincs
+morfar-s:Vattnet började rinna in:A víz elkezdett befolyni
+morfar-s:Jag lyckades smita ombord:Sikerült felszüknöm a fedélzetre
+morfar-s:Jag var tvungen att låna en spade av honom:Kénytelen voltam kölcsönvenni egy ásót tőle
+morfar-s:Vi hann inte ta många steg:Nem volt időnk sok lépést tenni
+morfar-s:Vart skulle vi ta vägen?:Merre kellene mennünk? 
+morfar-s:Han lyckades starta motorerna:Neki sikerült beindítani a motorokat
+morfar-s:Det började regna och blåsa:Elkezdett esni és fújni a szél
+morfar-s:Vi hade en lång resa framför oss:Egy hosszú utazás volt előttünk
+morfar-s:Det fanns bara en sak att göra:Csak egy dolog volt amit tenni lehetett
+morfar-s:Vi fick kasta av lasten:Mi megszabadultunk a rakománytól
+
+
+
+
+
+
+ingela-substantiv:en burk soppa:egy konzerv leves -
+ingela-substantiv:en flaska gin:egy üveg dzsin -
+ingela-substantiv:en tvål:egy szappan -
+ingela-substantiv:ett paket kex:egy csomag kex -
+ingela-substantiv:en limpa:egy vekni, cipó -
+ingela-substantiv:ett glas öl:egy pohár sőr -
+ingela-substantiv:en tub tandkräm:egy tubus fogkrém -
+ingela-substantiv:en kortlek:egy pakli kártya -
+ingela-substantiv:en kartong ägg:egy doboz tojás -
+ingela-substantiv:en burk sylt:egy üveg lekvár -
+ingela-substantiv:en ask tändstickor:egy doboz gyufa -
+ingela-substantiv:en körbana:úttest -
+ingela-substantiv:en hastighet, hastigheten, hastigheter, hastigheterna:sebesség
+ingela-substantiv:en återvändsgata:zsákutca -
+ingela-substantiv:en infart, infarten, infarter, infarterna:bejárás, behajtás, bejárat,
+ingela-substantiv:ett fordon:jármű -
+ingela-substantiv:en bredd, bredden, bredder, bredderna:szélesség
+ingela-substantiv:ett verktyg:szerszám, eszköz -
+ingela-substantiv:en såg, sågen, sågar, sågarna:fűrész
+ingela-substantiv:en skruv, skruven, skruvar, skruvarna:csavar
+ingela-substantiv:en skruvnyckel:csavarkulcs -
+ingela-substantiv:en skruvmejsel:csavarhúzó -
+ingela-substantiv:en spik, spiken, spikar, spikarna:szög
+ingela-substantiv:ett klister, klistret:ragasztó (2)
+ingela-substantiv:en trädgårdssax:metszőolló, kertészolló -
+ingela-substantiv:en kratta:gereblye -
+ingela-substantiv:en gräsklippare:fűnyíró -
+ingela-substantiv:en skottkärra:talicska -
+ingela-substantiv:en borrmaskin:fúrógép -
+ingela-substantiv:en tunna:hordó -
+ingela-substantiv:en skugga:árnyék -
+
+ingela-substantiv:en pall, pallen, pallar, pallarna:hokedli
+ingela-substantiv:ett matrumskåp:kredenc -
+ingela-substantiv:en persienn, persiennen, persienner, persiennerna:redőny
+ingela-substantiv:en strömbrytare:kapcsoló -
+ingela-substantiv:ett vägguttag:konnektor -
+ingela-substantiv:en ledamot, ledamoten, ledamöter, ledamöterna:tag
+ingela-substantiv:en riksdag:országgyűlés, parlament -
+ingela-substantiv:en medborgare:állampolgár -
+ingela-substantiv:en regering:kormány -
+ingela-substantiv:ett ärende:ügy, dolog -
+
+ingela-verb:rösta:szavaz -
+ingela-verb:bestå, består, bestod, bestått, bestå:áll
+ingela-verb:tilltala:megszólít, szól -
+ingela-verb:störa, stör, störde, stört, stör:zavar
+ingela-verb:avbryta, avbryter, avbröt, avbrutit, avbryt:megszakít, félbeszakít
+
+
+ingela-adjektiv:nöjd:elégedett (belåten) -
+ingela-adjektiv:belåten:elégedett (nöjd) -
+ingela-adjektiv:trött:fáradt, kimerült  -
+ingela-adjektiv:sömnig:álmos -
+ingela-adjektiv:enkel:világos, érthető, egyszerű, könnyű (lätt) -
+ingela-adjektiv:lätt:egyszerű, könnyű (enkel) -
+ingela-adjektiv:dålig:rossz, hitvány, hibás -
+ingela-adjektiv:slirig:csúszós - 
+ingela-adjektiv:ojämn:egyenetlen, durva, döcögős -
+ingela-adjektiv:lämplig:alkalmas, megfelelő -
+ingela-adjektiv:omkörning:előzés -
+ingela-adjektiv:begränsad, begränsat, begränsade:korlátozott, szűk
+ingela-adjektiv:förfärlig:ijesztő, rémisztő -
+ingela-adjektiv:obekant, obekant, obekanta:ismeretlen
+ingela-adjektiv:upptagen:elfoglalt -
+
+ingela-e:jag är rädd för hundar:én félek a kutyáktól
+ingela-e:jag har inte sett han sedan han gifte sig:nem láttam őt mióta megházasodott
+ingela-e:jag är bra på tyska:jól beszélek németül
+ingela-e:jag har inte rökt på sex månader:nem cigizek 6 hónapja
+ingela-e:min fru har just varit i Spanien:a feleségem épp most volt Spanyolországban
+ingela-e:jag har känt honom i flera år:én ismerem őt több éve
+ingela-e:vart fjärde år är det val:minden 4. évben van választás
+ingela-e:jag har lite ont om pengar:kis pénzügy nehézségeim vannak
+ingela-e:det är samma här, tyvärr:ugyan ez van itt, sajnálom
+ingela-e:du, får jag fråga en sak:te, feltehetnék egy kérdést
+ingela-e:hör du, kan du hjälpa mig med en sak:figyelj csak, tudsz segíteni nekem egy dologban
+ingela-e:har du tid ett ögonblick:van egy szempillantásnyi időd
+ingela-e:det går nog bra:ez valószínüleg rendben lesz
+ingela-e:kan du säga mig var stationen ligger:meg tudja mondani nekem hol van az állomás
+ingela-e:jag ringer för att höra om min bil är klar:azért hívom, hogy halljam kész van-e az autóm
+ingela-e:får jag störa lite:zavarhatom kicsit?
+ingela-e:det gäller ett paket som jag skulle hämta här:ez kapcsolatos egy csomaggal amit el kellene hoznom innen
+ingela-e:förlåt att jag stör, men jag måste fråga en sak:sajnálom hogy én zavarom, de meg kell kérdeznem egy dolgot
+ingela-e:förlåt att jag avbryter, men jag måste fråga en sak:sajnálom hogy megszakitom, de meg kell kérdeznem egy dolgot
+ingela-e:ringer jag olämpligt:rosszkor hivlak?
+ingela-e:jag ringer angående annonsen:én hívlak kapcsolatban a hirdetéssel
+ingela-e:förresten vänta lite:egyébként várj egy kicsit
+ingela-e:så snart som möjligt:minél hamarabb
+
+
+
+
+
+s-substantiv:en tronföljare, tronföljaren, tronföljare, tronföljarna:trónörökös
+s-substantiv:en björk, björken, björkar, björkarna:nyírfa
+s-substantiv:en tall, tallen, tallar, tallarna:erdei fenyő
+s-substantiv:en mus, musen, möss, mössen:egér
+s-substantiv:en ryggsäck, ryggsäcken, ryggsäckar, ryggsäckarna:hátizsák
+s-substantiv:en hemlighet, hemligheten, hemligheter, hemligheterna:titok, rejtély
+s-substantiv:ett svar, svaret, svar, svaren:válasz
+s-substantiv:ett sätt, sättet, sätt, sätten:mód, módszer
+s-substantiv:en invånare, invånaren, invånare, invånarna:lakos, lakó
+
+s-adjektiv:vanlig, vanligt, vanliga:szokásos, közönséges
+s-adjektiv:blandad, blandat, blandade:vegyes, kevert
+s-adjektiv:någon, något, några:valamely, némi, néhány, valaki
+s-adjektiv:säker, säkert, säkra:biztonságos, megbízható
+s-adjektiv:farlig, farligt, farliga:veszélyes
+
+s-blandade:denna, denne, detta, dessa:ez a, ez az, az a, az az (4)
+s-blandade:enligt:szerint,megfelelően (1)
+s-blandade:ännu:még, még mindig, már (1)
+s-blandade:ganska:egészen, meglehetősen, eléggé (1)
+
+
+s-sats:Svenska är inte lätt att lära sig:A svéd nyelvet nem könnyű megtanulni
+s-sats:Om jag kunde spola tillbaka tiden skulle jag aldrig operera näsan:Ha vissza tudnám forgatni az időt, soha nem operálnám meg az orrom
+
+02-sats:Vad är det för väder?:Milyen az időjárás?
+02-sats:Vad har du för telefonnummer?:Mi a telefonszámod?
+02-sats:Vad är klockan?:Mennyi az idő? (Mi)
+02-sats:Hur mycket är klockan?:Hány óra?
+02-sats:Det är fint väder:Szép idő van
+02-sats:Solen skoner:Süt a nap
+02-sats:Det regnar:Esik az eső
+02-sats:Det blåser:Fúj a szél
+02-sats:Det sönar:Esik a hó
+02-sats:Det är varmt:Meleg van
+02-sats:Det är kallt:Hideg van
+02-sats:I söder kan det komma kraftigt regn:Délen erős esőzés jöhet
+02-sats:Det finns risk för åska:Van esélye zivatarnak
+
+03-w-substantiv:en studerande, studeranden, studerande, studerandena:hallgató, egyetemista
+03-w-substantiv:ett frågetecken, frågetecknet, frågetecken, frågetecknen:kérdőjel
+03-w-substantiv:ett påstående, påståendet, påståenden, påståendena:állítás, kijelentés
+03-w-substantiv:en sysselsättning, sysselsättningen, sysselsättningar, sysselsättningarna:foglalkozás, elfoglaltsát
+03-w-substantiv:en människa, människan, människor, människorna:ember
+03-w-substantiv:en skådespelare, skådespelaren, skådespelare, skådespelarna:szinész
+03-w-substantiv:en tvåa, tvåan, tvåor, tvåorna:kétszobás lakás
+03-w-substantiv:en årstid, årstiden, årstider, årstiderna:évszak
+03-w-substantiv:en vår, våren, vårar, vårarna:tavasz
+03-w-substantiv:en sommar, sommaren, somrar, somrarna:nyár
+03-w-substantiv:en höst, hösten, höstar, höstarna:ősz
+03-w-substantiv:en vinter, vintern, vintrar, vintrarna:tél
+03-w-substantiv:en växt, växten, växter, växterna:növény
+03-w-substantiv:ett träd, trädet, träd, träden:fa
+03-w-substantiv:ett löv, lövet, löv, löven:falevél
+03-w-substantiv:ett sommarlov, sommarlovet, sommarlov, sommarloven:nyáriszünet
+03-w-substantiv:en lektion, lektionen, lektioner, lektionerna:tanóra
+
+03-w-verb:verka, verkar, verkade, verkat, verka!:tűnik
+03-w-verb:odla, odlar, odlade, odlat, odla!:termeszt, termel
+03-w-verb:vakna, vaknar, vaknade, vaknat, vakna!:felébred, ébred
+03-w-verb:trivas, trivs, trivdes, trivts:jól érzi magát, szeret valahol lenni (4)
+03-w-verb:känna, känner, kände, känt, känn!:ismer
+03-w-verb:stänga, stänger, stängde, stängt, stäng!:bezár, becsuk
+
+03-w-adjektiv:lugn, lugnt, lugna:nyugodt, csendes
+03-w-adjektiv:trevlig, trevligt, trevliga:kellemes, szórakoztató, kedves, szimpatikus
+03-w-adjektiv:trång, trångt, trånga:szűkös
+03-w-adjektiv:avgående:induló (1)
+
+03-w-mix:samma:ugyanaz
+03-w-mix:till slut:végül
+03-w-mix:utanför skolan:az iskola előtt
+03-w-mix:varandra:egymás, egymást
+03-w-mix:åt söder:dél felé
+03-w-mix:mot:szemben
+03-w-mix:de flesta:a legtöbben, a legtöbb ember
+
+
+
+03-s:Han bor också ensam:Ő is egyedül él
+03-s:Han är singel:Ő egyedülálló
+03-s:De är sambo:Ők együtt élnek
+03-s:De har två barn:Van két gyerekük
+03-s:Han är skild:Ő elvált
+03-s:De är gift:Ők házasok
+03-s:Äter han frukost?:Ő reggelizik?
+03-s:Dricker han kaffe?:Ő iszik kávét?
+03-s:Åker han buss?:Ő buszon utazik?
+03-s:Väntar hon barn?:Ő gyereket vár?
+03-s:Trivs du i huset?:Szeretsz lenni a házban?, Jól érzed magad a házban?
+03-s:Jag trivs bra här:Én jól érzem magam itt
+03-s:På vintern är det kallt och det snöar ofta:Télen hideg van és gyakran havazik
+03-s:I norra Sverige kommer den första snön i oktober:Észak Svédországban jön az első hó októberben
+03-s:I Sverige har vi fyra årstider:Svédországban nekünk 4 évszakunk van
+03-s:Jag hoppas det blir mycket snö i år:Remélem sok hó lesz idén
+03-s:Då börjar allt i min trädgård växa:Akkor kezd minden a kertemben növekedni
+03-s:Det verkar intressant:Ez érdekesnek tűnik
+
+
+04-w-substantiv:en macka:vajaskenyér, szendvics (1)
+04-w-substantiv:en utsikt:kilátás (1)
+04-w-substantiv:ett dygn: nap - 24 óra (1)
+
+04-adjektiv:översta:legfelső
+
+04-e:på förmiddagen:délelőtt
+04-e:på eftermiddagen:délután
+04-e:i genomsitt:átlagban
+04-e:på väg till jobbet:munkába menet
+04-e:framme vid trafikljusen:elől a közlekedési lámpánál
+04-e:bygga om:átépíteni
+04-e:stängt på grund av:zárva valami miatt
+
+04-s:Det är mycket användbart:Ez nagyon hasznos
+04-s:Han tar bussen till jobbet:Ő busszal megy A munkába (buszra száll)
+04-s:Han tar tåget hem:Ő vonattal megy haza
+04-s:Han är med i en reklamfilm:Ő részt vesz egy reklámfilmben
+04-s:Han åker hem:Ő haza megy
+04-s:Han äter middag:Ő megvacsorázik
+04-s:Jag hinner inte äta frukost:Nincs időm reggelizni (enni reggelit)
+04-s:Vilka äter frukost hemma?:Kik reggeliznek otthon?
+04-s:Får jag fråga en sak?:Kérdezhetek egy dolgot?
+04-s:Vet du var simhallen ligger?:Tudja, hogy hol VAN az uszoda?
+04-s:Gå den här gatan rakt fram:Menjen EZEN AZ UTCAN egyenesen végig
+04-s:Apoteket ligger på vänster sidan:A gyógyszertár a baloldalon VAN
+04-s:Ta till höger där framme vid trafikljusen:Forduljon jobbra ott elől a közlekedési lámpánál.
+04-s:Ta nästa gata till vänster:Fordulj balra a következő utcánaál. 
+04-s:Hur uttalas det här?:Hogyan kell kiejteni ezt itt?
+04-s:Vad är det för datum i dag?:Mi a dátum ma?
+04-s:Vilken våning bor han på?:Melyik emeleten lakik ő?
+04-s:Januari är den första månaden:Január az első hónap
+04-s:Jag är född den femte i tionde sextiosju:Születtem 5/10 67
+04-s:Jag är född den femte oktober nittonhundrasextiosju:Születtem október ötödikén 1967-ben
+04-s:Jag saknar dig:Hiányzol.
+04-s:När fyller du år?:Mikor töltöd be az évet?
+04-s:Vilket datum är du född?:Melyik dátumban születtél?
+04-s:När har du födelsedag?:Mikor van a születésnapod?
+
+05-w-verb:tacka:megköszön, köszönetet mond (1)
+05-w-verb:byta, byter, bytte, bytt, byt:cserél
+
+05-w-substantiv:en släkt, släkten, släkter, släkterna:rokonság, család
+05-w-substantiv:en släkting:rokon (1)
+05-w-substantiv:en förälder, föräldern, föräldrar, föräldrarna:szülő
+05-w-substantiv:en brorsa:bátyó (1)
+05-w-substantiv:en inbjudan, inbjudan, inbjudningar, inbjudningarna:meghívás
+05-w-substantiv:en drottning:királynő (1)
+05-w-substantiv:en statschef, statschefen, statschefer, statscheferna:államfő
+05-w-substantiv:en makt, makten, makter, makterna:hatalom
+05-w-substantiv:en kronprinsessa:Trónörökösnő (1)
+05-w-substantiv:en inspelning:forgatás, felvétel (1)
+
+05-w-adjektiv:hal, halt, hala:sikos, csúszós
+
+05-e:hej på er:sziasztok
+05-e:att bli bjuden:meghívva lenni
+05-e:komma gärna:szivesen jönni
+05-e:bli hemtade:felvenni lenni autoval 
+05-e:klä på mig:felöltöztetni magam
+05-e:göra mig i ordning:rendbeszedni magam
+05-e:om och om igen:újra és újra
+05-e:ett tag:egy kis időre
+05-e:ta det lugnt:pihenni
+05-e:sätta på kaffe:kávét csinálni
+05-e:stoppa in:beletesz, beledug
+05-e:stoppa in tvätt i tvättmaskinen:belerakni a szennyest a mosógépbe
+05-e:vattna blommorna:meglocsolni a virágokat
+05-e:det blir paus:szünet lesz
+05-e:vara på väg till arbetet:munkába menet lenni (arbete)
+05-e:komma bort från jobbet:távol lenni a munkától (job)
+05-e:vid sjutiden:hét körül
+05-e:bjuda in:meghívni
+
+05-s:Jag har ganska många släktingar:Nekem meglehetősen sok rokonom van
+05-s:Den äldsta dottern heter Victoria:A legidősebb lány neve Victoria
+05-s:De kan själva välja vad de vill göra i livet:Ő maguk dönthetik el mit akarnak csinálni az életben
+05-s:Hur ser en dag ut för dig?:Hogy néz ki egy napod?
+05-s:Jag köper aldrig något bara för att jag har sett det i en reklamfilm:Én sohasem vásárolok valamit csak azért mert láttam azt egy reklámfilmben
+05-s:Då ses vi där:Akkor ott látjuk egymást
+05-s:Har du tid att träna?:Van időd gyúrni?
+05-s:Stör jag dig?:Zavarlak?
+05-s:Nej, inte alls:Nem, egyáltalán nem
+05-s:Det var länge sedan:Rég láttuk egymást
+05-s:Hur är det med dig?:Veled mi van?
+05-s:Kan vi träffas någon dag?:Találkozhatunk valamelyik nap?
+05-s:Hur har du det i morgon?:Mit szolsz a holnaphoz?
+
+
+06-w-substantiv:ett öga, ögat, ögon, ögonen:szem
+06-w-substantiv:en hand, handen, händer, händerna:kéz, marok
+06-w-substantiv:en mun, munnen, munnar, munnarna:száj 
+06-w-substantiv:en tå, tån, tår, tårna:lábujj
+06-w-substantiv:en fot, foten, fötter, fötterna:láb, lábfej
+06-w-substantiv:en arm, armen, armar, armarna:kar
+06-w-substantiv:ett öra, örat, öron, öronen:fül
+06-w-substantiv:en näsa:orr (1)
+06-w-substantiv:en rygg, ryggen, ryggar, ryggarna:hát
+06-w-substantiv:ett finger, fingret, fingrar, fingrarna:ujj 
+06-w-substantiv:ett huvud, huvudet, huvuden, huvudena:fej
+06-w-substantiv:en hals, halsen, halsar, halsarna:nyak
+06-w-substantiv:en axel, axeln, axlar, axlarna:váll
+06-w-substantiv:ett lår:comb (1)
+06-w-substantiv:ett knä, knät, knän, knäna:térd
+06-w-substantiv:en vad, vaden, vader, vaderna:lábikra, vádli 
+06-w-substantiv:ett ben:láb, lábszár (1)
+06-w-substantiv:en tumme, tummen, tummar, tummarna:hüvelykujj
+06-w-substantiv:ett pekfinger:mutatóujj (1)
+06-w-substantiv:ett långfinger:középső ujj (1)
+06-w-substantiv:ett ringfinger:gyűrűsujj (1)
+06-w-substantiv:ett lillfinger:kisujj (1)
+06-w-substantiv:en nagel, nageln, naglar, naglarna:köröm
+06-w-substantiv:ett hår:haj, hajszál (1)
+06-w-substantiv:en panna:homlok (1)
+06-w-substantiv:en haka:áll (1)
+06-w-substantiv:en kind, kinden, kinder, kinderna:arc (ansikte)
+06-w-substantiv:ett ansikte, ansiktet, ansikten, ansiktena:arc, ábrázat (kind)
+06-w-substantiv:en ögonfrans, ögonfransen, ögonfransar, ögonfransarna:szempilla
+06-w-substantiv:ett ögonlock:szemhéj (1)
+06-w-substantiv:ett ögonbryn:szemöldök (1)
+06-w-substantiv:en tunga:nyelv (1)
+06-w-substantiv:ett bröst, bröstet, bröst, brösten:mellkas, mell
+06-w-substantiv:en navel, naveln, navlar, navlarna:köldök
+06-w-substantiv:en mage, magen, magar, magarna:has 
+06-w-substantiv:en armbåge, armbågen, armbågar, armbågarna:könyök
+06-w-substantiv:en handled, handleden, handleder, handlederna:csukló 
+06-w-substantiv:en häl, hälen, hälar, hälarna:sarok
+06-w-substantiv:en fotsula:talp (1)
+06-w-substantiv:ett tillstånd:engedély, hozzájárulás (1)
+06-w-substantiv:en handledare, handledaren, handledare, handledarna:oktató, témavezető
+06-w-substantiv:en bilskola:autósiskola (1)
+06-w-substantiv:en övningsköra:autóvezetési gyakorlat (1)
+06-w-substantiv:ett brott:bűntény, bűntett, bűncselekmény (1)
+06-w-substantiv:ett val, valet, val, valen:választás
+06-w-substantiv:en kropp, kroppen, kroppar, kropparna:test
+06-w-substantiv:en värktablett, värktabletten, värktabletter, värktabletterna:fájdalomcsillapító tabletta
+06-w-substantiv:en våg, vågen, vågar, vågarna:mérleg
+06-w-substantiv:en graviditet, graviditeten, graviditeter, graviditeterna:terhesség, várandósság, állapotosság
+06-w-substantiv:ett tillfälle, tillfället, tillfällen, tillfällena:időpont, alkalom
+06-w-substantiv:ett vägmärke, vägmärket, vägmärken, vägmärkena:útjelző tábla
+06-w-substantiv:en barnmorska:szülésznő
+
+06-w-verb:ansöka, ansöker, ansökte, ansökt, ansök:kér, kérvényez
+06-w-verb:kräva, kräver, krävde, krävt, kräv:követel
+06-w-verb:ingå, ingår, ingick, ingått, ingå:bennefoglaltatik, része, beleértendő
+06-w-verb:räkna, räknar, räknade, räknat, räkna:számol, számít
+06-w-verb:döma, dömer, dömde, dömt, döm:ítél, elítél
+06-w-verb:rösta, röstar, röstade, röstat, rösta:szavaz, leadja szavazatát
+06-w-verb:ställa,  ställer, ställde, ställt, ställ:állít, tesz, helyez
+06-w-verb:väga, väger, vägde, vägt, väg:mér, megmér,súlya van, nyom
+06-w-verb:leva,  lever, levde, levt, lev:él
+
+06-w-adjektiv:godkänd, godkänt, godkända:jóváhagyott, elismert, kipróbált
+06-w-adjektiv:straffmyndig, straffmyndigt, straffmyndiga:büntethető korú
+06-w-adjektiv:kommande:közelgő, eljövendő
+06-w-adjektiv:frisk, friskt, friska:egészséges
+06-w-adjektiv:blivande:leendő, jövendő, jövendőbeli
+
+06-w-hatarozo:därefter:azután, ezután, utána
+06-w-hatarozo:ordentligt:alaposan, rendesen
+06-w-hatarozo:verkligen:valóban, igazán, tényleg
+
+06-e:han känner sig ensam:ő egydül érzi magát
+06-e:han behöver tjäna pengar: neki szüksége van pénzt keresni
+06-e:de bor ihop:ők együtt élnek
+06-e:han vill lära sig köra bil:ő akar tanulni autóvezetést
+06-e:anmäla sig:jelentkezni, bejelentkezni
+06-e:man måste svänga till höger:jobbra kell fordulni (man)
+06-e:man får inte svänga till vänster:nem szabad balra fordulni (man)
+06-e:man får parkera här:itt szabad parkolni (man)
+06-e:man får inte köra över sjuttio kilometer i timmen:nem szabad gyorsabban menni 70km/h-nál (man)
+06-e:du räknas som barn:gyereknek számítasz
+06-e:du får bestämma själv över ditt liv:te magad dönthetsz az életed felett
+06-e:du får gifta dig:megházasodhatsz
+06-e:du får ta körkort:lehet jogosítványod
+06-e:men en sak får du inte göra:de egy dolgot nem tehetsz
+06-e-n:du kan dömas för brott:elitélhetnek büncslekményért
+06-e-n:har du feber?:van lázad?
+06-e-n:jag har ont i huvudet:fáj a fejem
+06-e-n:jag fryser:fázok
+06-e-n:om jag inte kommer så hör jag av mig:ha nem jövök, értesítelek (tudatom)
+06-e-n:krya på dig:gyógyulj meg
+06-e-n:tack ska du ha:köszönöm
+06-e-n:kan du säga till de andra?:meg tudod mondani a többieknek?
+06-e-n:var har du ont?:hol fáj neked?
+06-e-n:jag mår inte så illa längre:nem érzem olyan rosszúl magam már
+06-e-n:hur mycket du väger?:mennyit nyomsz?
+06-e-n:så länge du orkar:olyan soká amíg bírod
+06-e-n:du kan leva ett helt normalt liv:élhetsz egy teljes normalis életet
+06-e-n:det är tre kilo mer än förra gången:ez 3 kilóval tőbb mint elöző alkalommal
+06-e-n:ställa frågor:kérdéseket feltenni
+06-e-n:flera timmar om dagen:több órát naponta
+06-e-n:ha roligt ihop:szórakozni együtt
+06-e-n:hur håller du dig i form?:hogy tartod magad formában?
+06-e-n:jag försöker leva sunt:megpróbálok egészségesen élni
+06-e-n:ställ dig på vågen:állj a mérlegre
+
+
+
+
+
+
+07-w-substantiv-g:en ananas:ananász (1)
+07-w-substantiv-g:en apelsin:narancs (1)
+07-w-substantiv-g:en aubergine:padlizsán (1)
+07-w-substantiv-g:en avokado:avokádó (1)
+07-w-substantiv-g:en blomkål:karfiol (1)
+07-w-substantiv-g:en citron:citrom (1)
+07-w-substantiv-g:en gurka:uborka (1)
+07-w-substantiv-g:en jordgubbe:eper (1)
+07-w-substantiv-g:en melon:sárgadinnye (1)
+07-w-substantiv-g:en morot:répa (1)
+07-w-substantiv-g:en paprika:paprika (1)
+07-w-substantiv-g:en persika:őszibarack (1)
+07-w-substantiv-g:ett plommon:szilva (1)
+07-w-substantiv-g:en potatis:krumpli (1)
+07-w-substantiv-g:en purjolök:póréhagyma (1)
+07-w-substantiv-g:en lök, löken, lökar, lökarna:hagyma
+07-w-substantiv-g:en tomat:paradicsom (1)
+07-w-substantiv-g:ett salad:saláta (1)
+07-w-substantiv-g:en vindruva:szölő (1)
+07-w-substantiv-g:ett äpple:alma (1)
+07-w-substantiv:liten:kisgyerek (1)
+07-w-substantiv:en husmanskost, husmanskosten:házi koszt (2)
+07-w-substantiv:en färdigmat:készétel (1)
+07-w-substantiv:ett jämförpris:összehasonlító ár (1)
+07-w-substantiv:en förpackning:csomagolás (1)
+07-w-substantiv:ett innehåll:tartalom (1)
+07-w-substantiv:en matvara:élelmiszer (1)
+07-w-substantiv:en ingrediens, ingrediensen, ingredienser, ingredienserna:hozzávaló, alkotórész, elem
+07-w-substantiv:ett vetemjöl:búzaliszt (1)
+07-w-substantiv:ett bäst-före-datum:lejárati dátum (1)
+07-w-substantiv:ett middagsbord:vacsoraasztal (1)
+07-w-substantiv:en grädde, grädden:tejszín (2)
+07-w-substantiv:en rätt, rätten, rätter, rätterna:étel, fogás
+07-w-substantiv:ett modersmål:anyanyelv (1)
+07-w-substantiv:en apa:majom (1)
+07-w-substantiv:en vuxen, den vuxne, vuxna, de vuxna:felnőtt
+07-w-substantiv:ett samhälle:társadalom, közösség (1)
+07-w-substantiv:en författare:író (1)
+07-w-substantiv:en by, byn, byar, byarna:falu, kistelepülés, község
+07-w-substantiv:en berättelse:elbeszélés, történet (1)
+07-w-substantiv:en anslagstavla:hirdetőtábla (1)
+07-w-substantiv:en storlek, storleken, storlekar, storlekarna:nagyság, méret
+07-w-substantiv:en kanin, kaninen, kaniner, kaninerna:nyúl
+07-w-substantiv:en get, geten, getter, getterna:kecske
+
+07-w-verb:jämföra, jämför, jämförde, jämfört, jämför:összehasonlít, összevet
+07-w-verb:innehålla:tartalmaz, magában foglal (1)
+07-w-verb:ge, ger, gav, gett, ge:ad
+07-w-verb:läsa, läser, läste, läst, läs:olvas, elolvas
+07-w-verb:försvinna, försvinner, försvann, försvunnit, försvinn:eltűnik, elenyészik
+07-w-verb:skänka, skänker, skänkte, skänkt, skänk:ajándékoz
+07-w-verb:hålla, håller, höll, hållit, håll:tart, fog, megfog
+07-w-verb:ana, anar, anade, anat, ana:sejt, megsejt, gyanít, megérez
+07-w-verb:skvallra, skvallrar, skvallrade, skvallrat, skvallra:pletykál, árulkodik
+07-w-verb:erkänna, erkänner, erkände, erkänt, erkänn:elismer, beismer, bevall
+07-w-verb:kissa:pisil (1)
+07-w-verb:ryta, ryter, röt, rutit, ryt:ordít, bőg, bömböl, üvölt
+07-w-verb:lära, lär, lärde, lärt, lär:tanít, megtanít
+07-w-verb:stå, står, stod, stått, stå:áll
+
+07-w-adjektiv:fräsch, fräscht, fräscha:friss, üde, új
+07-w-adjektiv:känd, känt, kända:híres, ismert
+07-w-adjektiv:möjlig, möjligt, möjliga:lehetséges, lehető
+07-w-adjektiv:konstig, konstigt, konstiga:különös, furcsa, szokatlan (uderlig)
+07-w-adjektiv:misstänksam, misstänksamt, misstänksamma:gyanakvó, bizalmatlan
+07-w-adjektiv:rumsren, rumsrent, rumsrena:szobatiszta
+07-w-adjektiv:kvick, kvickt, kvicka:gyors, élénk, eleven, fürge
+07-w-adjektiv:trång, trångt, trånga:szűk, keskeny
+07-w-adjektiv:ful, fult, fula:csúnya, ronda
+07-w-adjektiv:försiktig, försiktigt, försiktiga:óvatos, elővigyázatos
+07-w-adjektiv:mumsig, mumsigt, mumsiga:finom, ízletes
+07-w-adjektiv:riktig, riktigt, riktiga:valódi, igazi
+07-w-adjektiv:torr, torrt, torra:száraz
+07-w-adjektiv:munter, muntert, muntra:jókedvű, derüs, vidám
+07-w-adjektiv:mör, mört, möra:puha, omlós, porhanyós
+07-w-adjektiv:rå, rått, råa:nyers
+07-w-adjektiv:sur, surt, sura:savanyú, fanyar
+07-w-adjektiv:ledsen, ledset, ledsna:zomorú, bánatos, bús
+07-w-adjektiv:sund, sunt, sunda:egészséges, ép (frisk)
+07-w-adjektiv:härlig:nagyszerű, pompás, remek (1)
+
+07-w-nevmas:sådan:ilyen, olyan, ilyenféle, olyanféle
+07-w-nevmas:denna, denne, detta, dessa:ez, az, ez a, az a
+07-w-nevmas:bådadera:mindkettő, mindegyik
+07-w-nevmas:allting:minden
+07-w-nevmas:varandra:egymás, egymást
+
+07-w-hatarozo:helst:legszívesebben, leginkább
+07-w-hatarozo:alltså:tehát, eszerint
+07-w-hatarozo:runt:körbe, körben
+07-w-hatarozo:naturligtvis:természetesen
+07-w-hatarozo:egentligen:tulajdonképpen, valójában
+07-w-hatarozo:inne:benn, bent, belül
+07-w-hatarozo:alldeles:teljesen, egészen, tökéletesen
+07-w-hatarozo:fort:gyorsan, sebesen
+07-w-hatarozo:verkligen:valóban, igazán, tényleg
+07-w-hatarozo:ingenstans:sehol, sehol se, sehova se
+07-w-hatarozo:någonstans:valahol, valahova
+07-w-hatarozo:nästan:majdnem, jóformán
+07-w-hatarozo:fortfarande:még mindig (mormor)
+07-w-hatarozo:ännu:még, még mindig, már
+07-w-hatarozo:ganska:egészen, meglehetősen, eléggé
+07-w-hatarozo:samma:ugyanaz
+
+07-w-interakcio:jo:de igen, dehogynem, nos
+
+07-e:ställa fram:elővenni, kirakni
+07-e:det är säkert:ez biztos
+07-e:jag orkar inte mer:nem bírok többet
+07-e:inte jag heller:én se
+07-e:jag också:én is
+07-e:det här var verkligen gott:ez itt igazán jó volt
+07-e:jag kan inte somma:nem tudok elaludni
+07-e:i närheten:a közelben
+07-e:jag lär mig mycket av pappa:sokat tanulok apától
+07-e:så här:így
+07-e:olika sorters grönsaker:különböző típusú zöldségek
+07-e:några av hennes vänner:néhányan az ő barátai közül
+07-e:var och en:mindenki, mindegyik
+07-e:lägga av:abbahagyni, befejezni
+07-e:lämna mig i fred:hagyj békén
+07-e:spela kort:kártyázni
+07-e:det är bara två kapitel kvar:csak két fejezet van hátra
+07-e:du vill aldrig göra någonting med mig:te soha semmit nem akarsz velem csinálni
+07-e:världens starkaste flicka:a világ legerősebb lánya
+07-e:han gör som han själv vill:ő azt csinálja amit ő maga akar
+07-e:säga emot:ellentmondani
+07-e:det stämmer inte med:ez nincs összhangban -vel
+07-e:hitta på:kitalálni, kieszelni
+07-e:det spelar ingen roll:mindegy, nem érdekes
+07-e:har du sett?:látta már?
+07-e:snälla du:legyen kedves
+07-e:helst inte:inkább ne
+07-e:får jag röka här inne?:rágyújthatok itt bent?
+07-e:kan du räcka mig saltet?:ide tudnád nyujtani a sót?
+
+
+
+
+
+
+
+
+08-w-substantiv:ett utropstecken, utropstecknet:felkiáltójel - -
+08-w-substantiv:en skinnjacka: bőrdzseki, bőrkabát -
+08-w-substantiv:en kamrat,  kamraten, kamrater, kamraterna:társ, pajtás, elvtárs
+08-w-substantiv:en motsats, motsatsen, motsatser, motsatserna:ellentét, ellenkezője
+08-w-substantiv:ett ämne:tárgy -
+08-w-substantiv:en förmiddag, förmiddagen, förmiddagar, förmiddagarna:délelőtt
+08-w-substantiv:en matsal, matsalen, matsalar, matsalarna:ebédlő, étkezde
+08-w-substantiv:en termin, terminen, terminer, terminerna:félév
+08-w-substantiv:ett betyg:osztályzat, érdemjegy, jegy (1)
+
+08-w-verb:förbereda, förbereder, förberedde, förberett, förbered:előkészít, felkészít
+08-w-verb:sucka:sóhajt, sóhajtozik (1)
+08-w-verb:duka:megterít (1)
+08-w-verb:hämta:hoz, elhoz, érte megy, elmegy (1)
+08-w-verb:höra, hör, hörde, hört, hör:hall
+08-w-verb:be, ber, bad, bett, be:kér, megkér, felkér
+08-w-verb:mena:gondol, ért, mondani akar (1)
+08-w-verb:förklara:megmagyaráz, megvilágít (1)
+08-w-verb:leka, leker, lekte, lekt, lek:játszik, eljátszik
+08-w-verb:önska:kíván, óhajt, kér (1)
+
+08-w-adjektiv:jobbig, jobbigt, jobbiga:elviselhetetlen, nehéz
+08-w-adjektiv:någon, något, några:valaki
+08-w-adjektiv:duktig, duktigt, duktiga:ügyes, tehetséges, okos
+08-w-adjektiv:snygg, snyggt, snygga:tiszta, rendes, takaros
+08-w-adjektiv:söt, sött, söta:édes
+08-w-adjektiv:kraftig, kraftigt, kraftiga:erős, izmos
+08-w-adjektiv:tjock, tjockt, tjocka:kövér, testes
+08-w-adjektiv:fyrkantig, fyrkantigt, fyrkantiga:négyszögletes, négyszögű
+08-w-adjektiv:rund, runt, runda:gömbölyű, gömbölyded, kerek, pufók
+08-w-adjektiv:oval, ovalt, ovala:tojásdad, ovális
+08-w-adjektiv:smal, smalt, smala:vékony, szűk
+08-w-adjektiv:mager, magert, magra:sovány, szikár, vézna
+08-w-adjektiv:lockig, lockigt, lockiga:göndör, fürtös
+08-w-adjektiv:rak, rakt, raka:egyenes
+08-w-adjektiv:mörk, mörkt, mörka:sötét
+08-w-adjektiv:brun, brunt, bruna:barna
+08-w-adjektiv:ljus, ljust, ljusa:világos
+08-w-adjektiv:trevlig, trevligt, trevliga:kellemes, szórakoztató, kedves, szimpatikus
+08-w-adjektiv:schysst, schysst, schyssta:igazságos, korrekt, becsületes
+08-w-adjektiv:hjälpsam, hjälpsamt, hjälpsamma:segítőkész
+08-w-adjektiv:pratsam, pratsamt, pratsamma:beszédes, bőbeszédű
+08-w-adjektiv:svår, svårt, svåra:nehéz, komplikált
+08-w-adjektiv:generös, generöst, generösa:bőkezű, nagylelkű
+08-w-adjektiv:snål, snålt, snåla:fösvény, fukar
+08-w-adjektiv:blivande:leendő, jövendő
+
+08-w-m-hatarozo:senast:legkésőbb
+08-w-m-hatarozo:nog:elég, eléggé, valószínüleg
+08-w-m-hatarozo:snart:hamarosan, rövidesen, nemsokára
+08-w-m-hatarozo:väl:bizony, bizonyára, valóban
+08-w-m-hatarozo:möjligen:talán, esetleg
+
+08-w-m-nevmas:ingen, inget, inga:semmi, senki, egy sem
+08-w-m-nevmas:hurdan, hurdant, hurdana:milyen, miféle
+
+08-w-m-interakcio:jaså:vagy úgy!, aha!
+08-w-m-interakcio:jaha:aha, értem
+
+08-w-m-prep:bland:között, közé
+
+08-w-m-igeipraktikum:vidare:tovább
+
+08-w-m-kotoszo:varken...eller:sem...sem
+08-w-m-kotoszo:utan:hanem
+
+08-e:skriv här, är du snäll:irj ide, vagy te kedves
+08-e:nu är jag hemma:most itthon vagyok
+08-e:han har inte kommit än:ő nem jött még meg
+08-e:han kommer nog snart:ő megjön valószínüleg hamar
+08-e:hur var det med mormor?:hogy volt a nagymami?
+08-e:det har jag glömt:azt elfelejtettem
+08-e:han går i trean:ő harmadikba jár
+08-e:hur ser han ut?:hogy néz ki?
+08-e:de flesta tycker att:a legtöbben úgy gondolják, hogy
+08-e:är du ihop med honom?:együtt vagy vele?
+08-e:i alla fall:mégis, mindenesetre
+08-e:hoppas ni får kul på festen:remélem pompás lesz a parti
+08-e:han är lite för pratsam:ő egy kicsit túlbeszédes
+08-e:motsatsen till stor är liten:az ellentéte a nagynak a kicsi
+08-e:låta någon annan få se något:hagyni valaki másnak hogy nézhessen valamit
+08-e:skulle du kunna öppna dörren?:Kinyitnád az ajtót? (would you able to)
+08-e:vill du vara snäll och öppna dörren åt mig?:akarsz kedves lenni és kinyitni az ajtót nekem?
+08-e:tala långsammare, är du snäll:beszélj lasabban, vagy olyan kedves
+08-e:var snäll och förklara för mig:légy kedves és magyarázd el nekem
+08-e:han vill att hon ska komma:ő azt akarja, hogy ő jöjjön
+08-e:förbered middagen:készítsd elő a vacsorát
+
+
+
+
+09-w-substantiv:ett yrkesliv:szakmai élet -
+09-w-substantiv:en personal, personalen, personaler, personalerna:személyzet, alkalmazottak 
+09-w-substantiv:ett intryck:benyomás -
+09-w-substantiv:ett fotbollslag:labdarúgócsapat -
+09-w-substantiv:ett underhåll:karbantartás -
+09-w-substantiv:regnkläder:vízhatlan viselet (tbsz)
+09-w-substantiv:en sten, stenen, stenar, stenarna:kő
+09-w-substantiv:ett plåster:sebtapasz, ragtapasz -
+09-w-substantiv:ett sår:seb -
+09-w-substantiv:en tätort, tätorten, tätorter, tätorterna:település, helység
+09-w-substantiv:en mark, marken, marker, markerna:föld, terep
+
+
+09-w-verb:försöka, försöker, försökte, försökt, försök:megpróbál, megkísérel
+09-w-verb:besöka, besöker, besökte, besökt, besök:látogat, felkeres
+09-w-verb:inspirera:ihlet, inspirál -
+09-w-verb:undervisa:tanít, oktat -
+09-w-verb:minnas, minns, mindes, mints, minns:emlékszik
+09-w-verb:trivas, trivs, trivdes, trivts:jól érzi magát - - - -
+09-w-verb:ärva, ärver, ärvde, ärvt:örököl - - - -
+09-w-verb:våga, vågar, vågade, vågat, våga:mer, merészel
+09-w-verb:bli, blir, blev, blivit, bli:lesz, válik
+09-w-verb:födas, föds, föddes, fötts:születik - - - -
+09-w-verb:be, ber, bad, bett, be:kér
+09-w-verb:le, ler, log, lett, le:mosolyog
+09-w-verb:klättra:mászik, kúszik -
+09-w-verb:halka:csúszik, elcsúszik -
+09-w-verb:ramla:esik, zuhan -
+09-w-verb:gråta, gråter, grät, gråtit, gråt:sír, könnyezik
+09-w-verb:trösta:vigasztal -
+09-w-verb:skynda:siet, igyekszik -
+09-w-verb:utvandra:kivándorol, emigrál -
+09-w-verb:skratta:nevet, kacag -
+09-w-verb:gräla:veszekszik, civakodik -
+
+09-w-adjektiv:omtyckt, omtyckt, omtyckta:kedvelt, szívesen látott
+09-w-adjektiv:rättvis:igazságos -
+09-w-adjektiv:spännande:izgalmas
+09-w-adjektiv:nervös:nyugtalanító -
+09-w-adjektiv:gullig:aranyos, édes, kedves -
+09-w-adjektiv:hal, halt, hala:sima, síkos
+09-w-adjektiv:blöt, blött, blöta:vizes, nedves
+09-w-adjektiv:dubbel, dubbelt, dubbla:kétszeres
+09-w-adjektiv:fattig, fattigt, fattiga:szegény
+09-w-adjektiv:förvånad, förvånat, förvånade:meglepett, meglepődött, csodálkozó
+09-w-adjektiv:lycklig:boldog
+09-w-adjektiv:besviken, besviket, besvikna:csalódott, kiábrándult
+09-w-adjektiv:stressad, stressat, stressade:ideges, feszült 
+09-w-adjektiv:förra:múlt ...
+
+09-w-kotoszo:fastän:bár, ámbár, habár
+
+09-w-prepozicio:trots:ellenére, dacára
+09-w-prepozicio:före:előtt
+09-w-prepozicio:utav:közül, -ból,
+
+09-e:han fick mig att välja den:ő késztetett, hogy válasszam azt
+09-e:födelsedagen firar han hemma med familj:a születésnapot ünnepli ő otthon a családdal
+09-e:bland annat:többek között
+09-e:han ägnar sig åt att läsa böcker:könyvek olvasásának szenteli idejét
+09-e:så ofta som möjligt:olyan gyakran ahogy lehetséges
+09-e:förra året:tavaly
+09-e:det var ett land som gjorde stort intryck på mig:ez volt egy ország ami nagy benyomást tett rám
+09-e:dit vill jag gärna åka igen:oda akarok szivesen utazni újra
+09-e:jag vet inte om du minns mig:nem tudom, hogy emlékszel-e rám
+09-e:det var du som inspirerade mig:te voltál aki inspirált engem
+09-e:du fick oss att tycka om den:te szerettetted meg velünk azt
+09-e:jag följde med honom hit:én követtem őt ide
+09-e:jag trivs med att undervisa:én szeretek tanítani
+09-e:jag önskar att mina elever kommer att minnas mig:kivánom, hogy a tanítványaim majd emlékezzenek rám
+09-e:vilken dag som helst:bármelyik nap
+09-e:jag trivdes bra där:én szerettem ott
+09-e:jag ärvde den av min pappa:én megörököltem azt az apukámtól
+09-e:jag vågade inte stanna i landet:én nem mertem maradni az országban
+09-e:när jag blev klar mina studier:amikor befejeztem a tanulmányaimat
+09-e:för tio minuter sedan:10 percel ezelőtt
+09-e:i morse:ma reggel
+09-e:i går kväll:múlt éjszaka
+09-e:i förrgår:tegnapelőtt
+09-e:i fredags:múlt pénteken
+09-e:för några månader sedan:néhány hónappal ezelőtt
+09-e:för tio år sedan:tíz évvel ezelőtt
+09-e:har de kommit hem:haza jöttek már?
+09-e:vad tiden går:hogy múlik az idő
+09-e:de växer fort:gyorsan nővekednek
+09-e:jag längtar verkligen efter dem:én igazán vágyódom utánnuk
+09-e:i närheten:a közelben
+
+09-e-n:det gör väldigt ont och börjar blöda:ez nagyon fáj és elkezd vérezni
+09-e-n:han springer fram till honom:ő előre fut hozzá
+09-e-n:han försöker trösta honom:ő megpróbálja megvigasztalni őt
+09-e-n:han håller om honom:ő átöleli őt
+09-e-n:de flesta:a legtöbben
+09-e-n:dubbelt så många invånare:kétszer annyi lakos (megsz.)
+09-e-n:de fick arbeta hårt:nekik kellett keményen dolgozni
+09-e-n:många barn dog före ett års ålder:sok gyerek meghalt egy éves életkor előtt
+09-e-n:be henne ringa mig, är du snäl:kérje meg őt, hogy hívjon engem, van olyan kedves
+
+
+
+10-w-substantiv:en ägare:tulajdonos -
+10-w-substantiv:en lön, lönen, löner, lönerna:bér, fizetés
+10-w-substantiv:en matte:matek -
+10-w-substantiv:ett prov:vizsga -
+10-w-substantiv:en verklighet:valóság, realitás -
+10-w-substantiv:ett utseende:külső, küllem, kinézet -
+10-w-substantiv:en hemtjänst:otthoni ellátás -
+10-w-substantiv:en ungdom,  ungdomen, ungdomar, ungdomarna:fiatal
+10-w-substantiv:en ålder, åldern, åldrar, åldrarna:életkor
+10-w-substantiv:en medelålder:átlagéletkor -
+10-w-substantiv:ett giftermål:házasság, házasságkötés -
+10-w-substantiv:en brudgum, brudgummen, brudgummar, brudgummarna:vőlegény
+10-w-substantiv:en brud, bruden, brudar, brudarna:menyasszony 
+10-w-substantiv:ett genomsnitt:átlag  -
+10-w-substantiv:ett brudpar:jegyespár -
+
+10-w-verb:kolla:leellenőriz -
+10-w-verb:räcka, räcker, räckte, räckt, räck:elég, elegendő
+10-w-verb:snacka:beszél, beszélget, dumál -
+10-w-verb:lova:ígér, megígér -
+10-w-verb:käka:kajál -
+10-w-verb:sticka, sticker, stack, stuckit, stick:elindul, elhúz
+10-w-verb:hända, händer, hände, hänt, händ:történik
+10-w-verb:tjäna:keres (pénzt) -
+10-w-verb:öka:fokoz, fokozódik -
+10-w-verb:byta, byter, bytte, bytt, byt:cserél, vált
+
+10-w-adjektiv:stolt, stolt, stolta:büszke
+10-w-adjektiv:vanlig:szokásos, általános -
+10-w-adjektiv:äkta:igazi, hamisítatlan
+10-w-adjektiv:enligt:szerint, megfelelően
+
+10-w-hatarozo:nog:elég, eléggé, valószínüleg
+10-w-hatarozo:förresten:egyébként, mellesleg, amúgy
+10-w-hatarozo:tidigt:korán, idejében
+10-w-hatarozo:ursprungligen:eredetileg, kezdetben
+10-w-hatarozo:särskilt:különösen, főleg
+10-w-hatarozo:nuförtiden:manapság
+10-w-hatarozo:äntligen:végre
+
+10-e:då såg det inte ut så här:akkor ez nem így nézett ki itt
+10-e:det sa du ingenting om:erről semmit nem mondtál
+10-e:jag jobbade till sent:későig dolgoztam
+10-e:det räcker till körkortet:ez elegendő a jogosítványhoz
+10-e:jag är ganska stolt:én meglehetősen büszke vagyok
+10-e:jag tänker gå:én menni fogok
+10-e:hänger du med:velem tartasz?
+10-e:jag hade inte tid att ringa:nem volt időm hívni
+10-e:de vardagliga orden:a mindennapi szavak
+10-e:vigsel har ägt rum:házasságkötés történt
+
+
+
+13-w-mix:annars:máskülönben
+13-w-mix:i slutändan:a végén
+13-w-mix:enda:egyetlen, egyedüli
+13-w-mix:nyss:éppen most
+13-w-mix:hurdan:miféle
+13-w-mix:altså:tehát
+13-w-mix:bredvid:mellett
+13-w-mix:någonstans:valahol, valahova
+13-w-mix:snart:hamarosan
+
+13-w-substantiv:en ränta, räntan, räntor, räntorna:kamat
+13-w-substantiv:en garanti, garantin, garantier, garantierna:garancia
+13-w-substantiv:en bytesrätt:cserejog -
+13-w-substantiv:ett öppet köp:visszavonási jog (nyitott) --
+13-w-substantiv:en ångerrätt:elállási jog (internet) -
+13-w-substantiv:en dragkedja:zipzár -
+13-w-substantiv:en fläck, fläcken, fläckar, fläckarna:folt
+13-w-substantiv:ett förråd:raktár -
+13-w-substantiv:en leksaksbil:játékautó -
+13-w-substantiv:ett skräp:lom -
+13-w-substantiv:ett ämne:tárgy -
+13-w-substantiv:ett föremål:tárgy, dolog -
+
+13-w-verb:försvinna, försvinner, försvann, försvunnit, försvinn!:eltünik
+13-w-verb:slå, slår, slog, slagit, slå!:beüt
+13-w-verb:ångra:megbánni -
+13-w-verb:upptäcka:rájönni, felfedezni -
+13-w-verb:rensa ut:selejtezni, takarítani -
+13-w-verb:fundera:fontolgatni, töprengeni -
+13-w-verb:kasta:eldobni -
+13-w-verb:leka:játszani -
+13-w-verb:slänga:elhajítani -
+13-w-verb:ett avtal, avtalet, avtal, avtalen:szerződés
+
+13-w-adjektiv:viss, visst, vissa:bizonyos, meghatározott
+13-w-adjektiv:ful, fult, fula:csúnya
+
+13-e:ta med sig:magával vinni -
+13-e:skänka bort:elajándékozni -
+13-e:bestämma sig:elhatározni, dönteni -
+13-e:inom en viss tid:egy bizonyos időn belül
+13-e:för stort:túl nagy
+13-e:de här gamla skolböckerna:ezek a régi iskolaikönyvek
+13-e:för många år sedan:sok évvel ezelőtt
+13-e:det rör sig om något:valamiről van szó
+13-e:göra om:újra csinálni
+13-e:jag räknade ut:kiszámoltam
+
+13-s-1:En försäljare kommer fram till dem:Egy eladó megy oda hozzájuk
+13-s-1:Han kan en del om datorer:Ő tud egy keveset a számítógépekről
+13-s-1:Jag vill ha det på avbetalning:Ezt részletre akarom
+13-s-1:Här ska du få skriva under ett köpekontrakt:Itt kell aláirnod egy vásárlási szerződést
+13-s-1:Han tar fram körkortet ur plånboken:Ő előveszi a jogosítványt a tárcából
+13-s-1:Han ger det till försäljaren:Ő átadja azt az eladónak
+13-s-1:Han behöver en ny dator nu: Neki szüksége van egy új számítógépre most
+13-s-1:Han har haft inbrott i sin lägenhet:Neki volt egy betörés az ő lakásába
+13-s-1:Han kan inte vänta tills pengarna från försäkringsbolaget kommer:Ő nem tud várni amig a pénz a biztosítótól megérkezik
+13-s-1:Tina vänder sig till försäljaren:Tina az eladóhoz fordul
+13-s-1:Vi har ett tillfälligt erbjudande:Van egy alkalmi ajánlatunk
+13-s-1:Det gäller bara den här veckan:Ez csak ezen a héten érvényes
+13-s-1:De försvann när han hade inbrott:Azok eltüntek amikor betörése volt
+
+13-s-2:Handlar du på avbetalning?:Vásárolsz részletre?
+13-s-2:Men det gör jag aldrig om:De ezt nem csinálom soha újra
+13-s-2:Dyra saker köper jag ibland på avbetalning:Drága dolgokat néha vásárolok részletre
+13-s-2:För många år sedan köpte jag en teve på avbetalning: Sok évvel ezelőtt vásároltam egy tévét részletre
+13-s-2:Nu sparar jag först och handlar sedan:Most először takarékoskodok és később vásárolok
+
+13-s-3:Hurdan kamera har du tänkt dig?:Milyen kamerára gondoltál?
+13-s-3:Det är viktigt att det tar bra bilder:Az fontos, hogy jó képeket csináljon
+13-s-3:Det är 20 procent rabatt på det just nu:Van 20% engedmény rajta, csak most
+13-s-3:Hur lång garanti är det?:Milyen hosszú garancia van?
+13-s-3:Spara kvittot bara:Csak tartsa meg a nyugtát
+13-s-3:Han sätter in sitt kort och slår koden:Behelyezi a kártyáját és beüti a kódot
+13-s-3:Du får pengarna tillbaka om du ångrar ett köp:Visszakapod a pénzt ha megbánsz egy vásárlást
+13-s-3:Du kan lämna tillbaka varan och välja en annan vara istället:Visszahozhatod az árut és választhatsz egy másik árut helyette
+13-s-3:Det är något fel på det:Valami baj van vele
+13-s-3:Du kan ångra dig och skicka tillbaka det du har köpt:Meggondolhatod magad és visszaküldheted azt amit megvásároltál
+
+13-s-5:Det minns jag inte:Arra nem emlékszem
+13-s-5:Hoppas allt är bra med dig:Remélem minden rendben van veled
+13-s-5:Är det värt något?:Ér valamit?
+13-s-5:Hör av dig:Jelentkezz
+
+
+14-w-verb:bedöma, bedömer, bedömde, bedömt: megitél, értéker, birál, felmér (4)
+14-w-verb:anställa, anställer, anställde, anställt, anställ!:alkalmaz, felvesz
+14-w-verb:oroa, oroar, oroade, oroat, oroa!:nyugtalanít, izgat
+14-w-verb:kalla, kallar, kallade, kallat, kalla!:hív, nevez
+14-w-verb:låta, låter, lät, låtit, låt!:hangzik, szól
+14-w-verb:skära, skär, skar, skurit, skär!:vág, metsz, nyes
+14-w-verb:avslöja, avslöjar, avslöjade, avslöjat, avslöja!:leleplez, felfed
+14-w-verb:vilja, vill, ville, velat:akar, kíván, szándékozik (4)
+14-w-verb:besöka, besöker, besökte, besökt, besök!:meglátogat
+14-w-verb:le, ler, log, lett, le!:mosolyog
+14-w-verb:njuta, njuter, njöt, njutit, njut!:élvez, örömét leli
+14-w-verb:vänja, vänjer, vande, vant, vänj!:szoktat, hozzászoktat, rászoktat
+14-w-verb:bero, beror, berodde, berott, bero!:függ, alapul
+14-w-verb:anmäla, anmäler, anmälde, anmält, anmäl!:bejelent, értesít
+14-w-verb:öka, ökar, ökade, ökat, öka!:fokoz, növel, gyarapít
+14-w-verb:utbilda, utbildar, utbildade, utbildat, utbilda!:kiképez, kiművel
+
+14-w-substantiv:ett kontor, kontoret, kontor, kontoren:iroda
+14-w-substantiv:ett möte, mötet, möten, mötena:értekezlet, találkozó
+14-w-substantiv:en arbetskamrat:munkatárs (1)
+14-w-substantiv:en utbildning:képzés, képzettség (1)
+14-w-substantiv:en erfarenhet, erfarenheten, erfarenheter, erfarenheterna:tapasztalat
+14-w-substantiv:en bagare:pék (1)
+14-w-substantiv:en bilmekaniker:autoszerelő (1)
+14-w-substantiv:en byggnadsarbetare:építőmunkás (1)
+14-w-substantiv:en barnskötare:gyerekfelügyelő (1)
+14-w-substantiv:en bussförare:buszvezető (1)
+14-w-substantiv:en elektriker:villanyszerelő (1)
+14-w-substantiv:en ingenör:mérnök (1)
+14-w-substantiv:en läkare:orvos (1)
+14-w-substantiv:en undersköterska:segédápoló (1)
+14-w-substantiv:en kock, kocken, kockar, kockarna:szakács
+14-w-substantiv:en snickare:asztalos (1)
+14-w-substantiv:en föreställning:előadás (1)
+14-w-substantiv:ett ställe, stället, ställen, ställena:hely
+14-w-substantiv:en stjärna:csillag (1)
+14-w-substantiv:en kärlek:szeretet, szerelem (1)
+14-w-substantiv:en intrig:cselszövés (1)
+14-w-substantiv:en förlossning:szülés (1)
+14-w-substantiv:en föräldraledighet:szülői szabadság (1)
+14-w-substantiv:en inkomst:jövedelem (1)
+14-w-substantiv:en förkortning:rövidítés (1)
+14-w-substantiv:en andel, andelen, andelar, andelarna:rész, részesedés
+
+14-w-adjektiv:orolig, oroligt, oroliga:nyugtalan, aggódó, gondterhelt
+14-w-adjektiv:anställd, anställt, anställda:dolgozó, munkavállaló, alkalmazott
+14-w-adjektiv:spännande:érdekfeszítő (1)
+14-w-adjektiv:härlig:nagyszerű, pompás, remek (1)
+14-w-adjektiv:duktig:ügyes, tehetséges, okos (1)
+14-w-adjektiv:okänd, okänt, okända:ismeretlen
+14-w-adjektiv:vanlig, vanligt, vanliga:szokásos, megszokott, közönséges
+
+14-w-hatarozo:länge:sokáig, hosszan
+14-w-hatarozo:väldigt:nagyon, rettenetesen
+14-w-hatarozo:väl:bizonyára, ugye, hiszen
+14-w-hatarozo:verkligen:valóban, igazán, tényleg
+14-w-hatarozo:egentligen:tulajdonképpen, valójában
+14-w-hatarozo:tidigare:előbb, hamarabb, korábban
+14-w-hatarozo:därefter:azután, ezután, utánna
+
+14-w-mix:särskilt:különösen, főleg
+
+14-e:skära ner på personal:elbocsátani (lecsökkenteni) személyzetet
+14-e:bli inblandad:belekeveredni
+14-e:ta emot:fogadni, üdvözölni
+14-e:le mot: rámosolyogni
+14-e:bry sig om:foglalkozni valamivel
+14-e:först då:csak akkor
+14-e:ha råd med det:megengedheti ezt
+14-e:gå i pension:nyugdíjba menni
+14-e:vård av barn:gyerekápolás
+
+14-s:Han trivs bra med jobbet:Ő nagyon szereti a munkáját
+14-s:Vad har hänt?:Mi történt?
+14-s:Det låter inte bra:Ez nem hangzik valami jól
+14-s:Hur många personer gäller det?:Hány embert érint?
+14-s:Hur trivs du med det?:Hogy tetszik (az)?
+14-s:Tjänar du bra?:Jól keresel?
+14-s:Det räcker:(az) elég, elegendő
+14-s:Förstå en sak komma ihåg är annan:Érteni egy dolog, emlékezni rá másik
+14-s:Jag håller med dig:Egyetértek veled
+14-s:Vad jobbar du med?:Mi a munkád?
+14-s:Jag ser det fram emot:Én alig várom
+
+
+
+
+en hel del:sok

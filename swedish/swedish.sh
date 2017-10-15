@@ -47,6 +47,10 @@ function noAnsweredWell {
 	echo $noAnsweredWells
 }
 
+function godness {
+    let gn=(100*$1/$2)
+    echo $gn\%
+}
 
 QUESTION_XPOS=10
 QUESTION_YPOS=10
@@ -67,48 +71,49 @@ BLUE="\e[34m"
 YELLOW="\e[33m"
 DEFAULT="\033[00m"
 
-WORDFILE="./swedishnouns.txt"
-#WORDFILE="./proba.txt"
+WORDFILE="./basic.txt"
 
 QUESTION_LANG="sv"
 SWEDISH_LAN="sv"
 HUNGARIAN_LAN="sv"
 
-
+#
+#1st parameter-question column
+#
 if [ "$1" == "1" ]; then
-    showcolumn=3
+    showcolumn=2
+    answercolumn=3
     QUESTION_LANG="sv"
 elif [ "$1" == "2" ]; then
-    showcolumn=4
-    QUESTION_LANG="sv"
-elif [ "$1" == "3" ]; then
-    showcolumn=5
-    QUESTION_LANG="sv"
-elif [ "$1" == "4" ]; then
-    showcolumn=6
-    QUESTION_LANG="sv"
+    showcolumn=3
+    answercolumn=2
+    QUESTION_LANG="hu"
 else
-    showcolumn=7
+    showcolumn=3
+    answercolumn=2
     QUESTION_LANG="hu"
 fi
 
-#lines=`cat $WORDFILE| wc -l`
 
-if [ "$2" == "1" ]; then
-    groupgrep="^1:"
-elif [ "$2" == "2" ]; then
-    groupgrep="^2:"
-elif [ "$2" == "3" ]; then
-    groupgrep="^3:"
-elif [ "$2" == "4" ]; then
-    groupgrep="^4:"
-elif [ "$2" == "5" ]; then
-    groupgrep="^5:"
-elif [ "$2" == "6" ]; then
-    groupgrep="^6:"
+# if there is no 3rd parameter
+if [ -z "$3" ]; then
+
+    # then the wordfile is the default file:swedishsentences.txt
+
+    # and the 2nd parameter is the word-group-identifier-pattern
+    if [ -z "$2" ]; then
+        groupgrep="^.+:"
+    else
+        groupgrep="^"$2".*:"
+    fi
+
+# if there is 3rd parameter
 else
-    groupgrep="^\d:"
+    groupgrep="^"$3".*:"
+    WORDFILE="./"$2
 fi
+
+
 
 lines=`cat $WORDFILE| grep -P $groupgrep|wc -l`
 
@@ -129,6 +134,9 @@ while true; do
 
     actuallinenumber=$((RANDOM%$lines+1))
 
+#echo -n -e "\033[$STAT_YPOS;$STAT_XPOS$H"
+#echo -n $actuallinenumber
+
     #Ha elozoleg sikeres volt de 
     if [ "${outresult[$actuallinenumber]}" -eq 1 ] ; then
 	#meg van nem kerdezett szo vagy van sikertelen valasz
@@ -137,7 +145,6 @@ while true; do
 	    #akkor keresek egy masik szot
 	    continue
 	fi
-
     fi
 
     actualline=`cat $WORDFILE|grep -P $groupgrep |sed $actuallinenumber'!d' `
@@ -159,7 +166,6 @@ while true; do
     #
     echo -n -e "\033[$ANSWER_YPOS;$ANSWER_XPOS$H"
     read answer
-    answer=`echo "$answer" | cut -d$'\t' -f1,2,3,4,5|tr $'\t' ':'`
 
     #
     #Show the result
@@ -167,17 +173,12 @@ while true; do
     echo -n -e "\033[$RIGHTANSWER_YPOS;$RIGHTANSWER_XPOS$H"
 
     rightanswerCategory=`echo $actualline | cut -d':' -f1`
-    rightanswerTranslation=`echo $actualline | cut -d':' -f7`
-    rightanswerForms1=`echo $actualline | cut -d':' -f2`$' '`echo $actualline | cut -d':' -f3`
-    rightanswerForms2=`echo $actualline | cut -d':' -f4`
-    rightanswerForms3=`echo $actualline | cut -d':' -f5`
-    rightanswerForms4=`echo $actualline | cut -d':' -f6`
+    rightAnswer=`echo $actualline | cut -d':' -f$answercolumn`
 
-    formPartAnswer=`echo $answer | cut -d':' -f1,2,3,4`
-    formPartRightAnswer=$rightanswerForms1:$rightanswerForms2:$rightanswerForms3:$rightanswerForms4
+    formPartRightAnswer=$rightAnswer
 
     echo -n -e "\033[$RESULT_YPOS;$RESULT_XPOS$H"
-    if [ "$formPartRightAnswer" == "$formPartAnswer" ] ; then
+    if [ "$formPartRightAnswer" == "$answer" ] ; then
 	echo -n -e $GREEN
 	echo OK
 	let outresult[$actuallinenumber]=1
@@ -199,18 +200,8 @@ while true; do
     echo -n $rightanswerCategory
     echo -n "${SPACE_BETWEEN_FORMS}"
     echo -n -e $GREEN
-    echo -n $rightanswerForms1
+    echo -n $rightAnswer
     echo -n "${SPACE_BETWEEN_FORMS}"
-
-    echo -n $rightanswerForms2
-    echo -n "${SPACE_BETWEEN_FORMS}"
-    echo -n $rightanswerForms3
-    echo -n "${SPACE_BETWEEN_FORMS}"
-    echo -n $rightanswerForms4
-
-    echo -n -e $BLUE
-    echo -n "${SPACE_BETWEEN_FORMS}"
-    echo -n $rightanswerTranslation
 
     #statisztika
     echo -n -e "\033[$STAT_YPOS;$STAT_XPOS$H"
@@ -218,18 +209,14 @@ while true; do
     echo -n $rightanswers/
     echo -n $questions/
     echo -n $(noAnsweredWell)
+    echo -n " "\($(godness  $rightanswers $questions)\)
 
 
 
-
-    #echo $actualline | cut -d':' -f1,2,3,4,5,6,7 --output-delimiter=$'    ' 
     echo -n -e $DEFAULT
     echo -n -e "\n"
     #Say the all line
-    echo $actualline | cut -d':' -f2,3 --output-delimiter=$' ' | espeak -v $SWEDISH_LAN
-    echo $actualline | cut -d':' -f4 | espeak -v $SWEDISH_LAN
-    echo $actualline | cut -d':' -f5 | espeak -v $SWEDISH_LAN
-    echo $actualline | cut -d':' -f6 | espeak -v $SWEDISH_LAN
+    echo $actualline | cut -d':' -f2 --output-delimiter=$' ' | espeak -v $SWEDISH_LAN
  
     #waits for a keypress
     read  -n1 -r  key
