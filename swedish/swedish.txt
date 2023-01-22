@@ -1,4 +1,4 @@
-adj-att-lit-attr:ett litet hus:egy kis ház[6~
+adj-att-lit-attr:ett litet hus:egy kis ház
 adj-att-lit-attr:det lilla huset:a kis ház
 adj-att-lit-attr:de små husen:a kis házak
 adj-att-lit-attr:små hus:kis házak
@@ -40,6 +40,23 @@ adj-ett-gam-attr:gamla katter:öreg cicák
 adj-ett-gam-pred:katten är gammal:a cica öreg
 adj-ett-gam-pred:katterna är gamla:a cicák öregek
 
+
+
+vardaglig:inte alls:egyáltalán nem
+vardaglig:det runda huset:a kerek ház
+vardaglig:det är trä på fasaden:van fa a homlokzaton
+vardaglig:för två och ett halvt år sedan:két és fél évvel ezelőtt
+vardaglig:ett tillstånd:engedély, hozzájárulás -
+vardaglig:en gångbana:járda -
+vardaglig:jag har fler frågor:nekem vannak még kérdéseim
+vardaglig:rustningen räcker inte:a páncél nem elég (räcka)
+vardaglig:rustningen är inte nog:a páncél nem elég (nog)
+vardaglig:rustningen är inte tillräckligt:a páncél nem elég (tillráckligt)
+vardaglig:kan jag fråga en sak:kérdezhetek valamit?
+
+
+form:men spring nu så att du inte kommer för sent:de most fuss, hogy el ne késs!
+form:de vill att jag ska bär kostym:ők azt akarják, hogy hordjak öltönyt
 
 
 alltid-w-verb:lämna,  lämnar, lämnade, lämnat, lämna:hagy, hátrahagy, elhagy, otthagy
@@ -117,6 +134,10 @@ alltid-w-hatarozo:ännu:még, még mindig, már
 alltid-w-hatarozo:äntligen:végre
 alltid-w-hatarozo:verkligen:valóban, igazán, tényleg
 alltid-w-hatarozo:förresten:egyébként, mellesleg
+alltid-w-hatarozo:ändå:úgyis, mégis
+alltid-w-hatarozo:nämligen:ugyanis, tudniillik
+alltid-w-hatarozo:fortfarande:még mindig, továbbra is
+
 
 alltid-w-kötőszó:eftersom:mivel, mert
 alltid-w-kötőszó:därför:ezért, emiatt
@@ -139,6 +160,7 @@ alltid-e:det låter bra åtminstone på pappret:ez jól hangzik, legalábbis a p
 alltid-e:på grund av:vm következtében
 alltid-e:jag ser det fram emot:Én alig várom
 alltid-e:jag bor inte i sverige utan i norge:én nem svédországban élek hanem norvégiában
+alltid-e:enligt min mening:az én véleményem szerint
 
 
 
@@ -309,6 +331,489 @@ träd:en ask:kőrisfa
 träd:en bok:bükkfa
 träd:en pil:fűzfa
 
+djuren:en ko:tehén
+djuren:en anka:kacsa
+djuren:en råtta:patkány
+djuren:en undulat:hullámos papagály
+djuren:en valp:kölyökkutya
+djuren:en tjur:bika
+djuren:en mus:egér
+djuren:en kanin:nyuszi
+djuren:en kattunge:cica
+djuren:en gris:disznó
+djuren:en kalkon:pulyka
+djuren:en groda:béka
+djuren:en gås:liba
+djuren:en get:kecske
+djuren:en tupp:kakas
+
+matematik-w-substantiv:en storhet:mennyiség, nagyság -
+matematik-w-substantiv:ett tal:szám -
+matematik-w-substantiv:en skillnad:eltérés, különbség -
+matematik-w-substantiv:ett förslag:javaslat, ajánlat -
+matematik-w-substantiv:en lösning, lösningen, lösningar, lösningarna:megoldás, megfejtés
+matematik-w-substantiv:ett heltal:egész szám -
+matematik-w-substantiv:en storleksordning:nagyság szerinti sorrend -
+matematik-w-substantiv:en riktning, riktningen, riktningar, riktningarna:irány
+matematik-w-substantiv:en uppgift, uppgiften, uppgifter, uppgifterna:feladat, adat
+matematik-w-substantiv:ett stapeldiagram:oszlopdiagram -
+matematik-w-substantiv:en nederbörd:csapadék -
+matematik-w-substantiv:ett antal:mennyiség -
+matematik-w-substantiv:en tävling, tävlingen, tävlingar, tävlingarna:verseny
+matematik-w-substantiv:en tenta:vizsga -
+
+matematik-w-verb:erhålla:kap, kézhez kap, szerez -
+matematik-w-verb:sakna:nélkülöz, nincs neki -
+matematik-w-verb:rita:rajzol -
+matematik-w-verb:täcka, täcker, täckte, täckt, täck:fed, lefed, befed
+matematik-w-verb:mäta, mäter, mätte, mätt, mät:mér, megmér
+matematik-w-verb:lösa, löser, löste, löst, lös:old, felold
+matematik-w-verb:addera:összead, hozzáad -
+matematik-w-verb:delta, deltar, deltog, deltagit, delta:részt vesz
+
+matematik-w-mmadjektiv:angiven, angivet, angivna:megadott, jelzett
+matematik-w-mmadjektiv:annorlunda:más, eltérő
+matematik-w-mmadjektiv:förberedd, förberett, förberedda:felkészült, előkészült
+
+matematik-w-mmhatározószó:genom:át, által
+
+matematik-e:resultatet erhålls från en angiven storhet:az eredmény egy megadott mennyiségből származik
+matematik-e:lägga till:hozzátenni, hozzáadni
+matematik-e:dra ifrån:kivonni
+matematik-e:räkna i huvudet:számold ki fejben
+matematik-e:ta reda på skillnaden:állapítsd meg a különbséget
+matematik-e:hur mycket mer kostar en tröja än en bok:mennyivel kerül többe egy pulóver mint egy könyv
+matematik-e:hur mycket mindre kostar en tröja än en bok:mennyivel kerül kevesebbe egy pulóver mint egy könyv
+matematik-e:hur mycket saknas för att han ska kunna köpa tröjan:mennyi hiányzik hogy ő meg tudja venni a pulóvert
+matematik-e:hur mycket pengar har han kvar:mennyi pénze marad
+matematik-e:vilka tal saknas:mely számok hiányoznak?
+matematik-e:hur många rutor breda:hány kocka széles?
+matematik-e:hur många rutor långa:hány kocka magas?
+matematik-e:vänta sig:várni valamit
+matematik-e:börja med det minsta:kezd a legkisebbel
+matematik-e:skriv talen i storleksordning:írd a számokat nagyság szerinti sorrendbe
+matematik-e:de betalar lika mycket:ők fizetnek ugyanolyan sokat
+matematik-e:det kanske finns flera lösningar:számos megoldás létezhet
+matematik-e:ett rutat papper:egy kockás papír
+matematik-e:var och en:mindegyik
+matematik-e:arton delat med tre lika med sex:18 osztva 3-mal egyenlő 6
+matematik-e:vilka tal tror du att pillarna pekar på:melyik számokra hiszed te, hogy a nyilak mutatnak rá
+matematik-e:tresiffriga tal:háromjegyű szám
+matematik-e:i vilken stad är det kallast:melyik városban van a leghidegebb?
+matematik-e:hur mycket kallare är det i stockholm än i linköping:mennyivel hidegebb van Stockholmban mint Linköpingben
+matematik-e:vilka är de nästa tre talen i talserierna:melyik a következő 3 szám a számsorozatban
+matematik-e:försök att komma så nära två som möjligt:próbálj jönni olyan közel 2-höz ahogy lehetséges
+
+
+
+
+galopp-w-substantiv:en spruta:fecskendő -
+galopp-w-substantiv:en hov, hoven, hovar, hovarna:pata
+galopp-w-substantiv:en sadel, sadeln, sadlar, sadlarna:nyereg
+galopp-w-substantiv:en blick, blicken, blickar, blickarna:pillantás, tekintet
+galopp-w-substantiv:en anda, andan:lélegzet - -
+galopp-w-substantiv:en kurva:kanyar, forduló -
+galopp-w-substantiv:en grevinna:grófnő -
+galopp-w-substantiv:en grind, grinden, grindar, grindarna:kapu
+galopp-w-substantiv:en ryttare:lovas -
+galopp-w-substantiv:ett lopp:futam -
+galopp-w-substantiv:ett fusk:csalás -
+galopp-w-substantiv:ett verktyg:szerszám, eszköz -
+galopp-w-substantiv:ett sömnmedel:altató -
+
+galopp-w-verb:förstöra, förstör, förstörde, förstört, förstör:elpusztít, tönkretesz
+galopp-w-verb:krama:összegyűr -
+galopp-w-verb:stöna:nyög -
+galopp-w-verb:skaka:megráz -
+galopp-w-verb:blunda:szundikál -
+galopp-w-verb:tävla:versenyez -
+galopp-w-verb:skrika:kiállt -
+galopp-w-verb:fuska:csal -
+galopp-w-verb:avslöja:leleplez, felfed -
+galopp-w-verb:trycka:nyom, présel -
+
+galopp-w-adjektiv:ilsken, ilsket, ilskna:dühös, mérges,
+
+galopp-w-hatarozo:antagligen:valószínűleg, bizonyára
+
+galopp-e:jag tror att det är något skumt på gång:azt hiszem hogy valami gyanus van folyamatban
+galopp-e:det syns tydligt att:világosan látszik, hogy...
+galopp-e:det man har lovat det ska man hålla:amit az ember megigért, azt megtartja
+galopp-e:till slut står han alldeles still:végül teljesen megáll
+galopp-e:vad tar det åt honom:mi történt vele?
+galopp-e:sedan stiger jublet på läktaren:utánna emelkedik az ujjongás a kilátón
+galopp-e:de rycker båda till:ők összerázkódnak mindketten
+galopp-e:det är något som inte stämmer här:van valami ami nem stimmel itt
+galopp-e:han visste att Sara skulle vinna:ő tudta hogy Sara fogja megnyerni
+galopp-e:åker honom fast:letartóztatják, elkapják
+galopp-e:han har ingen brådska:neki nem sürgős
+galopp-e:hur ska vi locka honom i fällan:hogyan csaljuk csapdába
+galopp-e:lutar sig framåt:előre hajol
+galopp-e:det var därför han inte orkade springa:ez volt amiért ő nem tudott futni
+
+
+
+mersvenska-06-w-verb:skala:hámoz -
+
+mersvenska-06-e:vi var sju stycken:heten voltunk
+mersvenska-06-e:de hade tur:szerencséjük volt
+mersvenska-06-e:de trivs mycket bra:ők szeritik nagyon (trivs)
+mersvenska-06-e:de steg inte upp förrän klockan var sju:ők nem keltek fel mielőtt az óra volt 7
+mersvenska-06-e:man kan kalla det nybörjartur:hívhatod ezt kezőszerencsének
+mersvenska-06-e:det var mycket folk ute:sok nép volt kint
+mersvenska-06-e:har du varit där/ja, det har jag:voltár már ott/igen, már voltam
+mersvenska-06-e:alla de andra:mindenki más
+mersvenska-06-e:till efterrätt åt alla tiramisu:deszertnek evett mindenki tiramisut
+mersvenska-06-e:vad gjorde ni sedan då:mit csináltatok akkor? (då)
+mersvenska-06-e:så fungerar demokrati tyvärr:így müködik a demmokrácia, sajnos
+mersvenska-06-e:eller kanske inte:vagy talán nem
+mersvenska-06-e:om det inte är en hemlighet:ha ez nem egy titok
+mersvenska-06-e:hälla upp:kitölteni
+mersvenska-06-e:jag känner en av dem:én ismerem egyiküket
+mersvenska-06-e:det visste inte jag heller:ezt én se tudtam
+mersvenska-06-e:de tog en öl till:ők ittak még egy sört (ta)
+mersvenska-06-e:har du aldrig varit i finland/jo, det har jag:soha sem voltál még finnországban?/dehogynem, voltam
+
+
+mersvenska-07-w-substantiv:en flygvärd:steward -
+mersvenska-07-w-substantiv:en förskollärare:óvónő -
+mersvenska-07-w-substantiv:en frihet:szabadság -
+mersvenska-07-w-substantiv:en resa:utazás -
+mersvenska-07-w-substantiv:en förrätt:előétel -
+mersvenska-07-w-substantiv:en varmrätt:főfogás -
+mersvenska-07-w-substantiv:en efterrätt:deszert -
+mersvenska-07-w-substantiv:en anställd, den anställde, anställda, de anställda:munkavállaló
+mersvenska-07-w-substantiv:en vikarie:helyettes -
+mersvenska-07-w-substantiv:en avdelning:részleg, osztály -
+mersvenska-07-w-substantiv:en arbetsuppgift:munkahelyi feladat -
+mersvenska-07-w-substantiv:en fackförening:szakszervezet -
+mersvenska-07-w-substantiv:en tjänsteresa:szolgálati út -
+mersvenska-07-w-substantiv:en idé, idén, idéer, idéerna:ötlet
+mersvenska-07-w-substantiv:ett initiativ:kezdeményezés -
+mersvenska-07-w-substantiv:en förberedelse:felkészülés, előkészület -
+mersvenska-07-w-substantiv:en plan, planen, planer, planerna:terv
+mersvenska-07-w-substantiv:ett mål:cél, célkitűzés -
+mersvenska-07-w-substantiv:en del, delen, delar, delarna:rész
+mersvenska-07-w-substantiv:en metod:módszer -
+mersvenska-07-w-substantiv:en lösning:megoldás -
+mersvenska-07-w-substantiv:en deltagare:résztvevő  -
+mersvenska-07-w-substantiv:ett samarbete:együttműködés -
+mersvenska-07-w-substantiv:en förening:szövetség, egyesítés -
+mersvenska-07-w-substantiv:en medlem, medlemmen, medlemmar, medlemmarna:tag
+mersvenska-07-w-substantiv:en rapport:jelentés -
+mersvenska-07-w-substantiv:en anteckning:jegyzet, feljegyzés -
+mersvenska-07-w-substantiv:en detalj:rész, részlet, részleg -
+mersvenska-07-w-substantiv:en bekräftelse:megerősítés -
+mersvenska-07-w-substantiv:en lucka:hézag, hiány, űr
+
+mersvenska-07-w-verb:översätta:fordít, lefordít -
+
+mersvenska-07-w-adjektiv:mätt, mätt, mätta:jóllakott
+mersvenska-07-w-adjektiv:omväxlande:változatos
+
+mersvenska-07-e:tiden gick snabbt:az idő ment gyorsan
+mersvenska-07-e:det känner jag redan nu:ezt tudom én már most
+mersvenska-07-e:det är absolut ingen kritik:ez egyáltalán nem kritika
+mersvenska-07-e:ja, det stämmer:igen, ez igaz
+mersvenska-07-e:han längtade tillbaka till sin barndom:ő visszavágyódott az ő gyerekkorába
+mersvenska-07-e:jag har inte heller varit där:én sem voltam ott (még)
+mersvenska-07-e:vi får se:meglátjuk
+mersvenska-07-e:alla skålade i champagne:mindenki koccintott pezsgővel
+mersvenska-07-e:han bryggde kaffe till alla:ő főzött kávét mindenkinek
+mersvenska-07-e:han trivdes inte med det:ő nem érezte jól magát ezzel
+mersvenska-07-e:han gick och la sig direkt:ő ment és lefeküdt rögtön
+mersvenska-07-e:han sover som en stock:ő alszik mint a bunda
+mersvenska-07-e:vi tar det steg för steg:mi tesszük ezt lépésről lépésre
+mersvenska-07-e:vi har gjort framsteg:mi csináltunk előrelépést (már)
+mersvenska-07-e:på vilket sätt kan vi:milyen módon tudjuk mi...
+mersvenska-07-e:ju tidigare jag stiger upp, desto mer hinner jag:minél korábban kelek fel, annál több időm marad
+mersvenska-07-e:ju godare maten är, desto mer äter jag:minél finomabb az étel, annál többet eszek
+
+
+
+
+mersvenska-08-w-substantiv:ett hörn:sarok, szöglet -
+mersvenska-08-w-substantiv:en klyscha:klisé -
+mersvenska-08-w-substantiv:en arbetslivserfarenhet:munkatapasztalat -
+mersvenska-08-w-substantiv:en reseledare:idegenvezető -
+mersvenska-08-w-substantiv:en ingenjörsexamen:mérnőki végzettség -
+mersvenska-08-w-substantiv:en konkurs:csőd -
+mersvenska-08-w-substantiv:en sökande, den sökande, sökande, de sökande:pályázó, kérelmező
+mersvenska-08-w-substantiv:en tjänst:állás, pozició -
+mersvenska-08-w-substantiv:en ambition:cél, célkitűzés (amb) -
+mersvenska-08-w-substantiv:ett besked:hír, felvilágosítás, válasz
+mersvenska-08-w-substantiv:en utställning:kiállítás -
+
+mersvenska-08-w-verb:locka:csalogat, csábít -
+mersvenska-08-w-verb:föreslå:javasol, indítványoz -
+
+mersvenska-08-w-adjektiv:ärlig, ärligt, ärliga:őszinte, egyenes
+mersvenska-08-w-adjektiv:färsk, färskt, färska:friss
+mersvenska-08-w-adjektiv:oerhörd, oerhört, oerhörda:hallatlan, hihetetlen, óriási
+mersvenska-08-w-adjektiv:lärorik, lärorikt, lärorika:tanulságos
+mersvenska-08-w-adjektiv:svag, svagt, svaga:gyenge, erőtlen
+mersvenska-08-w-adjektiv:samtidig, samtidigt, samtidiga:egyidejű, egykorú
+
+mersvenska-08-e:slå dig ner där:foglalj helyet ott
+mersvenska-08-e:jag ska bara stänga av min mobil:én csak lezárom a mobilomat
+mersvenska-08-e:vad tänker du göra nu:mit szándékozol csinálni most
+mersvenska-08-e:varför svarade du på vår annons:miért válaszolt ön a mi hírdetésünkre?
+mersvenska-08-e:det här jobbet passar mig perfekt:ez a munka tökéletesen illik hozzám
+mersvenska-08-e:nästan allt stämmer in på mig:majdnem minden rám illik
+mersvenska-08-e:i korthet:röviden
+mersvenska-08-e:vilken utbildning har du:milyen képzettséged van?
+mersvenska-08-e:det låter helt fel:ez teljesen rosszúl hangzik
+mersvenska-08-e:med en ingenjörsexamen i bagaget:egy mérnőki végzettséggel a tarsolyban
+mersvenska-08-e:men det var det som jag kände var rätt just då:de ez volt amit akkor helyesnek gondoltam (känna)
+mersvenska-08-e:i varje fall ett tag:legalább is egy kicsit
+mersvenska-08-e:företaget gick i konkurs:a válallat csődbe ment
+mersvenska-08-e:alla blev arbetslösa över en natt:mindenki munkanélkülivé vált egy éjszaka alatt
+mersvenska-08-e:jag lärde mig att arbeta självständigt:megtanultam önállóan dolgozni (arbeta)
+mersvenska-08-e:men jag skulle ändå vara intresserad av:de én mégis kiváncsi volnék...
+mersvenska-08-e:på ett annat sätt:egy más módon
+mersvenska-08-e:jag har inga fler frågor just nu:nincs több kérdésem pillanatnyilag
+mersvenska-08-e:vår ambition är att snart fatta beslut om:a mi célunk hogy gyorsan hozzunk döntést a...
+mersvenska-08-e:du kan räkna med att få ett besked från oss inom två veckor:számolhatsz azzal, hogy kapsz egy választ tőlünk két héten belül
+mersvenska-08-e:du ska ha stort tack för att du kom:nagyon köszönjük, hogy eljött (ska)
+mersvenska-08-e:i lugn och ro:teljes nyugalomban
+mersvenska-08-e:det är dags att vakna:itt az idő felkelni
+mersvenska-08-e:det är tyst i huset:csönd van a házban
+mersvenska-08-e:artikelen handlar om en stor brand i ett hus:a cikk szól egy nagy tűzről egy házban
+mersvenska-08-e:han bor i samma område:ő lakik ugyanazon a környöken
+mersvenska-08-e:han hoppar över sportnyheterna:ő átlapozza a sporthíreket
+mersvenska-08-e:han är inte intresserad av sport:őt nem érdekli a sport
+mersvenska-08-e:det finns två artiklar som intresserar honom:van két cikk ami érdikli őt
+mersvenska-08-e:det vill jag se:ezt látni akarom
+mersvenska-08-e:det vill jag inte missa:ezt nem akarom elmulasztani
+mersvenska-08-e:symfonikorkestern ska spela musik av många kända kompositörer:a szimfonikus zenekar fog játszani zenét több ismert zeneszerzőtől
+mersvenska-08-e:det verkar vara en mycket intressant konsert:ez látszik lenni egy nagyon érdekes koncertnek
+mersvenska-08-e:han har alltid tid att prata en liten stund:neki mindig van ideje beszélgetni egy keveset (prata)
+mersvenska-08-e:jag ska föreslå honom att vi går:én javasolni fogom neki, hogy mi menjünk
+mersvenska-08-e:han dricker en kopp kaffe till:ő iszik még egy csésze kávét
+mersvenska-08-e:han sätter på radion:ő bekapcsolja a rádiót
+mersvenska-08-e:han kommer för sent till universitetet:ő el fog késni az egyetemről (komma)
+mersvenska-08-e:jag måste väcka honom:nekem fel kell keltenem őt
+
+
+mersvenska-09-e:den här gången med full kraft:ezúttal teljes erővel
+mersvenska-09-e:vad är det som händer:mi törtönik?
+mersvenska-09-e:han försöker låta lugn:ő megpróbál nyugodtnak látszani
+mersvenska-09-e:jag satt och kollade på internet:én ültem és interneteztem
+mersvenska-09-e:jag orkar inte prata med dig nu:én nem tudok beszélni veled most
+mersvenska-09-e:du kan sova så länge du vill:te aludhatsz olyan sokáig ameddig akarsz
+mersvenska-09-e:jag vill gärna gå:én szívesen elmennék
+mersvenska-09-e:han blir ännu mer irriterad:ő válik még idegesebbé
+mersvenska-09-e:de har helt olika åsikter om datorer:nekik teljesen különböző véleményük van a számítógépekről
+mersvenska-09-e:han är skeptisk:ő kételkedő
+mersvenska-09-e:han har bråttom:ő siet
+mersvenska-09-e:han vill inte komma för sent:ő nem akar elkésni
+mersvenska-09-e:jag måste springa om jag inte ska komma för sent:futnom kell, hogy ne késsek el
+mersvenska-09-e:jag hinner inte prata:nincs időm beszélgetni
+mersvenska-09-e:vi får prata mer en annan gång:mi beszélgethetünk többet egy más alkalommal
+mersvenska-09-e:du behöver inte be om ursäkt:nincs szükséged elnézést kérni
+mersvenska-09-e:det var i din smak:ez a te izlésednek megelelő volt
+mersvenska-09-e:vad ska jag säga:mit mondhatnék?
+mersvenska-09-e:slutet gott allting gott:minden jó ha a vége jó
+mersvenska-09-e:han kastade en kudde till på honom:ő dobott még egy párnát hozzá
+mersvenska-09-e:säger han yrvaket:mondja ő álomittasan
+mersvenska-09-e:det låter jättebra:ez nagyon jól hangzik
+mersvenska-09-e:de har ofta långa diskussioner om internet:nekik gyakran van hosszú eszmecseréjük az internetről
+mersvenska-09-e:han är intresserad av ny teknik:ő érdeklődik az új technikák iránt
+mersvenska-09-e:det finns två artiklar som intresserar honom:van két cikk ami érdekli őt
+mersvenska-09-e:det verkar vara en mycket intressant konsert:ez látszik lenni egy nagyon érdekes koncertnek
+mersvenska-09-e:han kastade ner sina böcker i väskan:ő bedobta az saját könyveit a táskába
+mersvenska-09-e:jag hinner inte heller prata:nekem sincs időm beszélgetni
+mersvenska-09-e:nu har de inte lika bråttom som på måndag:most ők nem sietnek annyira mint hétfőn
+mersvenska-09-e:jag var lika stressad som du i morse:én voltam olyan feszült mint te ma reggel
+mersvenska-09-e:han är helt oteknisk precis som jag:ő teljesen anti-technikus, pontosan mint én
+mersvenska-09-e:det är fantastiskt inte sant:ez fantasztikus, nem igaz?
+mersvenska-09-e:hur gick det:hogy ment?
+mersvenska-09-e:han är i varje fall artig:ő legalább udvarias
+mersvenska-09-e:jag tycker om pizza/det gör jag också:én szeretem a pizzát/én is
+mersvenska-09-e:jag tycker om pizza/det gör inte jag:én szeretem a pizzát/én nem
+mersvenska-09-e:jag tycker inte om kött/men det gör jag:nem szeretem a húst/de én igen
+mersvenska-09-e:jag tycker inte om kött/inte jag heller:nem szeretem a húst/én se
+mersvenska-09-e:vill du att jag ska läsa:akarod hogy én olvassak?
+
+
+
+mersvenska-10-e:jag lyckades inte förstå det:nem sikerült megértenem azt
+mersvenska-10-e:han gick ut:ő kiment
+mersvenska-10-e:han hann inte prata:nem volt ideje beszélgetni (p)
+mersvenska-10-e:jag vågar inte:nem merek
+mersvenska-10-e:jag vill inte besvära:nem akarok zavarni
+mersvenska-10-e:jag behöver tvång:szükségem van kényszerre
+mersvenska-10-e:det är Tamas en utbytesstudent från Ungern:ez Tamas, egy cserediák Magyarországról
+mersvenska-10-e:jag ringde till er i går kväll men jag fick inget svar:én rátok csörögtem tegnap este de nem kaptam választ
+mersvenska-10-e:var var ni:hol voltatok?
+mersvenska-10-e:jag har stängt av mobilen:én kikapcsoltam (már) a mobilt
+mersvenska-10-e:pianisten spelade så bra att jag nästan började gråta:a zongorista olyan jól játszott, hogy majdnem elkeztem sírni
+mersvenska-10-e:vilken känsla:micsoda érzék
+mersvenska-10-e:vilken otur:micsoda pech
+mersvenska-10-e:jag tror inte att jag har varit på en bättre konsert:nem hiszem, hogy voltam (valaha) egy jobb koncerten
+mersvenska-10-e:alla i publiken applåderade länge:mindenki a közönségben hosszan tapsolt
+mersvenska-10-e:har det funnits ett större geni än Mozart:létezett valaha egy nagyobb zseni mint Mozart?
+mersvenska-10-e:biljetterna var slut:a jegyek elfogytak
+mersvenska-10-e:han brukar berätta för oss när det ska bli någon intressant konsert:ő szokta elmondani nekünk amikor lesz valami érdekes koncert
+mersvenska-10-e:det är en ny tjänst:ez egy új alkalmazás
+mersvenska-10-e:han ser arg ut:ő mérgesnek látszik
+mersvenska-10-e:jag har en stor och svår tenta på måndag:nekem van egy nagy és nehéz vizsgám hétfőn
+mersvenska-10-e:är du konstintresserad:te művészetek iránt érdeklődő vagy?
+mersvenska-10-e:han är som konstnär:ő mint művész
+mersvenska-10-e:dessutom jobbade jag i går kväll:továbbá dolgoztam tegnap este
+mersvenska-10-e:jag känner mig lite trött:kicsit fáradtnak érzem magam
+mersvenska-10-e:de har mycket mer än bara kött:nekik van sokkal több mint csak hús
+mersvenska-10-e:maten är verkligen jättegod:az étel valóban(igazán) nagyon finom
+mersvenska-10-e:jag var hemma och städade:én otthon voltam és takarítottam
+mersvenska-10-e:jag hörde inte telefonen när jag dammsög:nem hallottam a telefont amikor pórszívóztam
+mersvenska-10-e:det fungerar som någon typ av terapi:ez működik mint valamilyen fajta terápia
+mersvenska-10-e:du är välkommen hem till oss när som helst:szivesen fogadunk otthon nálunk bármikor
+mersvenska-10-e:var är det någonstans:hol van az?
+mersvenska-10-e:han ser glad ut:ő boldognak tűnik
+mersvenska-10-e:han ser tårar på hans kind:ő lát könnyeket az ő arcán
+mersvenska-10-e:för honom är det första gången:számára ez az első alkalom
+mersvenska-10-e:nu hör de den tredje ringningen:most hallják ők a harmadik csöngetést
+mersvenska-10-e:han tar fram en liten näsduk ur fickan och torkar sig i pannan:ő elővesz egy kis zsepkendőt a zsebéből és megtörli magát a homlokán
+mersvenska-10-e:han ser lugn och koncentrerad ut:ő nyugodtnak és koncentráltnak néz ki
+mersvenska-10-e:de kramar om varandra:ők átölelik egymást
+mersvenska-10-e:de verkar vara vänner igen:ők látszanak lenni barátok megint
+mersvenska-10-e:nej, det visste jag inte:nem, ezt nem tudtam
+
+
+mersvenska-12-w-substantiv:en sevärdhet:látnivaló -
+mersvenska-12-w-substantiv:en älv:folyó -
+
+mersvenska-12-w-verb:försjunka:elmélyed -
+
+mersvenska-12-w-adjektiv:kladdig:ragacsos -
+mersvenska-12-w-adjektiv:mysig:barátságos, kellemes -
+mersvenska-12-w-adjektiv:miljövänlig:környezetbarát -
+
+mersvenska-12-w-hatarozo:redan:már
+
+mersvenska-12-e:de trycker på sina mobiler:nyomogatják a mobiljukat
+mersvenska-12-e:eller minns jag fel:vagy rosszúl emlékszem?
+mersvenska-12-e:du minns helt rätt:teljesen jól emlékszel
+mersvenska-12-e:förutom de senaste månaderna:kivéve az utobbi hónapokat
+mersvenska-12-e:jag erkänner gärna att:készséggel elismerem hogy...
+mersvenska-12-e:jag måste erkänna att jag saknar havet:el kell ismernem, hogy hiányzik a tenger
+mersvenska-12-e:saknar du inget i staden:te hiányolsz valami a városból?
+mersvenska-12-e:till och med:sőt még ... is
+mersvenska-12-e:jag ska åka tåg hela vägen dit:vonattal megyek egész uton oda
+mersvenska-12-e:det låter trevligt:kellemesnek hangzik
+mersvenska-12-e:synd att jag inte kan följa med:milyen kár, hogy nem tudlak követni
+mersvenska-12-e:jag lovar att berätta om alla detaljer:megigérem, hogy beszámolok minden részletről
+mersvenska-12-e:alla är försjunkna i egna tankar:mindenki belemerül a saját gondolataiba
+mersvenska-12-e:som ni vet var jag hemma:mint ahogy tudjátok, voltam otthon
+mersvenska-12-e:jag minns inte så mycket av det:nem emlékszem sokra belőle
+mersvenska-12-e:förutom att jag åt en väldigt stor glass:kivéve, hogy ettem egy óriási nagy fagyit
+mersvenska-12-e:jag kommer fortfarande ihåg det:még mindig emlékszem rá
+mersvenska-12-e:vi ses om tio dagar:mi találkozunk tíz nap múlva
+mersvenska-12-e:det verkar som om det bara är jag som inte har varit där:úgy tűnik, csak én vagyok aki nem volt még ott
+mersvenska-12-e:ingen är perfekt:semmi sem tökéletes
+mersvenska-12-e:vi har gott om pengar:sok pénzünk van
+mersvenska-12-e:vi har ont om pengar:kevés pénzünk van
+mersvenska-12-e:jag hör av mig senare:tartjuk a kapcsolatot
+mersvenska-12-e:jag ser på staden på mitt sätt:én nézek a városra az én módomon
+mersvenska-12-e:en turist ser på staden med andra ögon:egy turista néz a városra más szemmel
+mersvenska-12-e:jag är nöjd med att jag valde det:én elégedett vagyok hogy ezt választottam
+mersvenska-12-e:det flyter en flod genom staden:egy folyó folyik végig a városon
+mersvenska-12-e:men den här gången flög jag:de ebben az esetben repültem
+mersvenska-12-e:i min lägenhet råder total kaos:a lakásomban teljes káosz uralkodik
+
+
+
+mersvenska-16-w-substantiv:en förändring:változás, átalakulás -
+mersvenska-16-w-substantiv:ett välfärdssamhälle:jóléti társadalom -
+mersvenska-16-w-substantiv:en befolkning:népesség, lakosság -
+mersvenska-16-w-substantiv:en vetenskap:tudomány -
+mersvenska-16-w-substantiv:ett självförtroende:önbizalom -
+mersvenska-16-w-substantiv:ett välbefinnande:jó közérzet -
+mersvenska-16-w-substantiv:en sanning:igazság -
+mersvenska-16-w-substantiv:ett samvete:lelkiismeret -
+
+
+mersvenska-16-w-verb:tugga:rág -
+mersvenska-16-w-verb:undervisa:	tanít, oktat -
+
+
+mersvenska-16-w-adjektiv:överraskad:meglepett, meglepődött -
+mersvenska-16-w-adjektiv:flitig:szorgalmas -
+
+
+mersvenska-16-e:vem kan veta vad som händer i framtiden:ki tudja mi történik a jövőben
+mersvenska-16-e:jag skulle vilja höra om ni har funderat på vad ni ska göra i framtiden:azt szeretném hallani, hogy gondolkodtatok-e mit fogtok csinálni a jövöben
+mersvenska-16-e:det är inget för mig:ez nem nekem való
+mersvenska-16-e:det är dags att börja tänka på framtiden:itt az idő, elkezdeni gondolkodni a jövőről
+mersvenska-16-e:han tar en klunk:ő kortyol egyet
+mersvenska-16-e:men det är såvitt jag har förstått ett väldigt brett ämne:de, ez, amennyiben jól értettem, egy hatalmas átfogó téma
+mersvenska-16-e:jag menar det verkligen:én komolyan gondolom
+mersvenska-16-e:jag har ingen aning:nincs ötletem
+mersvenska-16-e:och vem hade kunnat tro att:és ki gondolta volna, hogy ...
+mersvenska-16-e:röra sig:mozgati magát
+mersvenska-16-e:jag är inte van vid fester:nem vagyok bulikhoz szokva
+
+
+
+
+pellehjelper-w-substantiv:en riddare, riddaren, riddare, riddarna:lovag
+pellehjelper-w-substantiv:en medeltid, medeltiden:középkor - -
+pellehjelper-w-substantiv:en rustning, rustningen, rustningar, rustningarna:páncélzat
+pellehjelper-w-substantiv:en kärra:taliga, kordély -
+pellehjelper-w-substantiv:en vagn, vagnen, vagnar, vagnarna:kocsi
+pellehjelper-w-substantiv:en trakt:tájék, környék -
+pellehjelper-w-substantiv:ett spjut:dárda -
+pellehjelper-w-substantiv:ett svärd:kard -
+pellehjelper-w-substantiv:en vinge, vingen, vingar, vingarna:szárny
+pellehjelper-w-substantiv:en klo, klon, klor, klorna:karom
+pellehjelper-w-substantiv:en eld, elden, eldar, eldarna:tűz
+pellehjelper-w-substantiv:ett armborst:számszeríj -
+pellehjelper-w-substantiv:ett knep:fortély, trükk -
+pellehjelper-w-substantiv:en pepparburk:borsszóró -
+pellehjelper-w-substantiv:en pil, pilen, pilar, pilarna:nyílvessző
+pellehjelper-w-substantiv:ett moln:felhő -
+pellehjelper-w-substantiv:ett fyrverkeri, fyrverkeriet, fyrverkerier, fyrverkerierna:tűzijáték
+pellehjelper-w-substantiv:en borgmästare, borgmästaren, borgmästare, borgmästarna:polgármester
+pellehjelper-w-substantiv:en strid, striden, strider, striderna:harc
+
+
+pellehjelper-w-verb:våga, vågar, vågade, vågat, våga:mer, merészel
+pellehjelper-w-verb:befria:kiszabadít -
+pellehjelper-w-verb:spruta:kilövell -
+pellehjelper-w-verb:rädda:megment -
+pellehjelper-w-verb:slockna:kialszik, kihuny -
+pellehjelper-w-verb:skjuta, skjuter, sköt, skjutit, skjut:lő
+pellehjelper-w-verb:nysa, nyser, nös, nyst, nys:tüsszent, tüsszög
+pellehjelper-w-verb:samla:gyűjt, szed -
+pellehjelper-w-verb:skryta, skryter, skröt, skrutit, skryt:kérkedik, henceg
+
+pellehjelper-w-adjektiv:otäck, otäckt, otäcka:förtelmes, rémisztő, kellemetlen
+pellehjelper-w-adjektiv:stekt, stekt, stekta:sült
+pellehjelper-w-adjektiv:stackars:szegény, szerencsétlen
+pellehjelper-w-adjektiv:sotig, sotigt, sotiga:kormos
+pellehjelper-w-adjektiv:besegrad, besegrat, besegrade:legyőzött, megvert
+
+pellehjelper-w-hatarozoszo:någonstans:valahol
+pellehjelper-w-hatarozoszo:förstås:természetesen
+pellehjelper-w-hatarozo:egentligen:tulajdonképpen, valójában
+
+pellehjelper-e:den måste vara tung att gå omkring med:biztos nehéz vele járkálni
+pellehjelper-e:tänk om du hade varit där:képzeld el ha ott lettél volna
+pellehjelper-e:den här sorten:ez a fajta
+pellehjelper-e:det går nog inte:ez nem elég
+pellehjelper-e:rakt i näsan på draken:egyenesen az orrába a sárkánynak
+pellehjelper-e:det är värt att pröva:ezt megéri kipróbálni
+pellehjelper-e:det blev mitt i prick:ez lett telitalálat
+pellehjelper-e:jag visste inte att de var så stora:én nem tudtam, hogy ők voltak ilyen nagyok
+pellehjelper-e:det finns de som är ännu större:vannak azok akik még nagyobbak
+pellehjelper-e:till slut slocknade elden:végul kialudt a tűz
+pellehjelper-e:ädle riddare:nemes lovag
+pellehjelper-e:tack för att ni räddade mitt liv:köszönöm, hogy ti megmentettétek az én életemet
+pellehjelper-e:folket måste få reda på nyheten:a népnek kell megkapni a hírt
+pellehjelper-e:han var inlåst in tornet:ő volt bezárva a toronyba
+pellehjelper-e:alla samlades på torget:mindenki összegyült a téren
+pellehjelper-e:ingen behövde vara rädd för honom längre:senkinek sem kellett félnie töle többé
+pellehjelper-e:vi måste komma på ett bra knep:nekünk kell kitalálni egy jó trükköt
 
 
 kanduvissla-w-substantiv:en ordföljd:szórend -
@@ -337,6 +842,22 @@ kanduvissla-w-substantiv:ett hängsle:nadrágtartó -
 kanduvissla-w-substantiv:en knoge, knogen, knogar, knogarna:ujjízület, ujjperc
 kanduvissla-w-substantiv:en portmonnä:pénztárca -
 kanduvissla-w-substantiv:en ruta:négyszög, ablak -
+kanduvissla-w-substantiv:en skorsten, skorstenen, skorstenar, skorstenarna:kémény
+kanduvissla-w-substantiv:en rullstol:tolószék, kerekesszék -
+kanduvissla-w-substantiv:ett förråd:raktár -
+kanduvissla-w-substantiv:en gråsparv, gråsparven, gråsparvar, gråsparvarna:veréb
+kanduvissla-w-substantiv:ett skaft:nyél -
+kanduvissla-w-substantiv:ett snöre:zsineg -
+kanduvissla-w-substantiv:en tråd, tråden, trådar, trådarna:cérna, fonal
+kanduvissla-w-substantiv:en sjal, sjalen, sjalar, sjalarna:vállkendő, fejkendő 
+kanduvissla-w-substantiv:ett tyg:szövet -
+kanduvissla-w-substantiv:en hustru, hustrun, hustrur, hustrurna:feleség
+kanduvissla-w-substantiv:ett siden, sidenet:selyem - -
+kanduvissla-w-substantiv:en pinne, pinnen, pinnar, pinnarna:fadarab, bot
+kanduvissla-w-substantiv:en buske, busken, buskar, buskarna:bokor, cserje 
+kanduvissla-w-substantiv:en gren, grenen, grenar, grenarna:ág, gally
+kanduvissla-w-substantiv:en slips, slipsen, slipsar, slipsarna:nyakkendő
+kanduvissla-w-substantiv:ett håll:távolság, irány -
 
 kanduvissla-w-verb:gunga:hintázik -
 kanduvissla-w-verb:kika:néz, kukucskál -
@@ -355,18 +876,31 @@ kanduvissla-w-verb:skutta:ugrál, szökdécsel -
 kanduvissla-w-verb:nypa, nyper, nöp, nypit, nyp:megcsíp
 kanduvissla-w-verb:rinna, rinner, rann, runnit, rinn:folyik, csordogál
 kanduvissla-w-verb:stryka, stryker, strök, strukit, stryk:megsimogat, végigsimít
+kanduvissla-w-verb:kisa:hunyorít, hunyorog -
+kanduvissla-w-verb:smyga, smyger, smög, smugit, smyg:lopakodik, oson
+kanduvissla-w-verb:väga, väger, vägde, vägt, väg:mér, megmér, súlya van, nyom
+kanduvissla-w-verb:spänna, spänner, spände, spänt, spänn:feszít, kifeszít
+kanduvissla-w-verb:vila:pihen -
+
 
 kanduvissla-w-adjektiv:smaklig:ízletes -
 kanduvissla-w-adjektiv:mysig:barátságos, hangulatos, kellemes -
 kanduvissla-w-adjektiv:blöt, blött, blöta:vizes, nedves
 kanduvissla-w-adjektiv:vaken, vaket, vakna:ébren lévő, éber
 kanduvissla-w-adjektiv:dammig, dammigt, dammiga:poros, régi, régimódi
+kanduvissla-w-adjektiv:stående:álló, mozdulatlan
+kanduvissla-w-adjektiv:väldig, väldigt, väldiga:óriási, hatalmas
+kanduvissla-w-adjektiv:tunn, tunt, tunna:vékony, keskeny
+kanduvissla-w-adjektiv:len, lent, lena:puha
+kanduvissla-w-adjektiv:belåten, belåtet, belåtna:elégedett
+kanduvissla-w-adjektiv:äkta:igazi, eredeti, valódi
 
 kanduvissla-w-nevmas:detsamma:ugyanez
 
 kanduvissla-w-hatarozo:möjligtvis:talán, esetleg, alkalmasint
 kanduvissla-w-hatarozo:småningom:lassanként, lassacskán
 kanduvissla-w-hatarozo:ändå:úgyis, mégis
+kanduvissla-w-hatarozo:nämligen:ugyanis, tudniillik
 
 kanduvissla-w-prepozicio:nerför:le, lefelé
 
@@ -386,7 +920,10 @@ kanduvissla-e:det gör inget:nem számít
 kanduvissla-e:i smyg:titokban, titkon
 kanduvissla-e:det är synd:kár
 kanduvissla-e:smaklig måltid:jóétvágyat
-
+kanduvissla-e:det vet man aldrig:soha sem tudhatod
+kanduvissla-e:knyta skorna:bekötni a cipőket
+kanduvissla-e:han blir stående:ő mozdulatlanná válik
+kanduvissla-e:glöm det aldrig:soha ne felejtsd el!
 
 
 
@@ -449,7 +986,7 @@ narpappa-e:spärra upp:tágra nyitni
 
 
 tafastfabian-w-substantiv:ytterkläder, ytterkläderna:kabát, felsőruha - -
-tafastfabian-w-substantiv:ett knep:fortély, trükk -
+tafastfabian-w-substantiv:ett knep:fortély, trükk-
 tafastfabian-w-substantiv:en vaktmästare: gondnok, karbantartó, jegyszedő -
 tafastfabian-w-substantiv:ett nöjesfält:vidámpark -
 tafastfabian-w-substantiv:en trumslagare:dobos -
